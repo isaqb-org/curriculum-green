@@ -2,7 +2,7 @@
 :icons: font
 :sectnumlevels: 2
 :imagesdir: images
-:chapter-label: 
+:chapter-label:
 
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
@@ -12,7 +12,7 @@
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: GREEN
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: MODULNAME IN VOLLER LAENGE
