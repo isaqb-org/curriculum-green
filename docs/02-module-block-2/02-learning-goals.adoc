@@ -3,28 +3,25 @@
 // tag::DE[]
 [[LZ-2-1]]
 ==== LZ 2-1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
-
-[[LZ-2-2]]
-==== LZ 2-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+Die Teilnehmer...
+* (R2) kennen die globalen Herausforderungen bzgl. Klima und Energie
+* (R2) kennen die Anforderungen der Politik und Dritter
+* (R1) kennen das Greenhouse Gas Protocol und können Ressourcenverbrauch den verschiedenen Scopes zuordnen
+* (R2) kennen die Anforderungen der verschiedenen Stakeholder und können deren Ziele einordnen
+* (R3) kennen Handlungsfelder, um Green Software im Unternehmen zu platzieren
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-1]]
 ==== LG 2-1: TBD
-tbd.
+Participants...
+* (R2) know the global challenges regarding climate and energy
+* (R2) know the requirements of politics and third parties
+* (R1) know the Greenhouse Gas Protocol and can allocate resource use to the different scopes
+* (R2) know the requirements of the different stakeholders and can classify their goals
+* (R3) know fields of action in order to place Green Software in the company
 
-[[LG-2-2]]
-==== LG 2-2: TBD
-tbd.
 // end::EN[]
 
 [NOTE]
