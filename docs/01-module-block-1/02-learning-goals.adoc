@@ -3,13 +3,11 @@
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+Die Teilnehmer...
+* (R2) verstehen die Möglichkeiten zur Einsparung durch Digitalisierung
+* (R2) können den Energieverbrauch von ICT in Relation zu anderen Sektoren einordnen
+* (R2) können den Energieverbrauch von ICT beziffern und deren Treiber benennen
+* (R1) kennen Begriffe wie CO2, CO2-Äquivalente, Watt, Joule und deren Bedeutung
 
 
 // end::DE[]
@@ -17,7 +15,12 @@ wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Litera
 // tag::EN[]
 [[LG-1-1]]
 ==== LG 1-1: The is the first learning goal, in category xy
-tbd.
+Participants...
+* (R2) understand the possibilities for savings through digitalisation.
+* (R2) can classify the energy consumption of ICT in relation to other sectors
+* (R2) can quantify the energy consumption of ICT and name its drivers
+* (R1) know terms like CO2, CO2-equivalents, Watt, Joule and their meaning.
+
 // end::EN[]
 
 [NOTE]
