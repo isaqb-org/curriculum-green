@@ -3,17 +3,16 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme
+- Erste praktische Erfahrung beim Monitoring von Softwaresystemen
+- Praktische Erfahrung in der Entwicklung mit Java
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Kenntnisse im Umgang mit JVM-basierten Programmiersprachen
+- Erste praktische Erfahrung mit gängigen Cloud-Anbietern
+- Erste praktische Erfahrung mit CI/CD-Pipelines.
+
 // end::DE[]
 
 // tag::EN[]
@@ -21,17 +20,16 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Practical experience in the design and development of small to medium-sized software systems
+- First practical experience in monitoring software systems
+- Practical experience in development with Java
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+- Knowledge in dealing with JVM-based programming languages
+- First practical experience with common cloud providers
+- First practical experience with CI/CD pipelines.
+
 // end::EN[]
 
 [NOTE]
