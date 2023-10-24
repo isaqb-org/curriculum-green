@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Basiskonzepte Energie
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Basic concepts energy
 // end::EN[]
 
 
