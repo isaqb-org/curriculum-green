@@ -1,21 +1,20 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 60 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
-
+Energieeffizienz, Zertifizierungen (z. B. Blauer Engel), Anforderungen der Politik (z. B. CRSD, ESG), Greenhouse Gas Protocol, GREENSOFT Model
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 0 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Energy efficiency, Certifications (e.g. Blue Angel), Policy requirements (e.g. CRSD, ESG), Greenhouse Gas Protocol, GREENSOFT Model
 
 // end::EN[]
 
