@@ -1,20 +1,21 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 60 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Verbrauch von ICT, Einsparungen durch ICT, Nachhaltigkeit, CO2, CO2-Äquivalente, negative externe Effekte, Watt, Joule, Effizienz, Effektivität
+
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 0 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Consumption of ICT, Savings through ICT, Sustainability, CO2, CO2 equivalents, Negative externalities, Watts, Joules, Efficiency, Effectiveness
 // end::EN[]
 
 
