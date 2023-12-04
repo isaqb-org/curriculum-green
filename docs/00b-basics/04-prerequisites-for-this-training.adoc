@@ -5,7 +5,7 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 - Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme
 - Erste praktische Erfahrung beim Monitoring von Softwaresystemen
-- Praktische Erfahrung in der Entwicklung mit Java
+- Praktische Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
@@ -22,7 +22,7 @@ Participants **should** have the following prerequisite knowledge:
 
 - Practical experience in the design and development of small to medium-sized software systems
 - First practical experience in monitoring software systems
-- Practical experience in development with Java
+- Practical experience in development with an object-oriented programming language
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 

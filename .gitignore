@@ -7,6 +7,5 @@ advanced-template.iml
 .settings/org.eclipse.buildship.core.prefs
 .project
 learning-objectives.adoc
-.vscode/settings.json
-bin/main/org/isaqb/asciidoc/Main.class
-bin/main/org/isaqb/asciidoc/Main$1.class
+.vscode
+bin
