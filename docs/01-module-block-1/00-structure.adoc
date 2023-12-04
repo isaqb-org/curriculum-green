@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Basiskonzepte Energie
+== Chancen der Digitalisierung, die Rolle der IKT, Basiskonzepte 
 // end::DE[]
 
 // tag::EN[]
-== Basic concepts energy
+== TODO
 // end::EN[]
 
 

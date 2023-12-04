@@ -2,28 +2,24 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Dies ist das erste Lernziel, in Kategorie xy
-Die Teilnehmer...
-* (R2) verstehen die Möglichkeiten zur Einsparung durch Digitalisierung
-* (R2) können den Energieverbrauch von ICT in Relation zu anderen Sektoren einordnen
-* (R2) können den Energieverbrauch von ICT beziffern und deren Treiber benennen
-* (R1) kennen Begriffe wie CO2, CO2-Äquivalente, Watt, Joule und deren Bedeutung
+Möglichkeiten zur Einsparung von Energie durch Digitalisierung
 
+Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO2 durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren.
+
+[[LZ-1-2]]
+Energieverbrauch von IKT einordnen, beziffern und deren Treiber benennen
+
+Die Teilnehmenden können den Energieverbrauch der Informations- und Kommunikationstechnik (IKT) beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IKT und zentrale Stellschrauben.
+
+[[LZ-1-3]]
+Basiskonzepte
+
+Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO2-Fußabdruck und -Handabdruck einordnen. Wichtige Kennzahlen und physikalische Einheiten wie CO2, CO2-Äquivalente, Watt, Joule und deren Bedeutung werden verstanden.
 
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-1]]
-==== LG 1-1: The is the first learning goal, in category xy
-Participants...
-* (R2) understand the possibilities for savings through digitalisation.
-* (R2) can classify the energy consumption of ICT in relation to other sectors
-* (R2) can quantify the energy consumption of ICT and name its drivers
-* (R1) know terms like CO2, CO2-equivalents, Watt, Joule and their meaning.
+[[LG-1-x]]
+TODO
 
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
