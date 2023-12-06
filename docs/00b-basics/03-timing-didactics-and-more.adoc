@@ -5,10 +5,10 @@ Bitte in dieser Datei nur die "**?**"-Platzhalter durch die Anzahl der Tage sowi
 ====
 
 
-:recommended-duration-in-days: **?**
-:methodical-credits: **?**
-:technical-credits: **?**
-:communicative-credits: **?**
+:recommended-duration-in-days: 2
+:methodical-credits: 10
+:technical-credits: 10
+:communicative-credits: 0
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
