@@ -1,8 +1,11 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Galt die IT lange Zeit als Lösung vieler Probleme, die in Zusammenhang mit dem Klimawandel stehen, ist sie mittlerweile selbst Gegenstand von Optimierungsbetrachtungen geworden. Ineffiziente Programmierung, oft hervorgerufen durch die Notwendigkeit eines schnellen Time-to-market, wurde vielfach durch immer schnellere Prozessoren, mehr Hauptspeicher oder schlicht mehr Ressourcen in der Cloud kompensiert. Diesen Weg gilt es zu verlassen und die CO₂-Emissionen, für die Software verantwortlich ist, müssen konsequent reduziert werden.
+
+Im Modul {curriculum-short} lernen die Teilnehmenden, das Thema Green Software ganzheitlich zu betrachten. Beginnend mit der Einführung in die Regulatorik, Anforderung verschiedener Stakeholder und der Benennung von Handlungsfeldern in Unternehmen über das Messen von CO2-Emmissionen bzw. Energieverbrauch hin zum Kernthema der Softwareentwicklung. In dieses Themengebiet fällt die Energieeffizienz verschiedener Softwarearchitekturen sowie grundlegender verwendeter Konzepte, energieeffiziente Datenstrukturen und Algorithmen aber auch der Einfluss und das Management von Qualitätsanforderungen auf Energieeffizienz.
+Ein weiterer wichtiger Bestandteil ist das Thema Cloud, sowohl bezüglich Auswahl des Providers als auch die Möglichkeiten zum CO2-armen Betrieb darin. Zuletzt finden Möglichkeiten zur Verbesserung der Energieeffizienz im Entwicklungsprozess Betrachtung.
+
 // end::DE[]
 
 // tag::EN[]
@@ -10,11 +13,6 @@ Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 
 The module presents {curriculum-short} to the participants …
 At the end of the module, the participants know … and are able to …
+TODO
 // end::EN[]
 
-
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====

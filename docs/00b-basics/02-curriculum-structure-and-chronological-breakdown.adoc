@@ -4,14 +4,16 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
+| 1. Basiskonzepte Energie | 60
+| 2. Politik, Regulatorik, Stakeholder | 60
+| 3. Messungen und Monitoring | 90
+| 4. Softwareentwicklung | 120
+| 5. Softwarearchitektur und Qualitätsziele | 1500
+| 6. Cloud-Anbieter | 90
+| 7. Betrieb in der Cloud | 90
+| 8. Energieeffizienter Entwicklungsprozess | 60
 | |
-| Summe | 960 (16h)
+| Summe | 720 (12h)
 
 |===
 
@@ -24,24 +26,9 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
-| |
+TODO
 | Total | 960 (16h)
 
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====
