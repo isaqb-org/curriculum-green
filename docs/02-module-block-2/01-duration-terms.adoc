@@ -18,12 +18,3 @@ Energy efficiency, Certifications (e.g. Blue Angel), Policy requirements (e.g. C
 
 // end::EN[]
 
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

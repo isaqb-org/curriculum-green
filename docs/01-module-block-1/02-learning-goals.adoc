@@ -19,7 +19,5 @@ Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativ
 // end::DE[]
 
 // tag::EN[]
-[[LG-1-x]]
 TODO
-
 // end::EN[]
