@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: keine
+|===
+
+=== Begriffe und Konzepte
+Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomatisierung
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 60 min | Practice time: none
+|===
+
+=== Terms and Principles
+TODO
+
+// end::EN[]

@@ -1,0 +1,33 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-9-1]]
+==== LZ 9-1: CI/CD-Pipelines und Energieeffizienz
+Die Teilnehmenden kennen die Einflussfaktoren zur Energieeffizienz für CI/CD-Pipelines.
+
+[[LZ-9-2]]
+==== LZ 9-2: CI/CD-Pipelines und Energieeffizienz-Verbesserung
+Die Teilnehmenden kennen Maßnahmen zur Verbesserung der Energieeffizienz für CI-CD-Pipelines.
+
+[[LZ-9-3]]
+==== LZ 9-3: Testautomatisierung und Energieeffizienz
+Die Teilnehmenden kennen den Einfluss von Testautomatisierung auf die Energieeffizienz.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-9-1]]
+==== LG 9-1: TODO
+TODO
+
+[[LG-9-2]]
+==== LG 9-2: TODO
+TODO
+
+[[LG-9-3]]
+==== LG 9-3: TODO
+TODO
+
+// end::EN[]
+
