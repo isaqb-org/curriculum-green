@@ -1,13 +1,13 @@
-// header file for curriculum section 5: Lerneinheit 5
+// header file for curriculum section 9: Lerneinheit 9
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Softwareentwicklung
+== Energieeffizienter Entwicklungsprozess
 // end::DE[]
 
 // tag::EN[]
-== Software development
+== TODO
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
