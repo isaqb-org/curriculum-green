@@ -3,32 +3,63 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
-
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== LZ 5-1: Programmiersprachen und Energieeffizienz
+Die Teilnehmenden kennen verschiedene Programmiersprachen und deren Energieeffizienz.
 
 [[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 5-2: Ahead-of-Time und Just-in-Time
+Die Teilnehmenden verstehen die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung und deren Implikationen.
+
+[[LZ-5-3]]
+==== LZ 5-3: Garbage-Collection
+Die Teilnehmenden kennen die Zielkonflikte von Garbage-Collectoren.
+
+[[LZ-5-4]]
+==== LZ 5-4: Rechnerische Komplexität und Energieeffizienz
+Die Teilnehmenden kennen die rechnerische Komplexität und können daraus Schlüsse zur Energieeffizienz ziehen.
+
+[[LZ-5-5]]
+==== LZ 5-5: Datenstrukturen / Operationen und Energieeffizienz
+Die Teilnehmenden können Datenstrukturen und Operationen darauf bezüglich Energieeffizienz einschätzen.
+
+[[LZ-5-6]]
+==== LZ 5-6: Caching und Energieeffizienz
+Die Teilnehmenden können Caching in Verbindung mit Energieeffizienz einsetzen.
+
+[[LZ-5-7]]
+==== LZ 5-7: Beispiele für Optimierungen
+Die Teilnehmenden kennen Beispiele für Optimierungen auf Ebene der Programmiersprache.
+
+
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: TBD
-tbd.
+==== LG 5-1: TODO
+TODO
 
 [[LG-5-2]]
-==== LG 5-2: TBD
-tbd.
+==== LG 5-2: TODO
+TODO
+
+[[LG-5-3]]
+==== LG 5-3: TODO
+TODO
+
+[[LG-5-4]]
+==== LG 5-4: TODO
+TODO
+
+[[LG-5-5]]
+==== LG 5-5: TODO
+TODO
+
+[[LG-5-6]]
+==== LG 5-6: TODO
+TODO
+
+[[LG-5-7]]
+==== LG 5-7: TODO
+TODO
 // end::EN[]
 
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
