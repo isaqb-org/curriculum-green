@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 90 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+Qualitätsziele, ISO 25010, Monolith, Microservices, Inter-Prozess-Kommunikation, Datenbanken
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 90 min | Practice time: 30 min
+|===
+
+=== Terms and Principles
+quality goals, ISO 25010, monolith, microservices, inter-prozess communication, databases
+
+// end::EN[]
