@@ -8,7 +8,7 @@
 | 2. Politik, Regulatorik, Stakeholder | 60
 | 3. Messungen und Monitoring | 90
 | 4. Softwareentwicklung | 120
-| 5. Softwarearchitektur und Qualitätsziele | 1500
+| 5. Softwarearchitektur und Qualitätsziele | 150
 | 6. Cloud-Anbieter | 90
 | 7. Betrieb in der Cloud | 90
 | 8. Energieeffizienter Entwicklungsprozess | 60
