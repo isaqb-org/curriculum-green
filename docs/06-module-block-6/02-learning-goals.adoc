@@ -1,0 +1,39 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-6-1]]
+==== LZ 6-1: Qualitätsmodelle und Energieeffizienz
+Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren und kennen die Wechselwirkungen mit anderen Qualitätsattributen.
+
+[[LZ-6-2]]
+==== LZ 6-2: Architekturstile und Energieeffizienz
+Die Teilnehmenden können unterschiedliche Architekturstile und deren Auswirkungen auf die Energieeffizienz einschätzen.
+
+[[LZ-6-3]]
+==== LZ 6-3: Kommunikation und Energieeffizienz
+Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation zwischen Bausteinen hinsichtlich Formaten, Protokollen und APIs und können deren Energieeffizienz einschätzen.
+
+[[LZ-6-4]]
+==== LZ 6-4: Datenbanken und Energieeffizienz
+Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und sind in der Lage Optimierungspotentiale bei Datenbanken zu identifizieren.
+// end::DE[]
+
+// tag::EN[]
+[[LG-6-1]]
+==== LG 6-1: TODO
+TODO
+
+[[LG-6-2]]
+==== LG 6-2: TODO
+TODO
+
+[[LG-6-3]]
+==== LG 6-3: TODO
+TODO
+
+[[LG-6-4]]
+==== LG 6-4: TODO
+TODO
+// end::EN[]
+

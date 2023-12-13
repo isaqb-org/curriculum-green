@@ -47,6 +47,12 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
+**Q**
+
+- [[[qmarc,arc42]]] arc42 Quality Model, https://quality.arc42.org
+
+- [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
 **S**
 
 - [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
