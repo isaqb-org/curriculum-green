@@ -1,10 +1,4 @@
 
-[NOTE]
-====
-Bitte in dieser Datei nur die "**?**"-Platzhalter durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen. Ansonsten keine Änderungen vornehmen!
-====
-
-
 :recommended-duration-in-days: 2
 :methodical-credits: 10
 :technical-credits: 10
