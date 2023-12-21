@@ -28,6 +28,7 @@ toc::[]
 
 == How to contribute or participate
 Create an issue, a merge- or pull-request. Clone the repository, including the submodule:
+
 +
 --
 [source,shell]
@@ -39,12 +40,6 @@ Via HTTPS:
 git clone https://github.com/isaqb-org/curriculum-green.git --recursive
 ----
 --
-
-== TODO
-
-. Open the file `./config/setup.adoc` to adjust configuration specific to your curriculum:
-.. `:curriculum-name: MODULNAME IN VOLLER LAENGE`: the full German title of your CPSA-A module. replace "MODULNAME IN VOLLER LAENGE" with your module name e.g. "Flexible Architecture Models - Microservices und Self-Contained Systems"
-.. `:curriculum-name: MODULNAME IN VOLLER LAENGE`: the full English title of your CPSA-A module. replace "MODULNAME IN VOLLER LAENGE" with your module name e.g. "Flexible Architecture Models - Microservices and Self-Contained Systems"
 
 == How to build the documents
 
