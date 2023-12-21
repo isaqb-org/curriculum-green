@@ -14,7 +14,7 @@ Die Teilnehmenden kennen Anforderungen, die verschiedene Ebenen der Politik an E
 [[LZ-2-3]]
 ==== LZ 2-3: Greenhouse Gas Protocol
 
-Die Teilnehmenden kennen das Greenhouse Gas Protocol. Sie sind in der Lage die Scopes zu erklären und Emmissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind.
+Die Teilnehmenden kennen das Greenhouse Gas Protocol. Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind.
 
 [[LZ-2-4]]
 ==== LZ 2-4: Anforderungen der Stakeholder

@@ -4,7 +4,7 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Möglichkeiten zur Einsparung von Energie durch Digitalisierung
 
-Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO2 durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren.
+Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~ durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Energieverbrauch von IKT einordnen, beziffern und deren Treiber benennen
@@ -14,7 +14,7 @@ Die Teilnehmenden können den Energieverbrauch der Informations- und Kommunikati
 [[LZ-1-3]]
 ==== LZ 1-3: Basiskonzepte
 
-Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO2-Fußabdruck und -Handabdruck einordnen. Wichtige Kennzahlen und physikalische Einheiten wie CO2, CO2-Äquivalente, Watt, Joule und deren Bedeutung werden verstanden.
+Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO~2~-Fußabdruck und -Handabdruck einordnen. Wichtige Kennzahlen und physikalische Einheiten wie CO~2~, CO~2~-Äquivalente, Watt, Joule und deren Bedeutung werden verstanden.
 
 // end::DE[]
 
