@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Messungen und Monitoring
+== Messen und Monitoring
 // end::DE[]
 
 // tag::EN[]
