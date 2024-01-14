@@ -2,19 +2,30 @@
 
 // tag::DE[]
 [[LZ-4-1]]
-==== LZ 4-1: Dies ist das erste Lernziel in Kapitel 4, das mit xyz
-
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== LZ 4-1: Energieeffizienz eines Rechenzentrums einschätzen
+Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen (R1)
 
 [[LZ-4-2]]
-==== LZ 4-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 4-2: Leistung-Last-Beziehung von Hardware
+Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware.
+
+[[LZ-4-3]]
+==== LZ 4-3: Server Idle Energy Coefficient berechnen und einschätzen
+Die Teilnehmenden können den Server Idle Energy Coefficient berechnen und einschätzen.
+
+[[LZ-4-4]]
+==== LZ 4-4: Ressourcen in Relation zur erbrachten Leistung  bringen
+Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen
+(Business-Metrik).
+
+[[LZ-4-5]]
+==== LZ 4-5: Verschiedene Kategorien von Messverfahren kennen
+Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und kennen deren Vor- und
+Nachteile.
+
+[[LZ-4-6]]
+==== LZ 4-6: Metrik Software Carbon Intensity
+Die Teilnehmenden kennen die Idee hinter der Metrik Software Carbon Intensity.
 
 // end::DE[]
 
@@ -28,7 +39,3 @@ tbd.
 tbd.
 // end::EN[]
 
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====
