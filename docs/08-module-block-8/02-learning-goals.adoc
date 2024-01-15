@@ -1,0 +1,56 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-8-1]]
+==== LZ 8-1: Cloud Antipatterns
+Die Teilnehmenden kennen die Herausforderungen in der Cloud und typische Anti-Pattern
+
+[[LZ-8-2]]
+==== LZ 8-2: Cloud Betriebs-Modelle
+Die Teilnehmenden kennen verschiedene Betriebsmodelle in der Cloud und deren Verhalten bzgl.
+Energieeffizienz
+
+[[LZ-8-3]]
+==== LZ 8-3: Cloud Resourcen
+Die Teilnehmenden kennen verschiedene Modelle zur Ressourcenbereitstellung
+
+[[LZ-8-4]]
+==== LZ 8-4: Cloud Native Development
+Die Teilnehmenden kennen wichtige Themen für die Cloud-Native Softwareentwicklung
+
+[[LZ-8-5]]
+==== LZ 8-5: Energie messen in der Cloud
+Die Teilnehmenden können den Energieverbrauch in der Cloud schätzen und messen
+
+[[LZ-8-6]]
+==== LZ 8-6: Kubernetes Optimierung
+Die Teilnehmenden kennen Beispiele für Optimierungen von Kubernetes-Clustern
+// end::DE[]
+
+// tag::EN[]
+[[LG-8-1]]
+==== LG 8-1: TODO
+TODO
+
+[[LG-8-2]]
+==== LG 8-2: TODO
+TODO
+
+[[LG-8-3]]
+==== LG 8-3: TODO
+TODO
+
+[[LG-8-4]]
+==== LG 8-4: TODO
+TODO
+
+[[LG-8-5]]
+==== LG 8-5: TODO
+TODO
+
+[[LG-8-6]]
+==== LG 8-6: TODO
+TODO
+// end::EN[]
+

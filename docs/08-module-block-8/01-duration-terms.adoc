@@ -1,0 +1,19 @@
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: 30 Min.
+|===
+
+=== Begriffe und Konzepte
+Überprovisionierung, Auswahl geeigneter Ressourcen, Workloads, Bin-Packing, On-Demand, On-Prediction, On-Coincidenz, On-Availability, Hochverfügbarkeit, Peak Shaving
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 60 min | Practice time: 30 min
+|===
+
+=== Terms and Principles
+TODO
+
+// end::EN[]
