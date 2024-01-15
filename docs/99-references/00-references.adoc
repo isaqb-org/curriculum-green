@@ -39,6 +39,14 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
+**E**
+
+- [[[eereport, energy efficiency report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
+
+**G**
+
+- [[[greengrid, Power Usage Effectiveness 2007]]] Power Usage Effectiveness, https://en.wikipedia.org/wiki/Power_usage_effectiveness
+
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
