@@ -1,3 +1,3 @@
 === {references}
 
-<<bitcom1>>, <<brundtland>>
+<<bitkom>>, <<brundtland>>
