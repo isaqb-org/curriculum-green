@@ -1,13 +1,13 @@
-// header file for curriculum section 3: Lerneinheit 3
+// header file for curriculum section 7: Lerneinheit 7
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Der Titel des dritten Moduls
+== Cloud-Anbieter
 // end::DE[]
 
 // tag::EN[]
-== The Third Module's Title
+== Cloud Provider
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

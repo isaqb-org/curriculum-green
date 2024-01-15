@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Operations in cloud environments
+== Operations in Cloud Environments
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

@@ -8,7 +8,7 @@ Die Teilnehmenden kennen die verschiedenen Cloud-Service-Modelle und deren Aspek
 
 [[LZ-7-2]]
 ==== LZ 7-2: Cloud Deployment Modelle
-Die Teilnehmenden kkennen verschiedene Cloud-Deployment-Modelle.
+Die Teilnehmenden kennen verschiedene Cloud-Deployment-Modelle.
 
 [[LZ-7-3]]
 ==== LZ 7-3: CO2 Footprint der Cloud-Anbieter

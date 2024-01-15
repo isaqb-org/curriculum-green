@@ -1,11 +1,3 @@
-// tag::DE[]
-== Referenzen
-// end::DE[]
-
-// tag::EN[]
-== References
-// end::EN[]
-
 === {references}
 
 <<greengrid>>, <<eereport>>

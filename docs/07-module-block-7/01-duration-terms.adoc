@@ -14,6 +14,5 @@ Service-Modelle, Deployment-Modelle, Cloud-Provider, Cloud-Migration
 |===
 
 === Terms and Principles
-service models, deployment models, cloud providers, cloud migration
-
+TODO
 // end::EN[]
