@@ -32,8 +32,8 @@ ATTENTION: labels have to be non-numeric.
 
 **B**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[bitcom,bitcom 2021]]] bitcom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf.
+- [[[brundtland,Brundtland 1987]]] Brundtland, G. (1987): Report of the World Commission on Environment and Development: Our Common Future, http://www.un-documents.net/wced-ocf.htm
 
 **C**
 
