@@ -32,7 +32,7 @@ ATTENTION: labels have to be non-numeric.
 
 **B**
 
-- [[[bitkom,bitcom 2021]]] bitcom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf.
+- [[[bitkom,bitkom 2021]]] bitkom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf.
 - [[[brundtland,Brundtland 1987]]] Brundtland, G. (1987): Report of the World Commission on Environment and Development: Our Common Future, http://www.un-documents.net/wced-ocf.htm
 
 **C**
