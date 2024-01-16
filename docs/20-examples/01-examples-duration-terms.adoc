@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 60 Min. | Übungszeit: 0 Min.
 |===
 
 Dieser Abschnitt ist nicht prüfungsrelevant.
@@ -14,7 +14,7 @@ Art und Ausprägung der vorgestellten Beispiele können von der Schulung bzw. de
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 60 min | Practice time: 0 min
 |===
 
 This section is not examinable.
@@ -25,8 +25,3 @@ In every licensed training session, at least one example for {curriculum-short} 
 Type and structure of the examples presented may depend on the training and participants' interests.
 They are not prescribed by iSAQB.
 // end::EN[]
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen.
-====
