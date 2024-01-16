@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Verbrauch von ICT, Einsparungen durch IKT, Nachhaltigkeit, CO~2~, CO~2~-Äquivalente, negative externe Effekte, Watt, Joule, Effizienz, Effektivität
+Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachhaltigkeit, CO~2~, CO~2~-Äquivalente, negative externe Effekte, Watt, Joule, Effizienz, Effektivität
 
 
 // end::DE[]

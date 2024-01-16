@@ -4,12 +4,12 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Möglichkeiten zur Einsparung von Energie durch Digitalisierung
 
-Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~ durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren.
+Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~ durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren. Der Unterschied zwischen Einsparungen in der IT und durch die IT ist bekannt.
 
 [[LZ-1-2]]
-==== LZ 1-2: Energieverbrauch von IKT einordnen, beziffern und deren Treiber benennen
+==== LZ 1-2: Energieverbrauch von IT einordnen, beziffern und deren Treiber benennen
 
-Die Teilnehmenden können den Energieverbrauch der Informations- und Kommunikationstechnik (IKT) beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IKT und zentrale Stellschrauben.
+Die Teilnehmenden können den Energieverbrauch der Informationstechnik (IT) beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IT und zentrale Stellschrauben.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Basiskonzepte
