@@ -6,14 +6,14 @@
 | Inhalt | Empfohlene Mindestdauer (min)
 | 1. Basiskonzepte Energie | 60
 | 2. Politik, Regulatorik, Stakeholder | 60
-| 3. Qualitätsziele | ?
-| 4. Messungen und Monitoring | ?
-| 5. Softwareentwicklung | ?
-| 6. Softwarearchitektur | ?
+| 3. Qualität | 30
+| 4. Messungen und Monitoring | 90
+| 5. Softwareentwicklung | 120
+| 6. Softwarearchitektur | 120
 | 7. Cloud-Anbieter | 90
 | 8. Betrieb in der Cloud | 90
 | 9. Energieeffizienter Entwicklungsprozess | 60
-| 10. Beispiele | 60 
+| 10. Beispiele | 60
 | |
 | Summe | ?? 720 (12h)
 

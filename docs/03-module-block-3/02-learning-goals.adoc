@@ -2,19 +2,13 @@
 
 // tag::DE[]
 [[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+==== LZ 3-1: Qualitätsmodelle und Energieeffizienz
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren.
 
 [[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+==== LZ 3-2: Wechselwirkungen zwischen Qualitätsattributen
+Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen.
 
 // end::DE[]
 
@@ -27,8 +21,3 @@ tbd.
 ==== LG 3-2: TBD
 tbd.
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

@@ -1,30 +1,21 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 30 Min. | Übungszeit: 15 Min.
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010
 
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: XXX 30 | Practice time: 15 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+quality model, quality goal, szenario, ISO 25010
 
 // end::EN[]
 
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
