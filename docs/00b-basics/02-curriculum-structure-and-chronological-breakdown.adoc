@@ -13,8 +13,9 @@
 | 7. Cloud-Anbieter | 90
 | 8. Betrieb in der Cloud | 90
 | 9. Energieeffizienter Entwicklungsprozess | 60
+| 10. Beispiele | 60
 | |
-| Summe | 720 (12h)
+| Summe | ?? 720 (12h)
 
 |===
 

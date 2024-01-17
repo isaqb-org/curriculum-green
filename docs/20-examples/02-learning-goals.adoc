@@ -1,28 +1,19 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-98-1]]
-==== LZ 98-1: Dies ist das letzte Lernziel des Lehrplans
-Hier wird ein mögliches Lernziel der Beispiele beschrieben, was Teilnehmer:innen lernen sollen.
-Das kann in Prosa-Text in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen.
-Dabei kann auch unterschieden werden, wie wichtig einzelne Aspekte des Lernziels sind.
-Es kann hier bereits auf Literatur verwiesen werden.
+[[LZ-10-1]]
+==== LZ 10-1: Case Studies
+Die Teilnehmenden lernen ein oder mehrere Softwaresysteme kennen, bei denen Verfahren zum energieeffizienten und CO~2~-armen Betrieb zu Anwendung kommen. Dies können sowohl Neuentwicklungen (Greenfield-Implementierungen) also auch die Optimierung bestehender Systeme (Brownfield-Implementierungen) sein. Ebenso sind Beispiele für einen energieeffizienten Software-Entwicklungsprozess möglich.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* Energieffiziente Neuentwicklungen
+* Optimierung bestehender Systeme
+* Energieeffizienter Entwicklungsprozess
 
 // end::DE[]
 
 
 // tag::EN[]
-[[LG-98-1]]
-==== LG 98-1: Last learning goal of the curriculum
+[[LG-10-1]]
+==== LG 10-1: Case Studies
 // end::EN[]
 
-
-
-[NOTE]
-====
-KURZE ERKLÄRUNG ZU DEN ZIELEN DIESER LERNEINHEIT
-====
