@@ -4,12 +4,14 @@
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
 - Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme
-- Erste praktische Erfahrung beim Monitoring von Softwaresystemen
-- Praktische Erfahrung in der Entwicklung mit einer objektorientierten Programmiersprache
+- Kenntnisse über den Lebenszyklus von Softwaresystemen
+- Umgang mit Qualitätsanforderungen
+- Praktische Erfahrung beim Monitoring von Softwaresystemen
+- Praktische Programmiererfahrung
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisse im Umgang mit JVM-basierten Programmiersprachen
+- Erste praktische Erfahrungen mit Performance Engineering
 - Erste praktische Erfahrung mit gängigen Cloud-Anbietern
 - Erste praktische Erfahrung mit CI/CD-Pipelines.
 
@@ -20,19 +22,10 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Practical experience in the design and development of small to medium-sized software systems
-- First practical experience in monitoring software systems
-- Practical experience in development with an object-oriented programming language
+- TODO
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Knowledge in dealing with JVM-based programming languages
-- First practical experience with common cloud providers
-- First practical experience with CI/CD pipelines.
+- TODO
 
 // end::EN[]
-
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====

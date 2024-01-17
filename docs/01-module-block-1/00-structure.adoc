@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Chancen der Digitalisierung, die Rolle der IKT, Basiskonzepte 
+== Chancen der Digitalisierung, die Rolle der IT, Basiskonzepte 
 // end::DE[]
 
 // tag::EN[]
