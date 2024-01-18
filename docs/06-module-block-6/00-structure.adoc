@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Softwarearchitektur und Qualitätsziele
+== Softwarearchitektur
 // end::DE[]
 
 // tag::EN[]
-== Software architecture and quality goals
+== Software architecture
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

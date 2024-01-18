@@ -3,20 +3,39 @@
 
 // tag::DE[]
 [[LZ-6-1]]
-==== LZ 6-1: Qualitätsmodelle und Energieeffizienz
-Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren und kennen die Wechselwirkungen mit anderen Qualitätsattributen.
-
-[[LZ-6-2]]
-==== LZ 6-2: Architekturstile und Energieeffizienz
+==== LZ 6-1: Architekturstile und Energieeffizienz
 Die Teilnehmenden können unterschiedliche Architekturstile und deren Auswirkungen auf die Energieeffizienz einschätzen.
 
+* Stateless
+* Microservices
+* (strukturierter) Monolith
+* Serverless
+
+[[LZ-6-2]]
+==== LZ 6-2: Kommunikation und Energieeffizienz
+Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle hinsichtlich der Energieeffizienz einschätzen.
+
+* Datenkompression
+* Verwendung von Binärprotokollen
+* Reduzierung von Aufrufhäufigkeit und Datenvolumen
+* Synchrone versus asynchrone Kommunikation
+
 [[LZ-6-3]]
-==== LZ 6-3: Kommunikation und Energieeffizienz
-Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation zwischen Bausteinen hinsichtlich Formaten, Protokollen und APIs und können deren Energieeffizienz einschätzen.
+==== LZ 6-3: Datenbanken und Energieeffizienz
+Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und sind in der Lage Optimierungspotentiale bei Datenbanken zu identifizieren.
 
 [[LZ-6-4]]
-==== LZ 6-4: Datenbanken und Energieeffizienz
-Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und sind in der Lage Optimierungspotentiale bei Datenbanken zu identifizieren.
+==== LZ 6-4: Spezifische Green IT Pattern
+Die Teilnehmenden können die Patterns "Time Shifting" und "Peak Shaving" in Bezug auf deren Energieeffizienz bewerten und sind in der Lage diese in einem realen System einzusetzen.
+
+[[LZ-6-5]]
+==== LZ 6-5: Web Sustainability Guidelines
+Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz beim Web Design zu berücksichtigen sind in der Lage diese in ihren Anwendungen umzusetzen.
+
+* Browser Caching
+* Einsatz von CDN und Edge Caching
+* Dateiformate und graphische Elemente (Animationen)
+
 // end::DE[]
 
 // tag::EN[]

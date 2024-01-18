@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Qualitätsziele, ISO 25010, Monolith, Microservices, Inter-Prozess-Kommunikation, Datenbanken
+Monolith, Microservices, Serverless, Inter-Prozess-Kommunikation, Datenbanken
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Qualitätsziele, ISO 25010, Monolith, Microservices, Inter-Prozess-Kommunikation
 |===
 
 === Terms and Principles
-quality goals, ISO 25010, monolith, microservices, inter-prozess communication, databases
+monolith, microservices, serverless, communication, databases
 
 // end::EN[]

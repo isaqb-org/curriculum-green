@@ -47,6 +47,8 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[greengrid, Power Usage Effectiveness 2007]]] Power Usage Effectiveness, https://en.wikipedia.org/wiki/Power_usage_effectiveness
 
+- [[[gsfpatterns, GSF]]] Green Software Design Patterns https://patterns.greensoftware.foundation/
+
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
@@ -65,3 +67,4 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 
+- [[[sustyweb,W3C]]] Web Sustainability Guidelines (WSG) 1.0, https://w3c.github.io/sustyweb/
