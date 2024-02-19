@@ -8,7 +8,7 @@ Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitä
 
 [[LZ-3-2]]
 ==== LZ 3-2: Wechselwirkungen zwischen Qualitätsattributen
-Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen.
+Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen. Auf Basis dieser Erkenntnisse können sie Qualitätsanforderungen erkennen, die mit einander in Konflikt stehen und Lösungsalternativen erarbeiten um Konflikte zu abzuschwächen.
 
 // end::DE[]
 
