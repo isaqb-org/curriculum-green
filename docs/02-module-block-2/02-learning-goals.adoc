@@ -2,22 +2,17 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Globale Herausforderungen des Klimawandels
-
-Die Teilnehmenden kennen die globalen Herausforderungen des Klimawandels. Sie kennen den steigenden Energie- und Ressourcenbedarf der IT und deren wesentliche Treiber. Sie können erklären, wieso sich auch die IT mit dem Thema Resourcen- und Energieeffizienz beschäftigen muss.
-
-[[LZ-2-2]]
-==== LZ 2-2: Anforderungen der Politik und Dritter
+==== LZ 2-1: Anforderungen der Politik und Dritter
 
 Die Teilnehmenden kennen Anforderungen, die verschiedene Ebenen der Politik an Energieeffizienz stellen. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel. Sie können unterschiedliche Softwaresysteme Klassifizieren und Aufwand und Nutzen einer Optimierung erkennen. Sie können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben.
 
+[[LZ-2-2]]
+==== LZ 2-2: Greenhouse Gas Protocol
+
+Die Teilnehmenden kennen das Greenhouse Gas Protocol. Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
+
 [[LZ-2-3]]
-==== LZ 2-3: Greenhouse Gas Protocol
-
-Die Teilnehmenden kennen das Greenhouse Gas Protocol. Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind.
-
-[[LZ-2-4]]
-==== LZ 2-4: Anforderungen der Stakeholder
+==== LZ 2-3: Anforderungen der Stakeholder
 
 Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Vorteile. Sie kennen die Handlungsfelder, um Green Software im Unternehmen zu platzieren. 
 

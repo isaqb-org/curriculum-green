@@ -4,7 +4,7 @@
 
 
 // tag::DE[]
-== Chancen der Digitalisierung, die Rolle der IT, Basiskonzepte 
+== Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte 
 // end::DE[]
 
 // tag::EN[]
