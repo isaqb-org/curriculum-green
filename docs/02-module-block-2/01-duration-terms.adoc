@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Energieeffizienz, Zertifizierungen (z. B. Blauer Engel), Anforderungen der Politik (z. B. CRSD, ESG), Greenhouse Gas Protocol, GREENSOFT Model
+Energieeffizienz, Zertifizierungen (z. B. Blauer Engel, TCO), Anforderungen der Politik (z. B. CRSD), Greenhouse Gas Protocol
 
 // end::DE[]
 
@@ -14,7 +14,7 @@ Energieeffizienz, Zertifizierungen (z. B. Blauer Engel), Anforderungen der Polit
 |===
 
 === Terms and Principles
-Energy efficiency, Certifications (e.g. Blue Angel), Policy requirements (e.g. CRSD, ESG), Greenhouse Gas Protocol, GREENSOFT Model
+Energy efficiency, Certifications (e. g. Blue Angel, TCO), Policy requirements (e. g. CRSD), Greenhouse Gas Protocol
 
 // end::EN[]
 
