@@ -4,31 +4,15 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Programmiersprachen und Energieeffizienz
-Die Teilnehmenden kennen verschiedene Programmiersprachen und deren Energieeffizienz.
+Die Teilnehmenden kennen verschiedene Programmiersprachen und deren Energieeffizienz. Sie können einschätzen, für welche Einsatzgebiete bestimmte Arten von Programmiersprachen geeignet sind. Die Teilnehmenden verstehen die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung und deren Implikationen. Sie kennen die Zielkonflikte von Garbage-Collectoren. Die Teilnehmenden können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. 
 
 [[LZ-5-2]]
-==== LZ 5-2: Ahead-of-Time und Just-in-Time
-Die Teilnehmenden verstehen die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung und deren Implikationen.
+==== LZ 5-2: Algorithmen und Datenstrukturen
+Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können Algotithmen bezüglich ihrer Laufzeit- und Energieeffizienz bewerten und auswählen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. 
 
 [[LZ-5-3]]
-==== LZ 5-3: Garbage-Collection
-Die Teilnehmenden kennen die Zielkonflikte von Garbage-Collectoren.
-
-[[LZ-5-4]]
-==== LZ 5-4: Rechnerische Komplexität und Energieeffizienz
-Die Teilnehmenden kennen die rechnerische Komplexität und können daraus Schlüsse zur Energieeffizienz ziehen.
-
-[[LZ-5-5]]
-==== LZ 5-5: Datenstrukturen / Operationen und Energieeffizienz
-Die Teilnehmenden können Datenstrukturen und Operationen darauf bezüglich Energieeffizienz einschätzen.
-
-[[LZ-5-6]]
-==== LZ 5-6: Caching und Energieeffizienz
-Die Teilnehmenden können Caching in Verbindung mit Energieeffizienz einsetzen.
-
-[[LZ-5-7]]
-==== LZ 5-7: Beispiele für Optimierungen
-Die Teilnehmenden kennen Beispiele für Optimierungen auf Ebene der Programmiersprache.
+==== LZ 5-3: Optimierungen
+Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Opimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenswerten Zielen unterscheiden. Die Teilnehmenden können Caches in Verbindung mit Energieeffizienz einsetzen, kennen deren Funktionsweise (z. B. Cache-Ersetzung) sowie die Vor- und Nachteile. Sie kennen Möglichkeiten und Grenzen von Werkzeugen zum Aufdecken von Energy Code Smells.
 
 
 // end::DE[]
@@ -46,20 +30,5 @@ TODO
 ==== LG 5-3: TODO
 TODO
 
-[[LG-5-4]]
-==== LG 5-4: TODO
-TODO
-
-[[LG-5-5]]
-==== LG 5-5: TODO
-TODO
-
-[[LG-5-6]]
-==== LG 5-6: TODO
-TODO
-
-[[LG-5-7]]
-==== LG 5-7: TODO
-TODO
 // end::EN[]
 
