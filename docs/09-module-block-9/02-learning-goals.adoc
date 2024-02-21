@@ -2,6 +2,32 @@
 
 
 // tag::DE[]
+
+
+
+Infrastruktur-Optimierung:
+Ressourcen Vorteile von Containern gegenüber VMs in Testumgebungen.
+Sinnvolle Dimensionierung von Testdaten und Testumgebungen.
+Verwendung von Caching in Bezug auf Buildartefakte und Testartefakte.
+Einsatz vorkonfigurierter Images für Test und Entwicklungsumgebung statt wiederholtem Aufsetzen von Umgebungen mit jedem Build für die Testumgebung.
+Regelmäßiges Archiviren oder Löschen nicht mehr benötigter Artefakte, Branch-Historien, Testdaten usw.
+Sicherstellen, dass das Testumgebungen und Deployment-Ziele örtlich nahe der Zielgruppe liegen.
+
+Zeit- und Ressourcenmanagement:
+Load Shift und Time Shift in Bezug auf Build, Deployment und Testausführung.
+Automatisiertes abschalten von ungenutzten Build- und Testumgebungen.
+Berücksichtigung von Vorlaufzeiten bei der Planung physischer Testsysteme.
+
+
+Optimierung der Teststrategie:
+Sinnvolle Planung von statischer Codeanalyse und Strukturanalyse.
+Unterscheidung zwischen Unit-Tests, Integartionstests und Systemtests bezüglich des Ressourcenverbrauchs.
+Andere Testarten wie Load & Performance Tests genau planen.
+Verwendung von Test Gap Analysen, um präzise zu bestimmen, welche Teile des Systems getestet werden müssen damit nicht bei jedem Build alles getestet werden muss.
+Modularisierung von Architekturen zur Reduzierung des Gesamtaufwands beim Deployment, Update und Test.
+
+Welche Buildarten kennt CI/CD -> Nightly Build, continous buid, ...
+
 [[LZ-9-1]]
 ==== LZ 9-1: CI/CD-Pipelines und Energieeffizienz
 Die Teilnehmenden kennen die Einflussfaktoren zur Energieeffizienz für CI/CD-Pipelines.
