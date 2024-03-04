@@ -2,43 +2,25 @@
 
 
 // tag::DE[]
-
-
-
-Infrastruktur-Optimierung:
-Ressourcen Vorteile von Containern gegenüber VMs in Testumgebungen.
-Sinnvolle Dimensionierung von Testdaten und Testumgebungen.
-Verwendung von Caching in Bezug auf Buildartefakte und Testartefakte.
-Einsatz vorkonfigurierter Images für Test und Entwicklungsumgebung statt wiederholtem Aufsetzen von Umgebungen mit jedem Build für die Testumgebung.
-Regelmäßiges Archiviren oder Löschen nicht mehr benötigter Artefakte, Branch-Historien, Testdaten usw.
-Sicherstellen, dass das Testumgebungen und Deployment-Ziele örtlich nahe der Zielgruppe liegen.
-
-Zeit- und Ressourcenmanagement:
-Load Shift und Time Shift in Bezug auf Build, Deployment und Testausführung.
-Automatisiertes abschalten von ungenutzten Build- und Testumgebungen.
-Berücksichtigung von Vorlaufzeiten bei der Planung physischer Testsysteme.
-
-
-Optimierung der Teststrategie:
-Sinnvolle Planung von statischer Codeanalyse und Strukturanalyse.
-Unterscheidung zwischen Unit-Tests, Integartionstests und Systemtests bezüglich des Ressourcenverbrauchs.
-Andere Testarten wie Load & Performance Tests genau planen.
-Verwendung von Test Gap Analysen, um präzise zu bestimmen, welche Teile des Systems getestet werden müssen damit nicht bei jedem Build alles getestet werden muss.
-Modularisierung von Architekturen zur Reduzierung des Gesamtaufwands beim Deployment, Update und Test.
-
-Welche Buildarten kennt CI/CD -> Nightly Build, continous buid, ...
-
 [[LZ-9-1]]
-==== LZ 9-1: CI/CD-Pipelines und Energieeffizienz
-Die Teilnehmenden kennen die Einflussfaktoren zur Energieeffizienz für CI/CD-Pipelines.
+==== LZ 9-1: CI/CD
+
+Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
 
 [[LZ-9-2]]
-==== LZ 9-2: CI/CD-Pipelines und Energieeffizienz-Verbesserung
-Die Teilnehmenden kennen Maßnahmen zur Verbesserung der Energieeffizienz für CI-CD-Pipelines.
+==== LZ 9-2: Optimierung der CI/CD Prozesse
+
+Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Load-Shift- und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
 
 [[LZ-9-3]]
-==== LZ 9-3: Testautomatisierung und Energieeffizienz
-Die Teilnehmenden kennen den Einfluss von Testautomatisierung auf die Energieeffizienz.
+==== LZ 9-2: Optimierung der Infrastruktur
+
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
+
+[[LZ-9-4]]
+==== LZ 9-3: Optimierung der Teststrategie
+
+Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Last-Test, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Gap-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
 
 // end::DE[]
 
@@ -53,6 +35,10 @@ TODO
 
 [[LG-9-3]]
 ==== LG 9-3: TODO
+TODO
+
+[[LG-9-4]]
+==== LG 9-4: TODO
 TODO
 
 // end::EN[]
