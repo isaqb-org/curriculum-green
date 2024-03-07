@@ -3,39 +3,34 @@
 // tag::DE[]
 
 [[LZ-4-1]]
-==== LZ 4-1: Energieeffizienz eines Rechenzentrums einschätzen
-Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile
+==== LZ 4-1: Energieeffizienz von Rechenzentren und Hardware
+Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile.
 
-[[LZ-4-2]]
-==== LZ 4-2: Server Idle Energy Coefficient berechnen und einschätzen
 Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
 
 [[LZ-4-2]]
 ==== LZ 4-2: Ressourcen in Relation zur erbrachten Leistung  bringen
 Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen
-(Business-Metrik).
+(Business Metrik). Sie kennen die Metrik Software Carbon Intensity (SCI) und verstehen, wie dieser als Business  Metrik genutzt werden kann.
+
+[[LZ-4-3]]
+==== LZ 4-3: Messverfahren und Messwerkzeuge
+Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und deren Einsatzgebiete. Sie verstehen wie man WErkzeuge der verschiedenen Kategorien für eine Analyse kombinieren kann.
+Kategorien sind beispielsweise
+
+* Hardware-Messwerkzeuge. Sie messen den Verbrauch direkt an der Hardware (z.B. Multimeter - messen direkt an der Stromquelle; Intel RAPL - misst u.a. den Energieverbrauch der CPU)
+* Fullstack-Messwerkzeuge. Sie messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk (z.B. Green Frame, Green Metrics Tool)
+* Cloud-Messwerkzeuge. Sie messen den Energieverbrauch in der Cloud. Dabei kann i.d.R. nicht auf die Hardware-Schnittstelle zugegriffen werden, der absolute Verbrauch kann also weniger genau gemessen werden (z.B. Cloud Carbon Footprint)
+* Programmiersprachenspezifische Messwerkzeuge. Sie liefern "whitebox"-Messungen innerhalb einer Anwendung, können z.T. auf Methoden-Ebene den Energieverbrauch messen (z.B. JoularJX (Java), Code Carbon (Python))
+* Messwerkzeuge für Webanwendungen geben Auskunft u.a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird (z.B. die Entwicklertools von Google Chrome mit GreenIT-Plugin)
+
+TODO Übungen: Beispielhaft Messwerkzeuge ausprobieren.
 
 [[LZ-4-4]]
-==== LZ 4-6: Metrik Software Carbon Intensity
-Die Teilnehmenden kennen die Idee hinter der Metrik Software Carbon Intensity (SCI).
+==== LZ 4-4: Messmethodik
+Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i.d.R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trend analysiert.
 
-[[LZ-4-5]]
-==== LZ 4-5: Verschiedene Kategorien von Messverfahren kennen
-Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und kennen deren Vor- und
-Nachteile.
-Die wichtigsten Kategorien sind TODO (Cloud, Fullstack, programmiersprachenspezifisch, etc.)
-
-[[LZ-4-6]]
-==== LZ 4-6: Messwerkzeuge
-Die Teilnehmenden kennen Werkzeuge aus jeder Kategorie der Messverfahren (sie sollen einen Überblick haben. Sie müssen nicht zu jedem Werkzeug DEtails kenne, insbesondere nicht im praktischen Teil ausprobieren)
-
-[[LZ-4-7]]
-==== LZ 4-7: Messmethodik
-Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs schwierig ist. Sie verstehen, dass eine Messung und Bewertung der Trends die zielführendere Maßnahme ist.
-
-Sie kennen Proxy-Metriken für die CO~2~-Intensität (Stromverbrauch).
-
-
+Sie kennen Proxy-Metriken für die CO~2~-Intensität.
 
 // end::DE[]
 
