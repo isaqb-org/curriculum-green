@@ -4,10 +4,15 @@
 |===
 
 === Begriffe und Konzepte
-Messen, Metriken, betriebswirtschaftliche Aspekte, Energieeffizienz, Power Usage
-Effectivness (PUE) Server Idle Energy Coefficient (SIEC), Business Metriken, Software Carbon
-Intensity, Proxy Metriken
+Metriken:
+Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC),  Software Carbon
+Intensity (SCI), Proxy-Metriken
 
+Messen: Energieeffizienz, Power Usage, Kategorien von Messverfahren, konkrete Messwerkzeuge
+
+TODO
+betriebswirtschaftliche Aspekte (Anmerkung KSc Was ist genau gemeint?)
+Business Metriken (Anmerkung KSc Was ist genau gemeint?)
 
 // end::DE[]
 
