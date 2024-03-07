@@ -4,27 +4,44 @@
 // tag::DE[]
 [[LZ-8-1]]
 ==== LZ 8-1: Cloud Antipatterns
-Die Teilnehmenden kennen die Herausforderungen in der Cloud und typische Anti-Pattern
+Die Teilnehmenden kennen die Herausforderungen in der Cloud und typische Anti-Pattern wie z.B.
+
+* Überprovisionierung durch fehlendes Monitoring oder fehlende Automatisierung in der Provisionierung
+* TODO bitte ergänzen
 
 [[LZ-8-2]]
-==== LZ 8-2: Cloud Betriebs-Modelle
-Die Teilnehmenden kennen verschiedene Betriebsmodelle in der Cloud und deren Verhalten bzgl.
-Energieeffizienz
+==== LZ 8-2: Cloud Resource Provisioning
+Die Teilnehmenden kennen einige Wege zur strukturierten Provisionierung von Cloud-Ressourcen wie z.B. Terraform, Crossplane oder Helm, wissen wie wichtig Automatisierung ist, um die Flexibilität von Cloud-Umgebungen nutzen zu können. Sie können dies konkret an Beispielen mit Bezug auf Ressourceneffizienz erläutern. Stichwort "Immutable Infrastructure".
 
 [[LZ-8-3]]
-==== LZ 8-3: Cloud Resourcen
-Die Teilnehmenden kennen verschiedene Modelle zur Ressourcenbereitstellung
+==== LZ 8-3: Cloud Native Development
+Den Teilnehmenden ist bewusst dass Applikationen in geeigneter Weise entwickelt werden müssen um effizient auf der üblichen Cloud-Infrastruktur betrieben werden zu können. Sie können mindestens 4 dafür sinnvolle Elemente benennen wie z.B.
+
+* Containerisierung
+* Automatisierte CI/CD Pipelines
+* Umgebungsabhängige Konfiguration z.B. über Umgebungsvariablen und entsprechende Mechanismen
+* Infrastructure as Code
+* Elastizität und Skalierbarkeit
+* Modularität
+* Resilienz
+
+Disclaimer: Nicht in jedem Fall ist es sinnvoll alle Punkte zu berücksichtigen.
 
 [[LZ-8-4]]
-==== LZ 8-4: Cloud Native Development
-Die Teilnehmenden kennen wichtige Themen für die Cloud-Native Softwareentwicklung
+==== LZ 8-4: Energie messen in der Cloud
+Die Teilnehmenden können den Energieverbrauch in der Cloud schätzen und messen.
+
+* TODO
+* Footprint-Konsole üblicherweise nur mit Rolle Billing Account
+* Oft keine absoluten Angaben
+* Einschränkungen bei GCP, AWS und Azure nochmal anschauen
+* unterschiedliche Services (Managed Dynamo DB vs. eigene VM) oft schwierig zu vergleichen
+* Etsy Cloud Jewels
+
+
 
 [[LZ-8-5]]
-==== LZ 8-5: Energie messen in der Cloud
-Die Teilnehmenden können den Energieverbrauch in der Cloud schätzen und messen
-
-[[LZ-8-6]]
-==== LZ 8-6: Kubernetes Optimierung
+==== LZ 8-5: Kubernetes Optimierung
 Die Teilnehmenden kennen Beispiele für Optimierungen von Kubernetes-Clustern
 // end::DE[]
 
@@ -49,8 +66,5 @@ TODO
 ==== LG 8-5: TODO
 TODO
 
-[[LG-8-6]]
-==== LG 8-6: TODO
-TODO
 // end::EN[]
 
