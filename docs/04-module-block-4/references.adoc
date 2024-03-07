@@ -1,10 +1,4 @@
 === {references}
-
-https://learn.greensoftware.foundation/measurement[GHG Protocol, SCI] +
-https://prior1.com/rz-wissen/power-usage-effectiveness-pue/[PUE (Definition)] +
-https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf[The Green Grid: PUE™: A Comprehensive
-Examination of the Metric] +
-https://www.heise.de/select/ix/2017/11/1509388934898770[Kritische Auseinandersetzung mit der PUE] +
-https://shop.heise.de/ix-13-2022/PDF[iX Special 2022 - Green IT] +
-
-* U.a. zum SIEC: _Auszeit unter Aufsicht_ von Dr. Ludger Ackermann und Dr. Dirk Harryvan
+<<pue>>,
+<<pue-kurz-erklaert>>, <<ghg>>, <<sci>>, <<siec>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>,
+<<joularjx>>, <<codecarbon>>

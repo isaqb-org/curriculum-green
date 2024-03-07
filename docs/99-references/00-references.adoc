@@ -39,23 +39,44 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
+- [[[cloudcarbonfootprint, Cloud Carbon Footprint]]] Cloud Carbon Emissions Measurement and Analysis Tool, https://www.cloudcarbonfootprint.org
+
+- [[[codecarbon, Code Carbon]]] Python based tool to estimate the amount of carbon dioxide (CO2)  , https://codecarbon.io
+
 **E**
 
 - [[[eereport, energy efficiency report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
 
 **G**
 
+- [[[greenframe, Greenframe]]] Measure and reduce  website's CO2 emissions,  https://greenframe.io
+
+- [[[greenmetricstool, Green Metrics Tool]]] Messen des Energie- / CO2-Verbrauch von Software-Architekturen, https://www.green-coding.io/de/projects/green-metrics-tool/
+
 - [[[greengrid, Power Usage Effectiveness 2007]]] Power Usage Effectiveness, https://en.wikipedia.org/wiki/Power_usage_effectiveness
 
 - [[[gsfpatterns, GSF]]] Green Software Design Patterns https://patterns.greensoftware.foundation/
+
+- [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
 
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
+**J**
+
+- [[[joularjx, JoularJX]]] JJava-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
+
 **K**
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+
+**P**
+
+- [[[pue, PUE ]]] The Green Grid: PUE™: A Comprehensive
+Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf
+
+- [[[pue-kurz-erklaert, PUE kritisch betrachtet]]] Bernd Schöne: Wärmestrom, https://www.heise.de/select/ix/2017/11/1509388934898770
 
 **Q**
 
@@ -64,6 +85,12 @@ ATTENTION: labels have to be non-numeric.
 - [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
 **S**
+
+
+- [[[sci,SCI]]] Sofware Carbon Intensity, https://learn.greensoftware.foundation/measurement oder https://www.infoq.com/presentations/green-software-climate-crisis/ (Video; Erklärung des SCI ab ca. min 25:00)
+
+- [[[siec, SIEC]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
+
 
 - [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 

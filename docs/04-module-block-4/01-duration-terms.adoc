@@ -6,13 +6,9 @@
 === Begriffe und Konzepte
 Metriken:
 Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC),  Software Carbon
-Intensity (SCI), Proxy-Metriken
+Intensity (SCI), Business Metriken, Proxy-Metriken
 
 Messen: Energieeffizienz, Power Usage, Kategorien von Messverfahren, konkrete Messwerkzeuge
-
-TODO
-betriebswirtschaftliche Aspekte (Anmerkung KSc Was ist genau gemeint?)
-Business Metriken (Anmerkung KSc Was ist genau gemeint?)
 
 // end::DE[]
 
