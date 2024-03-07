@@ -4,21 +4,35 @@
 // tag::DE[]
 [[LZ-7-1]]
 ==== LZ 7-1: Cloud Service Modelle
-Die Teilnehmenden kennen die verschiedenen Cloud-Service-Modelle und deren Aspekte der Energieeffizienz.
+Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristik dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und Software Carbon Intensity unterscheiden und wo sie ähnlich einzuordnen sind.
 
 [[LZ-7-2]]
 ==== LZ 7-2: Cloud Deployment Modelle
-Die Teilnehmenden kennen verschiedene Cloud-Deployment-Modelle.
+Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem
+
+* "Public Cloud"
+* "Private Cloud"
+* "Hybrid Cloud"
+
+und können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und "Software Carbon Intensity" haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
 
 [[LZ-7-3]]
 ==== LZ 7-3: CO2 Footprint der Cloud-Anbieter
-Die Teilnehmenden kennen den aktuellen Stand bezüglich CO2-Ausstoßes unterschiedlicher Cloud-
-Anbieter.
+Die Teilnehmenden kennen den aktuellen Stand der allgemeinen Informationen der Cloud-Anbieter über ihren CO2-Ausstoss (z.B. Sustainability Reports, Environmental Reports) sowie die Werkzeuge, die sie bereitstellen um spezifische Berichte des CO2-Ausstosses basierend auf der Nutzung in einem Projekt zu erstellen. Weiterhin können die Teilnehmer einschätzen welche Massnahmen die Anbieter aktuell durchführen um Emissionen zu reduzieren oder zu kompensieren und kennen deren Roadmap und Klimaziele für die Zukunft.
 
 [[LZ-7-4]]
 ==== LZ 7-4: CO2 Optimierung in der Cloud
-Die Teilnehmenden kennen eine Reihe von Möglichkeiten der Cloud-Anbieter zur Beeinflussung des
-CO2-Ausstoßes beim Betrieb von Anwendungen in der Cloud.
+Die Teilnehmenden wissen wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die Emissionen beeinflussen können durch u.a.
+
+* Auswahl von Zonen mit emissionsarmer Energieversorgung
+* Ressourcen sparsam dimensionieren und erst bei Bedarf skalieren
+* Bedarf zeitlich bzgl. Emissionen optimieren ("Time Shifting" , "Peak Shaving")
+* Autoscaling
+* Nutzung effizienter Datenspeicherung (nach nach Zugriffsweg und -häufigkeit)
+* Reduktion bzw. Verkürzung des Netzwerkverkehrs
+* Serverless Computing
+* Nutzung von Managed Services
+
 // end::DE[]
 
 // tag::EN[]
