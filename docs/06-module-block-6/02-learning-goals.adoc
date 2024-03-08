@@ -22,7 +22,7 @@ Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation zwischen Baust
 
 [[LZ-6-3]]
 ==== LZ 6-3: Datenbanken und Energieeffizienz
-Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und sind in der Lage Optimierungspotentiale bei Datenbanken zu identifizieren.
+Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.), unterschiedliche Datenbanksysteme (Postgres, DB2, ORacle, etc.) und sind in der Lage ein geeignetes Betriebsmodell (self-hosting versus cloud-based managed service) für ihre Datenbanksysteme auszuwählen. Darüber hinaus sind die Teilnehmenden in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten (Referenzen versus eingebettete Objekte / Auflösen der dritten Normalform) auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und auszuwählen.
 
 [[LZ-6-4]]
 ==== LZ 6-4: Spezifische Green IT Pattern
