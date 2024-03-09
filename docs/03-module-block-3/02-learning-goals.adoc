@@ -3,12 +3,12 @@
 // tag::DE[]
 [[LZ-3-1]]
 ==== LZ 3-1: Qualitätsmodelle und Energieeffizienz
-
-Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren.
+Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren. Abhängig vom Einsatzzweck und dem Mengengerüst der Anwendung können sie bewusst darüber entscheiden, ob die Qualitätskriterien nur für die Anwendung oder für die Optimierung des Entwicklungsprozesses angewendet werden.
 
 [[LZ-3-2]]
 ==== LZ 3-2: Wechselwirkungen zwischen Qualitätsattributen
 Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen. Auf Basis dieser Erkenntnisse können sie Qualitätsanforderungen erkennen, die mit einander in Konflikt stehen und Lösungsalternativen erarbeiten um Konflikte zu abzuschwächen.
+Insbesondere werden die Qualitätsmerkmale Elastizität und Skalierbarkeit, Modularität bzw. Resilienz detaillierter diskutiert, so daß die Teilnehmenden den Einfluß auf Energieeffizienz bewerten können.
 
 // end::DE[]
 
