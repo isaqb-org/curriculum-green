@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Politik, Regulatorik und Stakeholder
+== Prinzipien, Regulatorik und Auswirkungen auf Unternehmen
 // end::DE[]
 
 // tag::EN[]
-== Politics, regulation and stakeholders
+== TODO
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

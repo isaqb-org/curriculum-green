@@ -2,19 +2,24 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Anforderungen der Politik und Dritter
+==== LZ 2-1: Regulatorik
 
-Die Teilnehmenden kennen Anforderungen, die verschiedene Ebenen der Politik an Energieeffizienz stellen. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel. Sie können unterschiedliche Softwaresysteme Klassifizieren und Aufwand und Nutzen einer Optimierung erkennen. Sie können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben.
+Die Teilnehmenden kennen Anforderungen, die verschiedene Ebenen der Politik an Energieeffizienz stellen. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel, und können diese adäquat in ihrer Arbeit einsetzen. Die Teilnehmenden kennen Standards wie ESG (Evironmental Social Governance) und CSRD (Corporate Sustainability Reporting Directive) und deren Auswirkungen und Konsequenzen für Unternehmen.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Greenhouse Gas Protocol
 
-Die Teilnehmenden kennen das Greenhouse Gas Protocol. Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
+Die Teilnehmenden kennen das Greenhouse Gas Protocol (GHP). Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
 
 [[LZ-2-3]]
-==== LZ 2-3: Anforderungen der Stakeholder
+==== LZ 2-3: Energieeffizienz im Unternehmen
 
-Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Vorteile. Sie kennen die Handlungsfelder, um Green Software im Unternehmen zu platzieren. 
+Die Teilnehmenden kennen die Motivation, um Green Software im Unternehmen zu platzieren und Argumentationen und die Adressaten für eine erfolgreiche Verankerung im Unternehmen. Sie können sinnvolle Ziele für die Reduktion von Treibhausgasen für Unternehmen setzen. Die Teilnehmer können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben und wie sich diese auf das eigene Unternehmen auswirken.
+
+[[LZ-2-4]]
+==== LZ 2-4: Stakeholder und Priorisierungen
+
+Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Handlungsfelder. Sie kennen die Bereiche, bei denen die größten Hebel für die Reduktion von Treibhausgasen bestehen und können Maßnahmen entsprechend priorisieren. Die Teilnehmenden können unterschiedliche Softwaresysteme Klassifizieren und Aufwand und Nutzen einer Optimierung erkennen.
 
 // end::DE[]
 
