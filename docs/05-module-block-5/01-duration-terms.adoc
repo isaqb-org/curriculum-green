@@ -4,8 +4,8 @@
 |===
 
 === Begriffe und Konzepte
-Programmiersprachen, Virtuelle Maschine, Ahead-of-Time und Just-in-Time Compilierung,
-Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching
+Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschine Code, 
+Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenbanksysteme, Datenmodelle
 
 // end::DE[]
 

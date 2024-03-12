@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Energieeffizienz, Zertifizierungen (z. B. Blauer Engel, TCO), Anforderungen der Politik (z. B. CRSD), Greenhouse Gas Protocol
+Energieeffizienz, Zertifizierungen (z. B. Blauer Engel, TCO), Regulatorische Anforderungen (z. B. CSRD, ESD), Greenhouse Gas Protocol (GHG Protocol)
 
 // end::DE[]
 

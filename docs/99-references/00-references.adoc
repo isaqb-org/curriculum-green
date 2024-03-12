@@ -78,6 +78,8 @@ Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-
 
 - [[[pue-kurz-erklaert, PUE kritisch betrachtet]]] Bernd Schöne: Wärmestrom, https://www.heise.de/select/ix/2017/11/1509388934898770
 
+- [[[pereira, Pereira et al.]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva (2021): Ranking Programming Languages by Energy Efficiency
+
 **Q**
 
 - [[[qmarc,arc42]]] arc42 Quality Model, https://quality.arc42.org
