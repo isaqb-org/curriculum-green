@@ -1,19 +1,19 @@
-// tag::DE[]
+^// tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Basiskonzepte Energie | 60
-| 2. Politik, Regulatorik, Stakeholder | 60
-| 3. Qualität | 30
-| 4. Messungen und Monitoring | 90
-| 5. Softwareentwicklung | 120
-| 6. Softwarearchitektur | 120
+| 1. Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte | 60
+| 2. Prinzipien, Regulatorik und Auswirkungen auf Unternehmen | 60
+| 3. Qualität | 60
+| 4. Messen und Monitoring | 120
+| 5. Softwareentwicklung | 60
+| 6. Softwarearchitektur | 90
 | 7. Cloud-Anbieter | 90
 | 8. Betrieb in der Cloud | 90
 | 9. Energieeffizienter Entwicklungsprozess | 60
-| 10. Beispiele | 60
+| 10. Beispiele | 30
 | |
 | Summe | ?? 720 (12h)
 
