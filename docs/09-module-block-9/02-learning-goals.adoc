@@ -2,10 +2,11 @@
 
 
 // tag::DE[]
+
 [[LZ-9-1]]
 ==== LZ 9-1: CI/CD
 
-Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
 
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse
@@ -15,7 +16,7 @@ Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozesse
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
 
 [[LZ-9-4]]
 ==== LZ 9-4: Optimierung der Teststrategie
