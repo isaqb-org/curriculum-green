@@ -10,7 +10,7 @@ Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und 
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse
 
-Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Load-Shift- und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
+Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
 
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur
