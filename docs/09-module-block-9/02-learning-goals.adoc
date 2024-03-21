@@ -2,23 +2,24 @@
 
 
 // tag::DE[]
+
 [[LZ-9-1]]
 ==== LZ 9-1: CI/CD
 
-Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
 
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse
 
-Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Load-Shift- und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
+Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
 
 [[LZ-9-3]]
-==== LZ 9-2: Optimierung der Infrastruktur
+==== LZ 9-3: Optimierung der Infrastruktur
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
 
 [[LZ-9-4]]
-==== LZ 9-3: Optimierung der Teststrategie
+==== LZ 9-4: Optimierung der Teststrategie
 
 Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Last-Test, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Gap-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
 
