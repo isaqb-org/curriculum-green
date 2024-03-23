@@ -4,7 +4,7 @@
 [[LZ-2-1]]
 ==== LZ 2-1: Regulatorik
 
-Die Teilnehmenden kennen Anforderungen, die verschiedene Ebenen der Politik an Energieeffizienz stellen. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel, und können diese adäquat in ihrer Arbeit einsetzen. Die Teilnehmenden kennen Standards wie ESG (Evironmental Social Governance) und CSRD (Corporate Sustainability Reporting Directive) und deren Auswirkungen und Konsequenzen für Unternehmen.
+Die Teilnehmenden kennen die Regulatorik und die darin enthaltenen Anforderungen zur Einsparung von CO~2~. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel, und können diese adäquat in ihrer Arbeit einsetzen. Die Teilnehmenden kennen Standards wie ESG (Evironmental Social Governance) und CSRD (Corporate Sustainability Reporting Directive) und deren Auswirkungen und Konsequenzen für Unternehmen.
 
 [[LZ-2-2]]
 ==== LZ 2-2: Greenhouse Gas Protocol
