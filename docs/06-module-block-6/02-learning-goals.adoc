@@ -4,7 +4,7 @@ Das Ziel dieses Kapitels ist es, dass die Teilnehmenden ihre bereits erworbenen 
 // tag::DE[]
 [[LZ-6-1]]
 ==== LZ 6-1: Architekturstile und Energieeffizienz
-Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise verteilte Systeme, strukturierte Monolithen oder Serverless und deren Auswirkungen auf die Energieeffizienz einschätzen. Darüber hinaus sind sie in der Lage den Unterschied zwischen zustandslosen und zustandsbehafteten Komponenten hinsichtlich des Energiebedarfs einzuschätzen.
+Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise verteilte Systeme, strukturierte Monolithen oder Serverless und deren Auswirkungen auf die Energieeffizienz einschätzen. Darüber hinaus sind sie in der Lage den Unterschied zwischen zustandslosen und zustandsbehafteten Komponenten hinsichtlich des Energiebedarfs einzuschätzen. Die Prinzipien von cloud-native Architekturen und ihre Auswirkungen auf die Energieeffizienz sind den Teilnehmenden bekannt.
 
 [[LZ-6-2]]
 ==== LZ 6-2: Kommunikation und Energieeffizienz
@@ -20,7 +20,7 @@ Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Softwa
 
 [[LZ-6-5]]
 ==== LZ 6-5: Web Sustainability Guidelines
-Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz beim Web Design zu berücksichtigen sind, wie beispielsweise Browser Caching, Einsatz eines CDNs, Edge Caching und sind in der Lage diese in ihren Anwendungen umzusetzen. Sie kennen unterschiedliche Dateiformate und Arten von graphische Elemente (Animationen) und sind in der Lage deren Energieeffizienz einzuschätzen.
+Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz, die beim Web Design zu berücksichtigen sind, wie beispielsweise Browser Caching, Einsatz eines CDNs, Edge Caching und sind in der Lage diese in ihren Anwendungen umzusetzen. Sie kennen unterschiedliche Dateiformate und Arten von graphische Elemente (Animationen) und sind in der Lage deren Energieeffizienz einzuschätzen.
 
 // end::DE[]
 
