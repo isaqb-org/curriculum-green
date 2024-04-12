@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Cloud-Anbieter
+== Betrieb
 // end::DE[]
 
 // tag::EN[]
-== Cloud Provider
+== Operations
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
