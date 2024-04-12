@@ -3,32 +3,34 @@
 
 // tag::DE[]
 [[LZ-7-1]]
-==== LZ 7-1: Cloud Service Modelle
+==== LZ 7-1: Energieeffizienz von Rechenzentren und Hardware
+Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile.
+
+Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
+[[LZ-7-2]]
+==== LZ 7-2: Cloud Service Modelle
 Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristik dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und Software Carbon Intensity unterscheiden und wo sie ähnlich einzuordnen sind.
 
-[[LZ-7-2]]
-==== LZ 7-2: Cloud Deployment Modelle
-Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem
-
-* "Public Cloud"
-* "Private Cloud"
-* "Hybrid Cloud"
-
-und können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und "Software Carbon Intensity" haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
-
 [[LZ-7-3]]
-==== LZ 7-3: Cloud-Anbieter nach ökologisch-nachhaltigen Aspekten bewerten
+==== LZ 7-3: Cloud Deployment Modelle
+Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem "Public Cloud", "Private Cloud", "Hybrid Cloud" und klassischer On-Premise-Betrieb. Sie können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und "Software Carbon Intensity" haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
+
+[[LZ-7-4]]
+==== LZ 7-4: Anbieter nach ökologisch-nachhaltigen Aspekten bewerten
 Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschiedenen Anbieter zu beurteilen um diese in einer Auswahl berücksichtigen zu können. Dazu wissen sie, wie sie u.a. an folgende Informationen gelangen
 
 * Informationen zum aktuellen Stand der Emissionen eines Anbieter (z.B. Sustainability Reports, Environmental Reports)
 * welche Massnahmen Anbieter aktuell durchführen um Emissionen zu reduzieren oder zu kompensieren
 * die Roadmap und Klimaziele der Anbieter für die Zukunft
 
-und können diese Informationen in die Auswahl einfliessen lassen. Ausserdem kennen die Teilnehmer die Müglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter (z.B. AWS carbon-footprint-tool, GCP Carbon Footprint) bereitgestellt werden.
+und können diese Informationen in die Auswahl einfliessen lassen. Ausserdem kennen die Teilnehmer die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter (z.B. AWS carbon-footprint-tool, GCP Carbon Footprint) bereitgestellt werden.
 
+[[LZ-7-5]]
+==== LZ 7-5: Betriebliche Antipatterns
+Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z.B Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder unnötige geografische Verteilung.
 
-[[LZ-7-4]]
-==== LZ 7-4: CO2 Optimierung in der Cloud
+[[LZ-7-6]]
+==== LZ 7-6: CO2 Optimierung in der Cloud
 Die Teilnehmenden wissen wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die Emissionen beeinflussen können durch u.a.
 
 * Auswahl von Zonen mit emissionsarmer Energieversorgung
@@ -57,6 +59,14 @@ TODO
 
 [[LG-7-4]]
 ==== LG 7-4: TODO
+TODO
+
+[[LG-7-5]]
+==== LG 7-5: TODO
+TODO
+
+[[LG-7-6]]
+==== LG 7-6: TODO
 TODO
 // end::EN[]
 
