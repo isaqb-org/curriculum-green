@@ -3,18 +3,12 @@
 // tag::DE[]
 
 [[LZ-4-1]]
-==== LZ 4-1: Energieeffizienz von Rechenzentren und Hardware
-Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile.
-
-Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
-
-[[LZ-4-2]]
-==== LZ 4-2: Ressourcen in Relation zur erbrachten Leistung  bringen
+==== LZ 4-1: Ressourcen in Relation zur erbrachten Leistung  bringen
 Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen
 (Business Metrik). Sie kennen die Metrik Software Carbon Intensity (SCI) und verstehen, wie dieser als Business  Metrik genutzt werden kann.
 
-[[LZ-4-3]]
-==== LZ 4-3: Messverfahren und Messwerkzeuge
+[[LZ-4-2]]
+==== LZ 4-2: Messverfahren und Messwerkzeuge
 Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und deren Einsatzgebiete. Sie verstehen, wie man Werkzeuge der verschiedenen Kategorien für eine Analyse kombinieren kann.
 Kategorien sind beispielsweise
 
@@ -24,8 +18,8 @@ Kategorien sind beispielsweise
 * Programmiersprachenspezifische Messwerkzeuge. Sie liefern "whitebox"-Messungen innerhalb einer Anwendung, können z.T. auf Methoden-Ebene den Energieverbrauch messen (z.B. JoularJX (Java), Code Carbon (Python))
 * Messwerkzeuge für Webanwendungen geben Auskunft u.a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird (z.B. die Entwicklertools von Google Chrome mit GreenIT-Plugin)
 
-[[LZ-4-4]]
-==== LZ 4-4: Messmethodik
+[[LZ-4-3]]
+==== LZ 4-3: Messmethodik
 Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i.d.R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert.
 
 Sie kennen Proxy-Metriken für die CO~2~-Intensität.
@@ -41,8 +35,8 @@ Die Teilnehmenden verstehen, dass das Vorgehen der Energieeffizienzmessung verwa
 
 Die Teilnehmenden verstehen, wie man systematisch vorgeht, um Verbrauchshotspots einzugrenzen.
 
-[[LZ-4-5]]
-==== LZ 4-5: Messen der Energieeffizienz in den Entwicklungsprozess integrieren
+[[LZ-4-4]]
+==== LZ 4-4: Messen der Energieeffizienz in den Entwicklungsprozess integrieren
 Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklungsprozess integriert. Sie kennen Möglichkeiten, die Messungen in die CI/CD-Pipeline zu integrieren. Sie verstehen, wie sie eine gute Balance für die Häufigkeit der Messungen finden - einerseits sollen (negative) Trends schnell erkannt werden, andererseits verbraucht das Messen selber ebenfalls Energie.
 
 Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass für die Akzeptanz ebenfalls wichtig ist:
