@@ -1,13 +1,13 @@
-// header file for curriculum section 8: Lerneinheit 8
+// header file for curriculum section 9: Lerneinheit 9
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Betrieb in der Cloud
+== Energieeffizienter Entwicklungsprozess
 // end::DE[]
 
 // tag::EN[]
-== Operations in Cloud Environments
+== TODO
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

@@ -1,8 +1,8 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-10-1]]
-==== LZ 10-1: Case Studies
+[[LZ-9-1]]
+==== LZ 9-1: Case Studies
 Die Teilnehmenden lernen ein oder mehrere Softwaresysteme kennen, bei denen Verfahren zum energieeffizienten und CO~2~-armen Betrieb zu Anwendung kommen. Dies können sowohl Neuentwicklungen (Greenfield-Implementierungen) also auch die Optimierung bestehender Systeme (Brownfield-Implementierungen) sein. Ebenso sind Beispiele für einen energieeffizienten Software-Entwicklungsprozess möglich.
 
 * Energieffiziente Neuentwicklungen
@@ -13,7 +13,7 @@ Die Teilnehmenden lernen ein oder mehrere Softwaresysteme kennen, bei denen Verf
 
 
 // tag::EN[]
-[[LG-10-1]]
-==== LG 10-1: Case Studies
+[[LG-9-1]]
+==== LG 9-1: Case Studies
 // end::EN[]
 
