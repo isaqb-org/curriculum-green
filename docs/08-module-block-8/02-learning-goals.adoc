@@ -3,15 +3,8 @@
 
 // tag::DE[]
 [[LZ-8-1]]
-==== LZ 8-1: Energie messen in der Cloud
-Die Teilnehmenden können den Energieverbrauch in der Cloud schätzen und messen.
+==== LZ 8-1: weg
 
-* TODO
-* Footprint-Konsole üblicherweise nur mit Rolle Billing Account
-* Oft keine absoluten Angaben
-* Einschränkungen bei GCP, AWS und Azure nochmal anschauen
-* unterschiedliche Services (Managed Dynamo DB vs. eigene VM) oft schwierig zu vergleichen
-* Etsy Cloud Jewels
 
 // end::DE[]
 
