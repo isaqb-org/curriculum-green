@@ -1,4 +1,2 @@
 === {references}
-<<pue>>,
-<<pue-kurz-erklaert>>, <<ghg>>, <<sci>>, <<siec>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>,
-<<joularjx>>, <<codecarbon>>
+<<ghg>>, <<sci>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>, <<joularjx>>, <<codecarbon>>

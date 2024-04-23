@@ -65,9 +65,6 @@ include::07-module-block-7/00-structure.adoc[{include_configuration}]
 include::08-module-block-8/00-structure.adoc[{include_configuration}]
 
 <<<
-include::09-module-block-9/00-structure.adoc[{include_configuration}]
-
-<<<
 include::20-examples/00-examples.adoc[{include_configuration}]
 
 <<<

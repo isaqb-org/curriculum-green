@@ -41,10 +41,8 @@ Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklu
 
 Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass für die Akzeptanz ebenfalls wichtig ist:
 
-* Die Erstellung der Szenarien für die Messung muss einfach sein. Es ist von Vorteil, dafür Werkzeuge zu verwenden, die im Projekt bereits etabliert sind (z.B. Frameworks zum Erstellen von Ende-zu-Ende-Tests)
-* Die Darstellung der Messergebnisse muss übersichtlich und gut und schnell verständlich sein. Insbesondere müssen die wichtigsten Ergebnisse wie Trends oder signifikante Abweichungen im Verbrauch direkt erkennbar sein.
-
-_TODO Mögliche Übung für Kapitel 4: Beispielhaft Messwerkzeuge ausprobieren._
+* Die Erstellung der Szenarien für die Messung muss einfach sein. Es ist von Vorteil, dafür Werkzeuge zu verwenden, die im Projekt bereits etabliert sind (z. B. Frameworks zum Erstellen von Ende-zu-Ende-Tests)
+* Die Darstellung der Messergebnisse muss übersichtlich, gut und schnell verständlich sein. Insbesondere müssen die wichtigsten Ergebnisse wie Trends oder signifikante Abweichungen im Verbrauch direkt erkennbar sein.
 
 // end::DE[]
 
