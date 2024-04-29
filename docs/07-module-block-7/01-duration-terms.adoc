@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Service-Modelle, Deployment-Modelle, Cloud-Provider, Cloud-Migration
+Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-Modelle, Deployment-Modelle, Cloud-Provider, Cloud-Migration
 
 // end::DE[]
 
