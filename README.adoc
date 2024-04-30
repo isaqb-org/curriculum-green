@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum GREEN
 
 :toc:
 :toc-placement!:
@@ -22,12 +22,12 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-green.svg
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains iSAQB Advanced Level curriculum *GREEN* in AsciiDoc.
 
 toc::[]
 
 == How to contribute or participate
-Create an issue, a merge- or pull-request. Clone the repository, including the submodule:
+Create an issue or a pull-request. Clone the repository, including the submodule:
 
 +
 --
@@ -64,8 +64,8 @@ In the task "renderDE", certain attributes (aka variables) are defined that conf
 
 == Maintainers
 
-This repository is currently maintained by Benjamin Wolf.
-It was forked from https://github.com/isaqb-org/curriculum-template,
+This repository is currently maintained by the curators of this currriculum. 
+It was forked from https://github.com/isaqb-org/advanced-template,
 so the contributors of that project basically contributed to this one, too.
 
 
