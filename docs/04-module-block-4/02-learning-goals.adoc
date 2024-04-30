@@ -5,7 +5,7 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Ressourcen in Relation zur erbrachten Leistung  bringen
 Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen
-(Business Metrik). Sie kennen die Metrik Software Carbon Intensity (SCI - Iso Standard ISO/IEC 21031:2024) und verstehen, wie dieser als Business  Metrik genutzt werden kann.
+(Business Metrik). Sie kennen die Metrik Software Carbon Intensity (SCI - ISO Standard) und verstehen, wie dieser als Business  Metrik genutzt werden kann.
 
 [[LZ-4-2]]
 ==== LZ 4-2: Messverfahren und Messwerkzeuge
