@@ -23,7 +23,7 @@ Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschied
 * Massnahmen die Anbieter aktuell durchführen, um Emissionen zu reduzieren oder zu kompensieren
 * Roadmap und Klimaziele der Anbieter für die Zukunft
 
-Ausserdem kennen die Teilnehmer die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter (z. B. AWS carbon-footprint-tool, GCP Carbon Footprint) bereitgestellt werden.
+Ausserdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter (z. B. AWS carbon-footprint-tool, GCP Carbon Footprint) bereitgestellt werden.
 
 [[LZ-7-5]]
 ==== LZ 7-5: Betriebliche Antipatterns
