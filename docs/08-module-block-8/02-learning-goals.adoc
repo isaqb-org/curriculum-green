@@ -11,12 +11,12 @@ Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Con
 [[LZ-8-2]]
 ==== LZ 8-2: Optimierung der CI/CD Prozesse
 
-Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving und Time-Shift-Verfahren bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
+Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving und Time-Shifting bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
 
 [[LZ-8-3]]
 ==== LZ 8-3: Optimierung der Infrastruktur
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs und Deployment Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie den Einsatz von Caching für Build- und Testartefakte.
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie der Einsatz von Caching für Build- und Testartefakte.
 
 [[LZ-8-4]]
 ==== LZ 8-4: Optimierung der Teststrategie

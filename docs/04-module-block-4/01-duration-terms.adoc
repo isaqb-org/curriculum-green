@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffizienz, Power Usage Effectiveness, Kategorien von Messverfahren, Messwerkzeuge
+Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffizienz, Kategorien von Messverfahren, Messwerkzeuge
 
 // end::DE[]
 

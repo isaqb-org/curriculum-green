@@ -24,7 +24,7 @@ Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativ
 [[LZ-1-5]]
 ==== LZ 1-5: Handlungsfelder
 
-Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO2:
+Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO~2~:
 
 * Energieeffizienz - Verbrauche so wenig Energie wie möglich.
 * Hardwareeffizienz - Beanspruche so wenig Hardware wie möglich.

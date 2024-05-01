@@ -30,9 +30,14 @@ Structure of an anchor:
 ATTENTION: labels have to be non-numeric.
 ====
 
+**A**
+
+- [[[qmarc,arc42]]] arc42 Quality Model, https://quality.arc42.org
+
 **B**
 
-- [[[bitkom,bitkom 2021]]] bitkom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf.
+- [[[bitkom,bitkom 2021]]] bitkom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf
+
 - [[[brundtland,Brundtland 1987]]] Brundtland, G. (1987): Report of the World Commission on Environment and Development: Our Common Future, http://www.un-documents.net/wced-ocf.htm
 
 **C**
@@ -81,8 +86,6 @@ Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-
 - [[[pereira, Pereira et al.]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva (2021): Ranking Programming Languages by Energy Efficiency
 
 **Q**
-
-- [[[qmarc,arc42]]] arc42 Quality Model, https://quality.arc42.org
 
 - [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
