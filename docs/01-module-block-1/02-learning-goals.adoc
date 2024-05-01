@@ -21,6 +21,15 @@ Die Teilnehmenden können den Energieverbrauch der Informationstechnik beziffern
 
 Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO~2~-Fußabdruck und -Handabdruck einordnen. Wichtige Kennzahlen und physikalische Einheiten wie CO~2~, CO~2~-Äquivalente, Watt, Joule und deren Bedeutung werden verstanden.
 
+[[LZ-1-5]]
+==== LZ 1-5: Handlungsfelder
+
+Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO2:
+
+* Energieeffizienz - Verbrauche so wenig Energie wie möglich.
+* Hardwareeffizienz - Beanspruche so wenig Hardware wie möglich.
+* CO~2~-Emissionseffizienz - Verbrauche Energie möglichst dann und dort, wo sie am "grünsten" erzeugt wird.
+
 // end::DE[]
 
 // tag::EN[]
