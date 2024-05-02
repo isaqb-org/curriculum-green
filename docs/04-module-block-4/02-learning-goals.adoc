@@ -5,41 +5,37 @@
 [[LZ-4-1]]
 ==== LZ 4-1: Ressourcen in Relation zur erbrachten Leistung  bringen
 Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen
-(Business Metrik). Sie kennen die Metrik Software Carbon Intensity (SCI - ISO Standard) und verstehen, wie dieser als Business  Metrik genutzt werden kann.
+(Business Metrik). Sie kennen als Metrik den ISO-Standard Software Carbon Intensity (SCI) und verstehen, wie dieser als Business Metrik genutzt werden kann.
 
 [[LZ-4-2]]
 ==== LZ 4-2: Messverfahren und Messwerkzeuge
 Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und deren Einsatzgebiete. Sie verstehen, wie man Werkzeuge der verschiedenen Kategorien für eine Analyse kombinieren kann.
-Kategorien sind beispielsweise
+Kategorien sind beispielsweise:
 
-* Hardware-Messwerkzeuge. Sie messen den Verbrauch direkt an der Hardware (z.B. Multimeter - messen direkt an der Stromquelle; Intel RAPL - misst u.a. den Energieverbrauch der CPU)
-* Fullstack-Messwerkzeuge. Sie messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk (z.B. Green Frame, Green Metrics Tool)
-* Programmiersprachenspezifische Messwerkzeuge. Sie liefern "whitebox"-Messungen innerhalb einer Anwendung, können z.T. auf Methoden-Ebene den Energieverbrauch messen (z.B. JoularJX (Java), Code Carbon (Python))
-* Messwerkzeuge für Webanwendungen geben Auskunft u.a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird (z.B. die Entwicklertools von Google Chrome mit GreenIT-Plugin)
-* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann nicht auf die Hardware-Schnittstelle zugegriffen werden um den Energieverbrauch zu messen. Stattdessen ist man auf vom Anbieter bereitgestellte Tools (z.B. Cloud Carbon Footprint Console) oder andere Schätzmethoden angewiesen. Die Teilnehmenden kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen (Managed Services mit reinen VMs zu vergleichen).
+* Hardware-Messwerkzeuge. Messen den Verbrauch direkt an der Hardware.
+* Fullstack-Messwerkzeuge. Messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk.
+* Programmiersprachenspezifische Messwerkzeuge. Liefern "Whitebox"-Messungen innerhalb einer Anwendung.
+* Messwerkzeuge für Webanwendungen. Geben Auskunft u. a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird.
+* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann der Energieverbrauch nicht direkt gemessen werden. Stattdessen ist man auf vom Anbieter bereitgestellte Tools oder andere Schätzmethoden angewiesen. Die Teilnehmer kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Messmethodik
-Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i.d.R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert.
-
-Sie kennen Proxy-Metriken für die CO~2~-Intensität.
+Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i. d. R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert. Sie kennen Proxy-Metriken für die CO~2~-Intensität.
 
 Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffziienz aufsetzen.
 
-* Sie kennen Kriterien zum Gestalten der Szenarien (z.B. gängige Abläufe, Priorisierung nach Nutzungshäufigkeit)
-* Sie wissen, an welchen Schnittstellen sie abhängig vom Ziel der Messung ansetzen (Ende-zu-Ende-Szenarien, an APIs ansetzen, etc.)
-* Sie kennen Werkzeuge zum Erstellen solcher Szenarien
-* Sie können adäquat mit Messungenauigkeiten umgehen (z.B. Szenarien mehrfach ausführen, Abweichungen interpretieren)
+* Sie kennen Kriterien zum Gestalten der Szenarien (z. B. gängige Abläufe, Priorisierung nach Nutzungshäufigkeit).
+* Sie wissen, an welchen Schnittstellen sie abhängig vom Ziel der Messung ansetzen (Ende-zu-Ende-Szenarien, an APIs ansetzen, etc.).
+* Sie kennen Werkzeuge zum Erstellen solcher Szenarien.
+* Sie können adäquat mit Messungenauigkeiten umgehen (z. B. Szenarien mehrfach ausführen, Abweichungen interpretieren).
 
-Die Teilnehmenden verstehen, dass das Vorgehen der Energieeffizienzmessung verwandt ist mit dem Vorgehen bei Performanz-Messungen.
-
-Die Teilnehmenden verstehen, wie man systematisch vorgeht, um Verbrauchshotspots einzugrenzen.
+Die Teilnehmenden verstehen, dass das Vorgehen der Energieeffizienzmessung verwandt ist mit dem Vorgehen bei Performanz-Messungen. Die Teilnehmenden verstehen, wie man systematisch vorgeht, um Verbrauchshotspots einzugrenzen.
 
 [[LZ-4-4]]
 ==== LZ 4-4: Messen der Energieeffizienz in den Entwicklungsprozess integrieren
 Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklungsprozess integriert. Sie kennen Möglichkeiten, die Messungen in die CI/CD-Pipeline zu integrieren. Sie verstehen, wie sie eine gute Balance für die Häufigkeit der Messungen finden - einerseits sollen (negative) Trends schnell erkannt werden, andererseits verbraucht das Messen selber ebenfalls Energie.
 
-Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass für die Akzeptanz ebenfalls wichtig ist:
+Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass fogende Punkte für die Akzeptanz ebenfalls wichtig sind:
 
 * Die Erstellung der Szenarien für die Messung muss einfach sein. Es ist von Vorteil, dafür Werkzeuge zu verwenden, die im Projekt bereits etabliert sind (z. B. Frameworks zum Erstellen von Ende-zu-Ende-Tests)
 * Die Darstellung der Messergebnisse muss übersichtlich, gut und schnell verständlich sein. Insbesondere müssen die wichtigsten Ergebnisse wie Trends oder signifikante Abweichungen im Verbrauch direkt erkennbar sein.
