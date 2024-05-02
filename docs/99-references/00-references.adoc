@@ -32,17 +32,17 @@ ATTENTION: labels have to be non-numeric.
 
 **A**
 
-- [[[qmarc,arc42]]] arc42 Quality Model, https://quality.arc42.org
+- [[[qmarc, arc42]]] arc42 Quality Model, https://quality.arc42.org
 
 **B**
 
-- [[[bitkom,bitkom 2021]]] bitkom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf
+- [[[bitkom, bitkom 2021]]] bitkom: Klimaeffekte der Digitalisierung, https://www.bitkom.org/sites/main/files/2021-10/20211010_bitkom_studie_klimaeffekte_der_digitalisierung.pdf
 
-- [[[brundtland,Brundtland 1987]]] Brundtland, G. (1987): Report of the World Commission on Environment and Development: Our Common Future, http://www.un-documents.net/wced-ocf.htm
+- [[[brundtland, Brundtland 1987]]] Brundtland, G. (1987): Report of the World Commission on Environment and Development: Our Common Future, http://www.un-documents.net/wced-ocf.htm
 
 **C**
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
+- [[[clements, Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
 - [[[cloudcarbonfootprint, Cloud Carbon Footprint]]] Cloud Carbon Emissions Measurement and Analysis Tool, https://www.cloudcarbonfootprint.org
 
@@ -66,7 +66,7 @@ ATTENTION: labels have to be non-numeric.
 
 **H**
 
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[hargis, Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
 
 **J**
 
@@ -74,7 +74,7 @@ ATTENTION: labels have to be non-numeric.
 
 **K**
 
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[kruchten, Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 **P**
 
@@ -92,11 +92,11 @@ Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-
 **S**
 
 
-- [[[sci,SCI]]] Sofware Carbon Intensity, https://learn.greensoftware.foundation/measurement oder https://www.infoq.com/presentations/green-software-climate-crisis/ (Video; Erklärung des SCI ab ca. min 25:00)
+- [[[sci, SCI]]] Sofware Carbon Intensity, https://learn.greensoftware.foundation/measurement oder https://www.infoq.com/presentations/green-software-climate-crisis/ (Video; Erklärung des SCI ab ca. min 25:00)
 
 - [[[siec, SIEC]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
 
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[starke, Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 
-- [[[sustyweb,W3C]]] Web Sustainability Guidelines (WSG) 1.0, https://w3c.github.io/sustyweb/
+- [[[sustyweb, W3C]]] Web Sustainability Guidelines (WSG) 1.0, https://w3c.github.io/sustyweb/
