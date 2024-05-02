@@ -64,17 +64,9 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
 
-**H**
-
-- [[[hargis, Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
-
 **J**
 
 - [[[joularjx, JoularJX]]] JJava-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
-
-**K**
-
-- [[[kruchten, Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 **P**
 
@@ -95,8 +87,5 @@ Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-
 - [[[sci, SCI]]] Sofware Carbon Intensity, https://learn.greensoftware.foundation/measurement oder https://www.infoq.com/presentations/green-software-climate-crisis/ (Video; Erklärung des SCI ab ca. min 25:00)
 
 - [[[siec, SIEC]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
-
-
-- [[[starke, Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 
 - [[[sustyweb, W3C]]] Web Sustainability Guidelines (WSG) 1.0, https://w3c.github.io/sustyweb/

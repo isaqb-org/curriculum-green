@@ -16,7 +16,7 @@ Kategorien sind beispielsweise:
 * Fullstack-Messwerkzeuge. Messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk.
 * Programmiersprachenspezifische Messwerkzeuge. Liefern "Whitebox"-Messungen innerhalb einer Anwendung.
 * Messwerkzeuge für Webanwendungen. Geben Auskunft u. a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird.
-* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann der Energieverbrauch nicht direkt gemessen werden. Stattdessen ist man auf vom Anbieter bereitgestellte Tools oder andere Schätzmethoden angewiesen. Die Teilnehmer kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
+* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann der Energieverbrauch nicht direkt gemessen werden. Stattdessen ist man auf vom Anbieter bereitgestellte Tools oder andere Schätzmethoden angewiesen. Die Teilnehmenden kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Messmethodik
