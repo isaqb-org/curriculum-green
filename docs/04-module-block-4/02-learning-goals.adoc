@@ -12,11 +12,11 @@ Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistu
 Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und deren Einsatzgebiete. Sie verstehen, wie man Werkzeuge der verschiedenen Kategorien für eine Analyse kombinieren kann.
 Kategorien sind beispielsweise
 
-* Hardware-Messwerkzeuge. Sie messen den Verbrauch direkt an der Hardware (z.B. Multimeter - messen direkt an der Stromquelle; Intel RAPL - misst u.a. den Energieverbrauch der CPU)
-* Fullstack-Messwerkzeuge. Sie messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk (z.B. Green Frame, Green Metrics Tool)
-* Programmiersprachenspezifische Messwerkzeuge. Sie liefern "whitebox"-Messungen innerhalb einer Anwendung, können z.T. auf Methoden-Ebene den Energieverbrauch messen (z.B. JoularJX (Java), Code Carbon (Python))
-* Messwerkzeuge für Webanwendungen geben Auskunft u.a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird (z.B. die Entwicklertools von Google Chrome mit GreenIT-Plugin)
-* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann nicht auf die Hardware-Schnittstelle zugegriffen werden um den Energieverbrauch zu messen. Stattdessen ist man auf vom Anbieter bereitgestellte Tools (z.B. Cloud Carbon Footprint Console) oder andere Schätzmethoden angewiesen. Die Teilnehmenden kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen (Managed Services mit reinen VMs zu vergleichen).
+* Hardware-Messwerkzeuge. Sie messen den Verbrauch direkt an der Hardware.
+* Fullstack-Messwerkzeuge. Sie messen alle Komponenten einer Anwendung wie Verbräuche pro Docker-Container, Netzwerk.
+* Programmiersprachenspezifische Messwerkzeuge. Sie liefern "whitebox"-Messungen innerhalb einer Anwendung, können.
+* Messwerkzeuge für Webanwendungen geben Auskunft u.a. über die Netzwerklast, die durch einen Seitenaufruf erzeugt wird.
+* Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann nicht auf die Hardware-Schnittstelle zugegriffen werden um den Energieverbrauch zu messen. Stattdessen ist man auf vom Anbieter bereitgestellte Tools  oder andere Schätzmethoden angewiesen. Die Teilnehmer kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
 
 [[LZ-4-3]]
 ==== LZ 4-3: Messmethodik
