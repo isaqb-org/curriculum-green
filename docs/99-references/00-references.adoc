@@ -13,23 +13,6 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
-
 **A**
 
 - [[[qmarc, arc42]]] arc42 Quality Model, https://quality.arc42.org
@@ -58,8 +41,6 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[greenmetricstool, Green Metrics Tool]]] Messen des Energie- / CO2-Verbrauch von Software-Architekturen, https://www.green-coding.io/de/projects/green-metrics-tool/
 
-- [[[greengrid, Power Usage Effectiveness 2007]]] Power Usage Effectiveness, https://en.wikipedia.org/wiki/Power_usage_effectiveness
-
 - [[[gsfpatterns, GSF]]] Green Software Design Patterns https://patterns.greensoftware.foundation/
 
 - [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
@@ -73,6 +54,8 @@ ATTENTION: labels have to be non-numeric.
 - [[[pue, PUE ]]] The Green Grid: PUE™: A Comprehensive
 Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf
 
+- [[[greengrid, Power Usage Effectiveness 2007]]] Power Usage Effectiveness, https://en.wikipedia.org/wiki/Power_usage_effectiveness
+
 - [[[pue-kurz-erklaert, PUE kritisch betrachtet]]] Bernd Schöne: Wärmestrom, https://www.heise.de/select/ix/2017/11/1509388934898770
 
 - [[[pereira, Pereira et al.]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva (2021): Ranking Programming Languages by Energy Efficiency
@@ -83,9 +66,10 @@ Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-
 
 **S**
 
+- [[[sci, SCI]]] Sofware Carbon Intensity, https://sci-guide.greensoftware.foundation/
 
-- [[[sci, SCI]]] Sofware Carbon Intensity, https://learn.greensoftware.foundation/measurement oder https://www.infoq.com/presentations/green-software-climate-crisis/ (Video; Erklärung des SCI ab ca. min 25:00)
+- [[[siec, Ackermann et al. 2022]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
 
-- [[[siec, SIEC]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
+**W**
 
 - [[[sustyweb, W3C]]] Web Sustainability Guidelines (WSG) 1.0, https://w3c.github.io/sustyweb/
