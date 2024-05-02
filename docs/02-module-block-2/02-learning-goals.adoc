@@ -14,7 +14,7 @@ Die Teilnehmenden kennen das Greenhouse Gas Protocol (GHP). Sie sind in der Lage
 [[LZ-2-3]]
 ==== LZ 2-3: Energieeffizienz im Unternehmen
 
-Die Teilnehmenden kennen die Motivation, um Green Software im Unternehmen zu platzieren und Argumentationen und die Adressaten für eine erfolgreiche Verankerung im Unternehmen. Sie können sinnvolle Ziele für die Reduktion von Treibhausgasen für Unternehmen setzen. Die Teilnehmer können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben und wie sich diese auf das eigene Unternehmen auswirken.
+Die Teilnehmenden kennen die Motivation, um Green Software im Unternehmen zu platzieren und Argumentationen und die Adressaten für eine erfolgreiche Verankerung im Unternehmen. Sie können sinnvolle Ziele für die Reduktion von Treibhausgasen für Unternehmen setzen. Die Teilnehmenden können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben und wie sich diese auf das eigene Unternehmen auswirken.
 
 [[LZ-2-4]]
 ==== LZ 2-4: Stakeholder und Priorisierungen
