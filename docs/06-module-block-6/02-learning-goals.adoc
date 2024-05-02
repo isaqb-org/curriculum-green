@@ -1,5 +1,4 @@
 === {learning-goals}
-Das Ziel dieses Kapitels ist es, dass die Teilnehmenden ihre bereits erworbenen Kenntnisse in Bezug auf Qualitätsanforderungen und unterschiedlichen Messverfahren beim Architekturentwurf berücksichtigen.
 
 // tag::DE[]
 [[LZ-6-1]]
@@ -16,11 +15,11 @@ Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relationa
 
 [[LZ-6-4]]
 ==== LZ 6-4: Spezifische Green IT Pattern
-Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Darüber hinaus sind sich die Teilnehmenden bewusst, dass man eine Reduzierung des CO~2~-Bedarfs durch die Verwendung von mehr erneuerbarer Energie oder durch eine Verringerung des Ressourcenbedarfs erzielen kann. Sie wissen, dass durch die Anwendung von Time- und Location Shifting der Anteil von grüner Energie erhöht werden kann während ander Muster wie beispielsweise Peak Shaving den Ressourcenbedarf verringert. Die Teilnehmenden sind in der Lage unterschiedliche Pattern beim Architekturentwurf zu berücksichtigen.
+Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Darüber hinaus sind sich die Teilnehmenden bewusst, dass man eine Reduzierung des CO~2~-Bedarfs durch die Verwendung von mehr erneuerbarer Energie oder durch eine Verringerung des Ressourcenbedarfs erzielen kann. Sie wissen, dass durch die Anwendung von Time- und Location Shifting der Anteil von grüner Energie erhöht werden kann während ander Muster wie beispielsweise Peak Shaving den Ressourcenbedarf verringert.
 
 [[LZ-6-5]]
 ==== LZ 6-5: Web Sustainability Guidelines
-Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz, die beim Web Design zu berücksichtigen sind, wie beispielsweise Browser Caching, Einsatz eines CDNs, Edge Caching und sind in der Lage diese in ihren Anwendungen umzusetzen. Sie kennen unterschiedliche Dateiformate und Arten von graphische Elemente (Animationen) und sind in der Lage deren Energieeffizienz einzuschätzen.
+Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz, die beim Web Design zu berücksichtigen sind, wie beispielsweise Browser Caching, Einsatz eines CDNs, Edge Caching und sind in der Lage diese in ihren Anwendungen umzusetzen. Sie kennen unterschiedliche Dateiformate und Arten von graphischen Elementen (z. B. Animationen) und sind in der Lage deren Energieeffizienz einzuschätzen.
 
 // end::DE[]
 

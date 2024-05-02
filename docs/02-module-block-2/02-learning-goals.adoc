@@ -19,7 +19,7 @@ Die Teilnehmenden kennen die Motivation, um Green Software im Unternehmen zu pla
 [[LZ-2-4]]
 ==== LZ 2-4: Stakeholder und Priorisierungen
 
-Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Handlungsfelder. Sie kennen die Bereiche, bei denen die größten Hebel für die Reduktion von Treibhausgasen bestehen und können Maßnahmen entsprechend priorisieren. Die Teilnehmenden können unterschiedliche Softwaresysteme Klassifizieren und Aufwand und Nutzen einer Optimierung erkennen.
+Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Handlungsfelder. Sie kennen die Bereiche, bei denen die größten Hebel für die Reduktion von Treibhausgasen bestehen und können Maßnahmen entsprechend priorisieren. Die Teilnehmenden können unterschiedliche Softwaresysteme klassifizieren und Aufwand und Nutzen einer Optimierung erkennen.
 
 // end::DE[]
 
