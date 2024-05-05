@@ -22,7 +22,7 @@ Kategorien sind beispielsweise:
 ==== LZ 4-3: Messmethodik
 Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i. d. R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert. Sie kennen Proxy-Metriken für die CO~2~-Intensität.
 
-Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffziienz aufsetzen.
+Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffizienz aufsetzen.
 
 * Sie kennen Kriterien zum Gestalten der Szenarien (z. B. gängige Abläufe, Priorisierung nach Nutzungshäufigkeit).
 * Sie wissen, an welchen Schnittstellen sie abhängig vom Ziel der Messung ansetzen (Ende-zu-Ende-Szenarien, an APIs ansetzen, etc.).
@@ -33,9 +33,9 @@ Die Teilnehmenden verstehen, dass das Vorgehen der Energieeffizienzmessung verwa
 
 [[LZ-4-4]]
 ==== LZ 4-4: Messen der Energieeffizienz in den Entwicklungsprozess integrieren
-Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklungsprozess integriert. Sie kennen Möglichkeiten, die Messungen in die CI/CD-Pipeline zu integrieren. Sie verstehen, wie sie eine gute Balance für die Häufigkeit der Messungen finden - einerseits sollen (negative) Trends schnell erkannt werden, andererseits verbraucht das Messen selber ebenfalls Energie.
+Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklungsprozess integriert. Sie kennen Möglichkeiten, die Messungen in die CI/CD-Pipeline zu integrieren. Sie verstehen, wie sie eine gute Balance für die Häufigkeit der Messungen finden - einerseits sollen (negative) Trends schnell erkannt werden, andererseits verbraucht das Messen selbst ebenfalls Energie.
 
-Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass fogende Punkte für die Akzeptanz ebenfalls wichtig sind:
+Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass folgende Punkte für die Akzeptanz ebenfalls wichtig sind:
 
 * Die Erstellung der Szenarien für die Messung muss einfach sein. Es ist von Vorteil, dafür Werkzeuge zu verwenden, die im Projekt bereits etabliert sind (z. B. Frameworks zum Erstellen von Ende-zu-Ende-Tests)
 * Die Darstellung der Messergebnisse muss übersichtlich, gut und schnell verständlich sein. Insbesondere müssen die wichtigsten Ergebnisse wie Trends oder signifikante Abweichungen im Verbrauch direkt erkennbar sein.

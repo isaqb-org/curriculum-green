@@ -4,7 +4,7 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Globale Herausforderungen des Klimawandels
 
-Die Teilnehmenden kennen die globalen Herausforderungen des Klimawandels. Sie kennen den steigenden Energie- und Ressourcenbedarf der IT und deren wesentliche Treiber. Sie können erklären, wieso sich auch die IT mit dem Thema Resourcen- und Energieeffizienz beschäftigen muss.
+Die Teilnehmenden kennen die globalen Herausforderungen des Klimawandels. Sie kennen den steigenden Energie- und Ressourcenbedarf der IT und deren wesentliche Treiber. Sie können erklären, wieso sich auch die IT mit dem Thema Ressourcen- und Energieeffizienz beschäftigen muss.
 
 [[LZ-1-2]]
 ==== LZ 1-2: Möglichkeiten zur Einsparung von Energie durch Digitalisierung

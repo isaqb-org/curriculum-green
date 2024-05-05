@@ -6,7 +6,7 @@
 [[LZ-8-1]]
 ==== LZ 8-1: CI/CD
 
-Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
 
 [[LZ-8-2]]
 ==== LZ 8-2: Optimierung der CI/CD Prozesse

@@ -15,7 +15,7 @@ Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relationa
 
 [[LZ-6-4]]
 ==== LZ 6-4: Spezifische Green IT Pattern
-Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Darüber hinaus sind sich die Teilnehmenden bewusst, dass man eine Reduzierung des CO~2~-Bedarfs durch die Verwendung von mehr erneuerbarer Energie oder durch eine Verringerung des Ressourcenbedarfs erzielen kann. Sie wissen, dass durch die Anwendung von Time- und Location Shifting der Anteil von grüner Energie erhöht werden kann während ander Muster wie beispielsweise Peak Shaving den Ressourcenbedarf verringert.
+Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Darüber hinaus sind sich die Teilnehmenden bewusst, dass man eine Reduzierung des CO~2~-Bedarfs durch die Verwendung von mehr erneuerbarer Energie oder durch eine Verringerung des Ressourcenbedarfs erzielen kann. Sie wissen, dass durch die Anwendung von Time- und Location Shifting der Anteil von grüner Energie erhöht werden kann während andere Muster, wie beispielsweise Peak Shaving, den Ressourcenbedarf verringert.
 
 [[LZ-6-5]]
 ==== LZ 6-5: Web Sustainability Guidelines
