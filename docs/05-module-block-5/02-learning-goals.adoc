@@ -3,16 +3,16 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Energieeffizienz in der Softwareentwicklung
-Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Opimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenswerten Zielen unterscheiden. Die Teilnehmenden kennen die Energieeffizienz verschiedener Programmiersprachen und können einschätzen, für welche Einsatzgebiete diese geeignet sind. Sie können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. Darüber hinaus verstehen sie die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung, von Bytecode und Maschine Code sowie die Zielkonflikte von Garbage-Collectoren. 
+Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Optimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenden Zielen unterscheiden. Die Teilnehmenden kennen die Energieeffizienz verschiedener Programmiersprachen und können einschätzen, für welche Einsatzgebiete diese geeignet sind. Sie können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. Darüber hinaus verstehen sie die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung, von Bytecode und Maschine Code sowie die Zielkonflikte von Garbage-Collectoren. 
 
 [[LZ-5-2]]
 ==== LZ 5-2: Datenhandling
-Die Teilnehmenden kennen Verfahren um mit großen Datenmenken umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
+Die Teilnehmenden kennen Verfahren, um mit großen Datenmengen umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
  
 
 [[LZ-5-3]]
 ==== LZ 5-3: Optimierungen
-Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können Algotithmen bezüglich ihrer Laufzeit- und Energieeffizienz bewerten und auswählen. Sie können Caches in Verbindung mit Energieeffizienz einsetzen, kennen deren Funktionsweise (z. B. Cache-Ersetzung) sowie die Vor- und Nachteile. Sie kennen Möglichkeiten und Grenzen von Werkzeugen zum Aufdecken von Energy Code Smells.
+Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können Algorithmen bezüglich ihrer Laufzeit- und Energieeffizienz bewerten und auswählen. Sie können Caches in Verbindung mit Energieeffizienz einsetzen, kennen deren Funktionsweise (z. B. Cache-Ersetzung) sowie die Vor- und Nachteile. Sie kennen Möglichkeiten und Grenzen von Werkzeugen zum Aufdecken von Energy Code Smells.
 
 
 // end::DE[]
