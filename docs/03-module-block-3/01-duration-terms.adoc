@@ -11,11 +11,11 @@ Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010
 
 // tag::EN[]
 |===
-| Duration: XXX 30 | Practice time: 15 min
+| Duration: 45 min | Practice time: 15 min
 |===
 
 === Terms and Principles
-quality model, quality goal, szenario, ISO 25010
+Quality model, quality scenarios, quality objectives, ISO 25010
 
 // end::EN[]
 

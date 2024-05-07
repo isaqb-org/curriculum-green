@@ -10,10 +10,11 @@ Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffiz
 
 // tag::EN[]
 |===
-| Duration: 60 Min | Practice time: 30 min
+| Duration: 90 Min | Practice time: 60 min
 |===
 
 === Terms and Principles
+Software Carbon Intensity (SCI), business metrics, proxy metrics, energy efficiency, categories of measurement methods, measurement tools
 
 // end::EN[]
 

@@ -13,7 +13,7 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 - Erste praktische Erfahrungen mit Performance Engineering
 - Erste praktische Erfahrung mit gängigen Cloud-Anbietern
-- Erste praktische Erfahrung mit CI/CD-Pipelines.
+- Erste praktische Erfahrung mit CI/CD-Pipelines
 
 // end::DE[]
 
@@ -22,10 +22,16 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- TODO
+- Practical experience in the design and development of small to medium-sized software systems
+- Knowledge of the life cycle of software systems
+- Dealing with quality requirements
+- Practical experience in monitoring software systems
+- Practical programming experience
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- TODO
+- First practical experience with performance engineering
+- First practical experience with common cloud providers
+- First practical experience with CI/CD pipelines
 
 // end::EN[]

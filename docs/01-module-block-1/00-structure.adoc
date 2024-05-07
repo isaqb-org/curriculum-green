@@ -8,7 +8,7 @@
 // end::DE[]
 
 // tag::EN[]
-== TODO
+== Climate change, opportunities of digitalisation, role of IT, basic concepts 
 // end::EN[]
 
 

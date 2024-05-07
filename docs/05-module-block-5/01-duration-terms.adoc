@@ -4,17 +4,16 @@
 |===
 
 === Begriffe und Konzepte
-Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschine Code, 
-Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenbanksysteme, Datenmodelle
+Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschine Code, Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenbanksysteme, Datenmodelle
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 60 min
+| Duration: 75 min | Practice time: none
 |===
 
 === Terms and Principles
-TODO
+Programming languages, ahead-of-time and just-in-time compilation, bytecode, machine code, garbage collection, data structures, algorithms, computational complexity, caching, database systems, data models
 
 // end::EN[]

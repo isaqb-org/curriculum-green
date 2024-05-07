@@ -45,28 +45,46 @@ Die Teilnehmenden wissen wie und in welchem Rahmen sie bei einzelnen Cloud-Anbie
 // end::DE[]
 
 // tag::EN[]
-[[LG-7-1]]
-==== LG 7-1: TODO
-TODO
 
+[[LG-7-1]]
+==== LG 7-1: Energy efficiency of data centres and hardware
+Participants can assess the energy efficiency of a data centre. They know the Power Usage Effectiveness (PUE) and its advantages and disadvantages.
+
+Participants know the power-load relationship of hardware. They can calculate and estimate the Server Idle Energy Coefficient (SIEC).
 [[LG-7-2]]
-==== LG 7-2: TODO
-TODO
+==== LG 7-2: Cloud service models
+Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar.
 
 [[LG-7-3]]
-==== LG 7-3: TODO
-TODO
+==== LG 7-3: Cloud deployment models
+Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
 [[LG-7-4]]
-==== LG 7-4: TODO
-TODO
+==== LG 7-4: Evaluate suppliers according to ecologically sustainable aspects
+Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others
+
+* Information on the current status of a provider's emissions (e.g. sustainability reports, environmental reports).
+* Measures that providers are currently implementing to reduce or offset emissions.
+* Roadmap and climate targets of providers for the future.
+
+In addition, the participants know the possibilities and limitations of the providers in monitoring emissions from their own resource use as provided by the providers' tools.
 
 [[LG-7-5]]
-==== LG 7-5: TODO
-TODO
+==== LG 7-5: Operational antipatterns
+Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution.
 
 [[LG-7-6]]
-==== LG 7-6: TODO
-TODO
+==== LG 7-6: CO~2~ optimisation in the cloud
+Participants know how and to what extent they can influence the CO~2~ emissions of individual cloud providers by, among other things
+
+* Selecting zones with low-emission energy supply.
+* Dimensioning resources sparingly and only scaling them when required.
+* Optimising demand in terms of emissions ("time shifting", "peak shaving").
+* Autoscaling.
+* Utilise efficient data storage (according to access path and frequency).
+* Reduction or shortening of network traffic.
+* Serverless computing.
+* Use of managed services.
+
 // end::EN[]
 

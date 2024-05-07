@@ -10,9 +10,10 @@ Klimawandel, Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachha
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 0 min
+| Duration: 60 min | Practice time: none
 |===
 
 === Terms and Principles
-Consumption of ICT, Savings through ICT, Sustainability, CO2, CO2 equivalents, Negative externalities, Watts, Joules, Efficiency, Effectiveness
+Climate change, consumption of IT, savings through IT, savings in IT, sustainability, CO~2~, CO~2~-equivalents, negative external effects, watts, joules, efficiency, effectiveness
+
 // end::EN[]

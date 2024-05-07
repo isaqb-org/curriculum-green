@@ -4,16 +4,16 @@
 |===
 
 === Begriffe und Konzepte
-Monolith, Microservices, Serverless, Inter-Prozess-Kommunikation, Datenbanken
+Architekturstile, Monolith, Microservices, Serverless, Inter-Prozess-Kommunikation, Datenbanken, Green IT Pattern
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 30 min
+| Duration: 90 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-monolith, microservices, serverless, communication, databases
+Architecture styles, monolith, microservices, serverless, inter-process communication, databases, green IT patterns
 
 // end::EN[]

@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== TODO
+== Principles, regulation and effects on companies
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

@@ -10,9 +10,10 @@ Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-M
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Duration: 75 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-TODO
+Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-Modelle, Deployment-Modelle, Cloud-Anbieter, Cloud-Migration
+
 // end::EN[]

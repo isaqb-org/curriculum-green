@@ -24,5 +24,25 @@ Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an ener
 // end::DE[]
 
 // tag::EN[]
-TODO
+
+[[LG-2-1]]
+==== LG 2-1: Regulation
+
+Participants know the regulatory framework and the requirements it contains for saving CO~2~. They know the existing certifications, such as the Blue Angel, and can use them appropriately in their work. Participants are familiar with standards such as ESG (Environmental Social Governance) and CSRD (Corporate Sustainability Reporting Directive) and their effects and consequences for companies.
+
+[[LG-2-2]]
+==== LG 2-2: Greenhouse Gas Protocol
+
+Participants are familiar with the Greenhouse Gas Protocol (GHP). They are able to explain the scopes and assign emissions to the scopes. They can explain which scopes are affected when operating software in the cloud or on premise. Participants are familiar with ISO 14064-1 as a derivation of the Greenhouse Gas Protocol.
+
+[[LG-2-3]]
+==== LG 2-3: Energy efficiency in the company
+
+The participants know the motivation for placing green software in the company and the arguments and addressees for successfully anchoring it in the company. They can set sensible targets for the reduction of greenhouse gases for companies. Participants can explain what requirements third parties have along the value chain and how these affect their own company.
+
+[[LG-2-4]]
+==== LG 2-4: Stakeholders and prioritization
+
+Participants know the requirements of the various stakeholders for energy-efficient software and the resulting fields of action. They know the areas with the greatest leverage for reducing greenhouse gases and can prioritize measures accordingly. Participants can classify different software systems and recognize the costs and benefits of optimization.
+
 // end::EN[]
