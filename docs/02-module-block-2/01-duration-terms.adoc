@@ -10,11 +10,11 @@ Energieeffizienz, Zertifizierungen (z. B. Blauer Engel, TCO), Regulatorische Anf
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 0 min
+| Duration: 60 min | Practice time: none
 |===
 
 === Terms and Principles
-Energy efficiency, Certifications (e. g. Blue Angel, TCO), Policy requirements (e. g. CRSD), Greenhouse Gas Protocol
+Energy efficiency, certifications (e.g. Blue Angel, TCO), regulatory requirements (e.g. CSRD, ESD), Greenhouse Gas Protocol (GHG Protocol)
 
 // end::EN[]
 

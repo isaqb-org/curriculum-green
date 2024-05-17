@@ -12,8 +12,11 @@ Am Ende des Moduls {curriculum-short} kennen die Teilnehmenden die wesentlichen 
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
-TODO
+While IT was long seen as the solution to many problems associated with climate change, it has now itself become the subject of optimisation considerations. Inefficient programming, often caused by the need for a fast time-to-market, has often been compensated for by ever faster hardware or more resources in the cloud. This path must be abandoned. The CO~2~ emissions caused by software must be consistently reduced.
+
+In the {curriculum-short} module, participants learn to take a holistic view of the topic of green software. This begins with an examination of the role of IT in halting climate change, an introduction to current regulations, a view of the requirements of various stakeholders and the identification of fields of action in companies. From there, we move on to measuring and monitoring CO~2~ emissions and energy consumption and on to the core topic of software development. This central topic area includes the energy efficiency of various software architectures and basic concepts used, energy-efficient data handling, optimised algorithms and also the influence and management of quality requirements in relation to energy efficiency. Another important component is the topic of the cloud, both in terms of provider selection and the possibilities for low-CO~2~ operation. Finally, options for improving energy efficiency in the development process are considered.
+
+At the end of the module {curriculum-short}, participants will know the key levers for reducing CO~2~ in IT. They will be able to assess the impact of software architecture and how architecture patterns and styles work. They know the pitfalls of data handling and can assess the impact of the selection of technical components. With regard to the cloud, participants know how to utilise the options offered there in terms of energy efficiency.
+
 // end::EN[]
 

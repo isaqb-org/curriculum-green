@@ -26,7 +26,15 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-TODO
+| 1. Climate change, opportunities of digitalisation, role of IT, basic concepts | 60
+| 2. Principles, regulation and effects on companies | 60
+| 3. Quality | 60
+| 4. Measurement and monitoring | 150
+| 5. Software development | 75
+| 6. Software architecture | 150
+| 7. Operation | 105
+| 8. Energy-efficient development process | 60
+| |
 | Total | 720 (12h)
 
 |===
