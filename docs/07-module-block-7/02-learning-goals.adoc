@@ -31,7 +31,7 @@ Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs u
 
 [[LZ-7-6]]
 ==== LZ 7-6: CO~2~-Optimierung in der Cloud
-Die Teilnehmenden wissen wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die CO~2~-Emissionen beeinflussen können durch u. a.
+Die Teilnehmenden wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die CO~2~-Emissionen beeinflussen können durch u. a.
 
 * Auswahl von Zonen mit emissionsarmer Energieversorgung.
 * Ressourcen sparsam dimensionieren und erst bei Bedarf skalieren.
