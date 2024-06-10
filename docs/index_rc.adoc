@@ -7,13 +7,13 @@ The international Software Architecture Qualification Board (link:https://isaqb.
 
 The **Release Candidates** of the **{curriculum-name} [{curriculum-short}]** advanced level curriculum are currently maintained and published in both English (EN) and German (DE). Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
 
-== Current Release Candidate v2023.1
+== Current Release Candidate v2024.1
 
-image:https://img.shields.io/github/last-commit/isaqb-org/advanced-template/main.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/advanced-template/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/advanced-template.svg["Issues",link="https://github.com/isaqb-org/advanced-template/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/advanced-template.svg["Issues closed",link="https://github.com/isaqb-org/advanced-template/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
-image:https://img.shields.io/github/commits-since/isaqb-org/advanced-template/latest.svg[]
+image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-green/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-green.svg["Contributors",link="https://github.com/isaqb-org/curriculum-green/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/curriculum-green.svg["Issues",link="https://github.com/isaqb-org/curriculum-green/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-green.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-green/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
+image:https://img.shields.io/github/commits-since/isaqb-org/curriculum-green/latest.svg[]
 |===
 | Version | HTML | PDF
 
@@ -27,6 +27,6 @@ image:https://img.shields.io/github/commits-since/isaqb-org/advanced-template/la
 
 |===
 
-== Changes compared to XXX
-- link:https://github.com/isaqb-org/advanced-template/blob/main/CHANGELOG.md[CHANGELOG.md on GitHub]
+== Changes
+- link:https://github.com/isaqb-org/curriculum-green/blob/main/CHANGELOG.md[CHANGELOG.md on GitHub]
 // - link: [HTML diff to the latest curriculum] T.B.A.
