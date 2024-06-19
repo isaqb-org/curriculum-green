@@ -3,20 +3,21 @@
 
 // tag::DE[]
 [[LZ-7-1]]
-==== LZ 7-1: Energieeffizienz von Rechenzentren und Hardware
+==== LZ 7-1: Energieeffizienz von Rechenzentren und Hardware beziffern 
 Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile.
 
 Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
+
 [[LZ-7-2]]
-==== LZ 7-2: Cloud Service Modelle
+==== LZ 7-2: Cloud Service Modelle kennen und bezüglich Energieeffizienz beurteilen 
 Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind.
 
 [[LZ-7-3]]
-==== LZ 7-3: Cloud Deployment Modelle
+==== LZ 7-3: Cloud Deployment Modelle kennen und bezüglich Energieeffizienz beurteilen 
 Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem "Public Cloud", "Private Cloud", "Hybrid Cloud" und klassischer On-Premise-Betrieb. Sie können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und CO~2~-Emissionseffizienz haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
 
 [[LZ-7-4]]
-==== LZ 7-4: Anbieter nach ökologisch-nachhaltigen Aspekten bewerten
+==== LZ 7-4: Anbieter nach ökologisch-nachhaltigen Aspekten bewerten und auswählen
 Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschiedenen Anbieter zu beurteilen, um diese in einer Auswahl berücksichtigen zu können. Dazu wissen sie, wie sie u. a. an folgende Informationen gelangen
 
 * Informationen zum aktuellen Stand der Emissionen eines Anbieters (z. B. Sustainability Reports, Environmental Reports).
@@ -26,11 +27,11 @@ Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschied
 Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter bereitgestellt werden.
 
 [[LZ-7-5]]
-==== LZ 7-5: Betriebliche Antipatterns
+==== LZ 7-5: Betriebliche Antipatterns kennen
 Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
 
 [[LZ-7-6]]
-==== LZ 7-6: CO~2~-Optimierung in der Cloud
+==== LZ 7-6: CO~2~-Optimierung in der Cloud vornehmen
 Die Teilnehmenden wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die CO~2~-Emissionen beeinflussen können durch u. a.
 
 * Auswahl von Zonen mit emissionsarmer Energieversorgung.
@@ -47,20 +48,21 @@ Die Teilnehmenden wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbi
 // tag::EN[]
 
 [[LG-7-1]]
-==== LG 7-1: Energy efficiency of data centres and hardware
+==== LG 7-1: Quantifying the energy efficiency of data centres and hardware 
 Participants can assess the energy efficiency of a data centre. They know the Power Usage Effectiveness (PUE) and its advantages and disadvantages.
 
 Participants know the power-load relationship of hardware. They can calculate and estimate the Server Idle Energy Coefficient (SIEC).
+
 [[LG-7-2]]
-==== LG 7-2: Cloud service models
+==== LG 7-2: Know cloud service models and assess them in terms of energy efficiency 
 Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar.
 
 [[LG-7-3]]
-==== LG 7-3: Cloud deployment models
+==== LG 7-3: Know cloud deployment models and assess them in terms of energy efficiency 
 Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
 [[LG-7-4]]
-==== LG 7-4: Evaluate suppliers according to ecologically sustainable aspects
+==== LG 7-4: Evaluate and select suppliers according to ecologically sustainable aspects
 Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others
 
 * Information on the current status of a provider's emissions (e.g. sustainability reports, environmental reports).
@@ -70,11 +72,11 @@ Participants are able to assess ecologically sustainable aspects of the various 
 In addition, the participants know the possibilities and limitations of the providers in monitoring emissions from their own resource use as provided by the providers' tools.
 
 [[LG-7-5]]
-==== LG 7-5: Operational antipatterns
+==== LG 7-5: Knowing operational antipatterns
 Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution.
 
 [[LG-7-6]]
-==== LG 7-6: CO~2~ optimisation in the cloud
+==== LG 7-6: Carry out CO~2~ optimisation in the cloud
 Participants know how and to what extent they can influence the CO~2~ emissions of individual cloud providers by, among other things
 
 * Selecting zones with low-emission energy supply.
