@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Klimawandel, Chancen der Digitalisierung, Rolle der IT, Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO~2~-Fußabdruck, CO~2~-Handabdruck, CO~2~-Äquivalente, Watt, Joule 
+== Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte
 // end::DE[]
 
 // tag::EN[]
-== Climate change, opportunities of digitalisation, role of IT, sustainability, energy efficiency, negative external effect, carbon footprint, carbon handprint, carbon equivalents, watts, joules 
+== Climate change, opportunities of digitalisation, role of IT, basic concepts
 // end::EN[]
 
 
