@@ -49,7 +49,7 @@ This section contains references that are cited in the curriculum.
 
 **J**
 
-- [[[joularjx, JoularJX]]] JJava-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
+- [[[joularjx, JoularJX]]] Java-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
 
 **P**
 
@@ -61,7 +61,7 @@ This section contains references that are cited in the curriculum.
 
 **S**
 
-- [[[sci, SCI]]] Sofware Carbon Intensity, https://sci-guide.greensoftware.foundation/
+- [[[sci, SCI]]] Software Carbon Intensity, https://sci-guide.greensoftware.foundation/
 
 - [[[siec, Ackermann et al. 2022]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
 

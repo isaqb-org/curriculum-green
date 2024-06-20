@@ -17,7 +17,7 @@ Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~
 Die Teilnehmenden können den Energieverbrauch der Informationstechnik beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IT und zentrale Stellschrauben.
 
 [[LZ-1-4]]
-==== LZ 1-4: Handlungsfelder für das Einsaparen von CO~2~ kennen
+==== LZ 1-4: Handlungsfelder für das Einsparen von CO~2~ kennen
 
 Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO~2~:
 
