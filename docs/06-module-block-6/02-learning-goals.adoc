@@ -10,8 +10,8 @@ Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise v
 Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage den Einfluss von Datenkompression auf das übertragenen Datenvolumen zu bewerten und wissen, dass die Energieeffizienz durch eine Reduzierung von Aufrufhäufigkeit und des Datenvolumens positiv beeinflusst wird.
 
 [[LZ-6-3]]
-==== LZ 6-3: Datenbanken und deren Eigenschaften im Bezug auf Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und unterschiedliche Datenbanksysteme (Postgres, DB2, Oracle, etc.) und können die richtige Auswahl unter dem Aspekt der Energieeffizienz treffen. Sie sind in der Lage ein geeignetes Service-Modell (self-hosting versus cloud-based managed service) für ihre Datenhaltung auszuwählen.
+==== LZ 6-3: Datenbanken und deren Eigenschaften in Bezug auf Energieeffizienz kennen
+Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und unterschiedliche Datenbanksysteme (PostgreSQL, DB2, Oracle, etc.) und können die richtige Auswahl unter dem Aspekt der Energieeffizienz treffen. Sie sind in der Lage ein geeignetes Service-Modell (self-hosting versus cloud-based managed service) für ihre Datenhaltung auszuwählen.
 
 [[LZ-6-4]]
 ==== LZ 6-4: Spezifische Green IT Pattern kennen und anwenden 
