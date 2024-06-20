@@ -48,7 +48,7 @@ Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgew
 Participants are able to relate resources to the service provided (business metric). They are familiar with the ISO standard Software Carbon Intensity (SCI) as a metric and understand how it can be used as a business metric.
 
 [[LG-4-2]]
-==== LG 4-2: Know and use measuring methods and tools
+==== LG 4-2: Knowing and using measuring methods and tools
 Participants know different categories of measurement methods and their areas of application. They understand how to combine tools from the different categories for an analysis.
 Categories include, for example:
 
@@ -59,7 +59,7 @@ Categories include, for example:
 * Carbon footprint tools from cloud providers. In cloud environments, energy consumption cannot be measured directly. Instead, you have to rely on tools provided by the provider or other estimation methods. Participants are familiar with the functionality and limitations of these tools (inaccuracy, relative data, necessary authorisations in the cloud console) as well as the challenges of comparing managed services with pure VMs.
 
 [[LG-4-3]]
-==== LG 4-3: Know and apply measurement methods
+==== LG 4-3: Knowing and applying measurement methods
 The participants know the methodological procedure for measuring energy consumption and CO~2~ intensity. They understand that it is generally not possible to evaluate/measure absolute consumption very precisely (especially in the cloud), but how to analyse trends instead. They know proxy metrics for CO~2~ intensity.
 
 Participants know how to set up meaningful scenarios for measuring energy efficiency.
@@ -72,7 +72,7 @@ Participants know how to set up meaningful scenarios for measuring energy effici
 Participants understand that the procedure for measuring energy efficiency is related to the procedure for measuring performance. Participants understand how to proceed systematically in order to narrow down consumption hotspots.
 
 [[LG-4-4]]
-==== LG 4-4: Know integration options for measuring energy efficiency in the development process
+==== LG 4-4: Knowing integration options for measuring energy efficiency in the development process
 Participants know how to integrate energy efficiency measurements into the development process. They know how to integrate the measurements into the CI/CD pipeline. They understand how to find a good balance for the frequency of the measurements - on the one hand (negative) trends should be recognised quickly, on the other hand the measurement itself also consumes energy.
 
 Participants understand that the measurements must be as simple and lightweight as possible for developers to use in order to increase acceptance. They understand that energy efficiency measurements compete with quick feedback from the build. You understand that the following points are also important for acceptance:

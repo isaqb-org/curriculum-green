@@ -26,7 +26,7 @@ Die Teilnehmenden kennen die Vorschläge des W3C Energieeffizienz, die beim Web 
 // tag::EN[]
 
 [[LG-6-1]]
-==== LG 6-1: Know and understand architectural styles and their relation to energy efficiency
+==== LG 6-1: Knowing and understanding architectural styles and their relation to energy efficiency
 Participants can assess different architectural styles such as distributed systems, structured monoliths or serverless and their impact on energy efficiency. In addition, they are able to assess the difference between stateless and stateful components in terms of energy requirements. Participants are familiar with the principles of cloud-native architectures and their impact on energy efficiency.
 
 [[LG-6-2]]
@@ -34,15 +34,15 @@ Participants can assess different architectural styles such as distributed syste
 Participants are familiar with different types of communication (synchronous versus asynchronous) between building blocks in relation to the provision of data and the formats and protocols used (text-based versus binary protocols) with regard to energy efficiency. They are able to evaluate the influence of data compression on the transferred data volume and know that energy efficiency is positively influenced by a reduction in call frequency and data volume.
 
 [[LG-6-3]]
-==== LG 6-3: Know databases and their properties in relation to energy efficiency
+==== LG 6-3: Knowing databases and their characteristics in relation to energy efficiency
 Participants are familiar with different types of database models (relational, NoSQL, etc.) and different database systems (Postgres, DB2, Oracle, etc.) and can make the right choice in terms of energy efficiency. They are able to select a suitable service model (self-hosting versus cloud-based managed service) for their data storage.
 
 [[LG-6-4]]
-==== LG 6-4: Know and apply specific Green IT patterns 
+==== LG 6-4: Knowing and applying specific Green IT patterns 
 Participants are generally familiar with patterns such as those of the Green Software Foundation to improve the energy efficiency of an architecture. In addition, the participants are aware that a reduction in CO~2~ requirements can be achieved by using more renewable energy or by reducing resource requirements. They know that by applying time and location shifting, the proportion of green energy can be increased while other patterns, such as peak shaving, reduce resource requirements.
 
 [[LG-6-5]]
-==== LG 6-5: Know and use Web Sustainability Guidelines
+==== LG 6-5: Knowing and using Web Sustainability Guidelines
 Participants are familiar with the W3C energy efficiency proposals to be considered in web design, such as browser caching, use of a CDN, edge caching and are able to implement these in their applications. They are familiar with different file formats and types of graphic elements (e.g. animations) and are able to assess their energy efficiency.
 
 // end::EN[]

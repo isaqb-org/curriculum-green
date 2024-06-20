@@ -54,15 +54,15 @@ Participants can assess the energy efficiency of a data centre. They know the Po
 Participants know the power-load relationship of hardware. They can calculate and estimate the Server Idle Energy Coefficient (SIEC).
 
 [[LG-7-2]]
-==== LG 7-2: Know cloud service models and assess them in terms of energy efficiency 
+==== LG 7-2: Knowing cloud service models and assessing them in terms of energy efficiency 
 Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar.
 
 [[LG-7-3]]
-==== LG 7-3: Know cloud deployment models and assess them in terms of energy efficiency 
+==== LG 7-3: Knowing cloud deployment models and assessing them in terms of energy efficiency 
 Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
 [[LG-7-4]]
-==== LG 7-4: Evaluate and select suppliers according to ecologically sustainable aspects
+==== LG 7-4: Evaluating and selecting suppliers according to ecologically sustainable aspects
 Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others
 
 * Information on the current status of a provider's emissions (e.g. sustainability reports, environmental reports).
@@ -76,7 +76,7 @@ In addition, the participants know the possibilities and limitations of the prov
 Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution.
 
 [[LG-7-6]]
-==== LG 7-6: Carry out CO~2~ optimisation in the cloud
+==== LG 7-6: Carrying out CO~2~ optimisation in the cloud
 Participants know how and to what extent they can influence the CO~2~ emissions of individual cloud providers by, among other things
 
 * Selecting zones with low-emission energy supply.

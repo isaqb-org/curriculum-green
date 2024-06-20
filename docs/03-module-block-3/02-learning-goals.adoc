@@ -14,7 +14,7 @@ Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Q
 // tag::EN[]
 
 [[LG-3-1]]
-==== LG 3-1: Know quality models and their relation to energy efficiency
+==== LG 3-1: Knowing quality models and their relation to energy efficiency
 Participants are familiar with different quality models and can describe quality attributes relating to energy efficiency and categorise them in the quality models. In addition, participants are able to formulate quality scenarios for quality attributes in the area of energy efficiency. Depending on the intended use and the quantity structure of the application, they can consciously decide whether the quality criteria are used only for the application or for the optimisation of the development process.
 
 [[LG-3-2]]

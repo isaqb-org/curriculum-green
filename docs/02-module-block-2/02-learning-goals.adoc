@@ -26,12 +26,12 @@ Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an ener
 // tag::EN[]
 
 [[LG-2-1]]
-==== LG 2-1: Know the regulations and their requirements
+==== LG 2-1: Knowing the regulations and their requirements
 
 Participants know the regulatory framework and the requirements it contains for saving CO~2~. They know the existing certifications, such as the Blue Angel, and can use them appropriately in their work. Participants are familiar with standards such as ESG (Environmental Social Governance) and CSRD (Corporate Sustainability Reporting Directive) and their effects and consequences for companies.
 
 [[LG-2-2]]
-==== LG 2-2: Know and apply the Greenhouse Gas Protocol
+==== LG 2-2: Knowing and applying the Greenhouse Gas Protocol
 
 Participants are familiar with the Greenhouse Gas Protocol (GHP). They are able to explain the scopes and assign emissions to the scopes. They can explain which scopes are affected when operating software in the cloud or on premise. Participants are familiar with ISO 14064-1 as a derivation of the Greenhouse Gas Protocol.
 
