@@ -27,22 +27,22 @@ Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizie
 // tag::EN[]
 
 [[LG-8-1]]
-==== LG 8-1: Know CI/CD strategies and their resource requirements
+==== LG 8-1: Knowing CI/CD strategies and their resource requirements
 
 Participants are familiar with various strategies of Infrastructure as Code, Continuous Integration and Continuous Deployments. This includes why and when these are usually used, what basic resource requirements they can have and how test execution and code analyses can affect these requirements.
 
 [[LG-8-2]]
-==== LG 8-2: Carry out optimisation of CI/CD processes
+==== LG 8-2: Optimizing CI/CD processes
 
 Participants are familiar with methods for resource optimisation of CI/CD processes. Examples of this include the use of peak shaving and time shifting for planned builds, as well as deployment in close proximity to the target group in the context of the cloud.
 
 [[LG-8-3]]
-==== LG 8-3: Optimise the infrastructure
+==== LG 8-3: Optimising the infrastructure
 
 Participants know methods for optimising the development and deployment infrastructure. This includes, for example, consideration of the actual resilience required, the efficiency advantages of containers over virtual machines and the use of caching for build and test artefacts.
 
 [[LG-8-4]]
-==== LG 8-4: Optimise test strategy 
+==== LG 8-4: Optimising the test strategy 
 
 Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test gap analyses and the demand-oriented, time-limited provision of appropriate test environments.
 
