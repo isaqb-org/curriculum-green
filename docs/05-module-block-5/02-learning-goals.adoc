@@ -2,16 +2,16 @@
 
 // tag::DE[]
 [[LZ-5-1]]
-==== LZ 5-1: Energieeffizienz in der Softwareentwicklung
+==== LZ 5-1: Möglichkeiten zur Steigerung der Energieeffizienz in der Softwareentwicklung kennen
 Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Optimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenden Zielen unterscheiden. Die Teilnehmenden kennen die Energieeffizienz verschiedener Programmiersprachen und können einschätzen, für welche Einsatzgebiete diese geeignet sind. Sie können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. Darüber hinaus verstehen sie die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung, von Bytecode und Maschine Code sowie die Zielkonflikte von Garbage-Collectoren. 
 
 [[LZ-5-2]]
-==== LZ 5-2: Datenhandling
+==== LZ 5-2: Verfahren für energieeffizientes Datenhandling kennen und anwenden
 Die Teilnehmenden kennen Verfahren, um mit großen Datenmengen umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
  
 
 [[LZ-5-3]]
-==== LZ 5-3: Optimierungen
+==== LZ 5-3: Effekte und Möglichkeiten von Optimierungen kennen
 Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können Algorithmen bezüglich ihrer Laufzeit- und Energieeffizienz bewerten und auswählen. Sie können Caches in Verbindung mit Energieeffizienz einsetzen, kennen deren Funktionsweise (z. B. Cache-Ersetzung) sowie die Vor- und Nachteile. Sie kennen Möglichkeiten und Grenzen von Werkzeugen zum Aufdecken von Energy Code Smells.
 
 
@@ -20,15 +20,15 @@ Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können 
 // tag::EN[]
 
 [[LG-5-1]]
-==== LG 5-1: Energy efficiency in software development
+==== LG 5-1: Know ways to increase energy efficiency in software development
 Participants know the procedures and limits for optimising programs. They can distinguish sensible starting points from less worthwhile goals. Participants are familiar with the energy efficiency of various programming languages and can assess the areas of application for which they are suitable. They can evaluate the runtime behaviour and development speed of programming languages and make the right choice based on the requirements. They also understand the differences between ahead-of-time and just-in-time compilation, bytecode and machine code and the conflicting goals of garbage collectors. 
 
 [[LG-5-2]]
-==== LG 5-2: Data handling
+==== LG 5-2: Know and apply procedures for energy-efficient data handling
 Participants know methods for handling large amounts of data. They can assess data structures and operations on these data structures in terms of energy efficiency and make the right selection based on the given requirements. Participants know the pitfalls of using database systems and can avoid them. They are able to evaluate and optimally select different approaches for mapping relationships between entities on the basis of business requirements and quality requirements.
  
 [[LG-5-3]]
-==== LG 5-3: Optimisations
+==== LG 5-3: Know the effects and possibilities of optimisations
 Participants are familiar with the principle of computational complexity and can evaluate and select algorithms in terms of their runtime and energy efficiency. They can use caches in connection with energy efficiency, know how they work (e.g. cache replacement) as well as the advantages and disadvantages. They know the possibilities and limitations of tools for detecting energy code smells.
 
 // end::EN[]

@@ -2,27 +2,22 @@
 
 // tag::DE[]
 [[LZ-1-1]]
-==== LZ 1-1: Globale Herausforderungen des Klimawandels
+==== LZ 1-1: Globale Herausforderungen des Klimawandels kennen und beachten
 
 Die Teilnehmenden kennen die globalen Herausforderungen des Klimawandels. Sie kennen den steigenden Energie- und Ressourcenbedarf der IT und deren wesentliche Treiber. Sie können erklären, wieso sich auch die IT mit dem Thema Ressourcen- und Energieeffizienz beschäftigen muss.
 
 [[LZ-1-2]]
-==== LZ 1-2: Möglichkeiten zur Einsparung von Energie durch Digitalisierung
+==== LZ 1-2: Möglichkeiten zur Einsparung von Energie durch Digitalisierung kennen
 
 Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~ durch die Digitalisierung. Sie kennen die Sektoren, die besonders von Digitalisierung profitieren. Der Unterschied zwischen Einsparungen in der IT und durch die IT ist bekannt.
 
 [[LZ-1-3]]
-==== LZ 1-3: Energieverbrauch von IT einordnen, beziffern und deren Treiber benennen
+==== LZ 1-3: Energieverbrauch von IT einordnen, beziffern und deren Treiber kennen
 
 Die Teilnehmenden können den Energieverbrauch der Informationstechnik beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IT und zentrale Stellschrauben.
 
 [[LZ-1-4]]
-==== LZ 1-4: Basiskonzepte
-
-Die Teilnehmenden können Begriffe wie Nachhaltigkeit, Energieeffizienz, negativer externer Effekt, CO~2~-Fußabdruck und -Handabdruck einordnen. Wichtige Kennzahlen und physikalische Einheiten wie CO~2~, CO~2~-Äquivalente, Watt, Joule und deren Bedeutung werden verstanden.
-
-[[LZ-1-5]]
-==== LZ 1-5: Handlungsfelder
+==== LZ 1-4: Handlungsfelder für das Einsaparen von CO~2~ kennen
 
 Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO~2~:
 
@@ -35,27 +30,22 @@ Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO~2~:
 // tag::EN[]
 
 [[LG-1-1]]
-==== LG 1-1: Global challenges of climate change
+==== LG 1-1: Recognising and addressing the global challenges of climate change
 
 Participants are familiar with the global challenges of climate change. They know the increasing energy and resource requirements of IT and their main drivers. They can explain why IT must also address the issue of resource and energy efficiency.
 
 [[LG-1-2]]
-==== LG 1-2: Possibilities for saving energy through digitalisation
+==== LG 1-2: Knowing ways to save energy through digitalisation
 
 Participants know the possibilities for saving energy and CO~2~ through digitalisation. They know the sectors that particularly benefit from digitalisation. The difference between savings in IT and through IT is known.
 
 [[LG-1-3]]
-==== LG 1-3: Categorise and quantify the energy consumption of IT and name its drivers
+==== LG 1-3: Categorising and quantifying IT energy consumption and know its drivers
 
 Participants can quantify the energy consumption of information technology, categorise it in relation to other sectors and name the main drivers. They are familiar with trends and developments in IT and key levers.
 
 [[LG-1-4]]
-==== LG 1-4: Basic concepts
-
-Participants can categorise terms such as sustainability, energy efficiency, negative external effect, carbon footprint and carbon handprint. Important key figures and physical units such as CO~2~, CO~2~ equivalents, watts, joules and their meaning are understood.
-
-[[LG-1-5]]
-==== LG 1-5: Fields of action
+==== LG 1-4: Knowing the fields of action for saving CO~2~
 
 The participants know the fields of action for saving CO~2~:
 

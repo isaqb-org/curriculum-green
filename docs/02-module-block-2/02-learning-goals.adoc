@@ -2,22 +2,22 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Regulatorik
+==== LZ 2-1: Regulatorik und deren Anforderungen kennen
 
 Die Teilnehmenden kennen die Regulatorik und die darin enthaltenen Anforderungen zur Einsparung von CO~2~. Sie kennen die vorhandenen Zertifizierungen, beispielsweise den Blauen Engel, und können diese adäquat in ihrer Arbeit einsetzen. Die Teilnehmenden kennen Standards wie ESG (Evironmental Social Governance) und CSRD (Corporate Sustainability Reporting Directive) und deren Auswirkungen und Konsequenzen für Unternehmen.
 
 [[LZ-2-2]]
-==== LZ 2-2: Greenhouse Gas Protocol
+==== LZ 2-2: Greenhouse Gas Protocol kennen und anwenden 
 
 Die Teilnehmenden kennen das Greenhouse Gas Protocol (GHP). Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
 
 [[LZ-2-3]]
-==== LZ 2-3: Energieeffizienz im Unternehmen
+==== LZ 2-3: Energieeffizienz als Handlungsfeld im Unternehmen platzieren
 
 Die Teilnehmenden kennen die Motivation, um Green Software im Unternehmen zu platzieren und Argumentationen und die Adressaten für eine erfolgreiche Verankerung im Unternehmen. Sie können sinnvolle Ziele für die Reduktion von Treibhausgasen für Unternehmen setzen. Die Teilnehmenden können erklären, welche Anforderungen Dritte entlang der Wertschöpfungskette haben und wie sich diese auf das eigene Unternehmen auswirken.
 
 [[LZ-2-4]]
-==== LZ 2-4: Stakeholder und Priorisierungen
+==== LZ 2-4: Kennen der Stakeholder im Kontext von Green IT und deren Priorisierungen
 
 Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an energieeffiziente Software und die daraus resultierenden Handlungsfelder. Sie kennen die Bereiche, bei denen die größten Hebel für die Reduktion von Treibhausgasen bestehen und können Maßnahmen entsprechend priorisieren. Die Teilnehmenden können unterschiedliche Softwaresysteme klassifizieren und Aufwand und Nutzen einer Optimierung erkennen.
 
@@ -26,22 +26,22 @@ Die Teilnehmenden kennen die Anforderungen der verschiedenen Stakeholder an ener
 // tag::EN[]
 
 [[LG-2-1]]
-==== LG 2-1: Regulation
+==== LG 2-1: Knowing the regulations and their requirements
 
 Participants know the regulatory framework and the requirements it contains for saving CO~2~. They know the existing certifications, such as the Blue Angel, and can use them appropriately in their work. Participants are familiar with standards such as ESG (Environmental Social Governance) and CSRD (Corporate Sustainability Reporting Directive) and their effects and consequences for companies.
 
 [[LG-2-2]]
-==== LG 2-2: Greenhouse Gas Protocol
+==== LG 2-2: Knowing and applying the Greenhouse Gas Protocol
 
 Participants are familiar with the Greenhouse Gas Protocol (GHP). They are able to explain the scopes and assign emissions to the scopes. They can explain which scopes are affected when operating software in the cloud or on premise. Participants are familiar with ISO 14064-1 as a derivation of the Greenhouse Gas Protocol.
 
 [[LG-2-3]]
-==== LG 2-3: Energy efficiency in the company
+==== LG 2-3: Positioning energy efficiency as a field of action in the company
 
 The participants know the motivation for placing green software in the company and the arguments and addressees for successfully anchoring it in the company. They can set sensible targets for the reduction of greenhouse gases for companies. Participants can explain what requirements third parties have along the value chain and how these affect their own company.
 
 [[LG-2-4]]
-==== LG 2-4: Stakeholders and prioritization
+==== LG 2-4: Knowing the stakeholders in the context of green IT and their prioritisation
 
 Participants know the requirements of the various stakeholders for energy-efficient software and the resulting fields of action. They know the areas with the greatest leverage for reducing greenhouse gases and can prioritize measures accordingly. Participants can classify different software systems and recognize the costs and benefits of optimization.
 

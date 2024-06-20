@@ -7,7 +7,7 @@
 Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistung zu bringen (Business Metrik). Sie kennen als Metrik den ISO-Standard Software Carbon Intensity (SCI) und verstehen, wie dieser als Business Metrik genutzt werden kann.
 
 [[LZ-4-2]]
-==== LZ 4-2: Messverfahren und Messwerkzeuge
+==== LZ 4-2: Messverfahren und Messwerkzeuge kennen und einsetzen 
 Die Teilnehmenden kennen verschiedene Kategorien von Messverfahren und deren Einsatzgebiete. Sie verstehen, wie man Werkzeuge der verschiedenen Kategorien für eine Analyse kombinieren kann.
 Kategorien sind beispielsweise:
 
@@ -18,7 +18,7 @@ Kategorien sind beispielsweise:
 * Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann der Energieverbrauch nicht direkt gemessen werden. Stattdessen ist man auf vom Anbieter bereitgestellte Tools oder andere Schätzmethoden angewiesen. Die Teilnehmenden kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
 
 [[LZ-4-3]]
-==== LZ 4-3: Messmethodik
+==== LZ 4-3: Messmethodiken kennen und anwenden
 Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i. d. R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert. Sie kennen Proxy-Metriken für die CO~2~-Intensität.
 
 Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffizienz aufsetzen.
@@ -31,7 +31,7 @@ Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffi
 Die Teilnehmenden verstehen, dass das Vorgehen der Energieeffizienzmessung verwandt ist mit dem Vorgehen bei Performanz-Messungen. Die Teilnehmenden verstehen, wie man systematisch vorgeht, um Verbrauchshotspots einzugrenzen.
 
 [[LZ-4-4]]
-==== LZ 4-4: Messen der Energieeffizienz in den Entwicklungsprozess integrieren
+==== LZ 4-4: Integrationsmöglichkeiten zum Messen der Energieeffizienz im Entwicklungsprozess kennen
 Die Teilnehmenden wissen, wie man die Energieeffizienzmessungen in den Entwicklungsprozess integriert. Sie kennen Möglichkeiten, die Messungen in die CI/CD-Pipeline zu integrieren. Sie verstehen, wie sie eine gute Balance für die Häufigkeit der Messungen finden - einerseits sollen (negative) Trends schnell erkannt werden, andererseits verbraucht das Messen selbst ebenfalls Energie.
 
 Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgewichtig für die Entwickler:innen zu benutzen sein müssen, um die Akzeptanz zu erhöhen. Sie verstehen, dass die Energieeffizienzmessungen konkurrieren mit einem schnellen Feedback aus dem Build. Sie verstehen, dass folgende Punkte für die Akzeptanz ebenfalls wichtig sind:
@@ -44,11 +44,11 @@ Die Teilnehmenden verstehen, dass die Messungen möglichst einfach und leichtgew
 // tag::EN[]
 
 [[LG-4-1]]
-==== LG 4-1: Relating resources to the work performed
+==== LG 4-1: Bringing resources in relation to the service provided
 Participants are able to relate resources to the service provided (business metric). They are familiar with the ISO standard Software Carbon Intensity (SCI) as a metric and understand how it can be used as a business metric.
 
 [[LG-4-2]]
-==== LG 4-2: Measurement methods and tools
+==== LG 4-2: Knowing and using measuring methods and tools
 Participants know different categories of measurement methods and their areas of application. They understand how to combine tools from the different categories for an analysis.
 Categories include, for example:
 
@@ -59,7 +59,7 @@ Categories include, for example:
 * Carbon footprint tools from cloud providers. In cloud environments, energy consumption cannot be measured directly. Instead, you have to rely on tools provided by the provider or other estimation methods. Participants are familiar with the functionality and limitations of these tools (inaccuracy, relative data, necessary authorisations in the cloud console) as well as the challenges of comparing managed services with pure VMs.
 
 [[LG-4-3]]
-==== LG 4-3: Measurement methodology
+==== LG 4-3: Knowing and applying measurement methods
 The participants know the methodological procedure for measuring energy consumption and CO~2~ intensity. They understand that it is generally not possible to evaluate/measure absolute consumption very precisely (especially in the cloud), but how to analyse trends instead. They know proxy metrics for CO~2~ intensity.
 
 Participants know how to set up meaningful scenarios for measuring energy efficiency.
@@ -72,7 +72,7 @@ Participants know how to set up meaningful scenarios for measuring energy effici
 Participants understand that the procedure for measuring energy efficiency is related to the procedure for measuring performance. Participants understand how to proceed systematically in order to narrow down consumption hotspots.
 
 [[LG-4-4]]
-==== LG 4-4: Integrating energy efficiency measurements into the development process
+==== LG 4-4: Knowing integration options for measuring energy efficiency in the development process
 Participants know how to integrate energy efficiency measurements into the development process. They know how to integrate the measurements into the CI/CD pipeline. They understand how to find a good balance for the frequency of the measurements - on the one hand (negative) trends should be recognised quickly, on the other hand the measurement itself also consumes energy.
 
 Participants understand that the measurements must be as simple and lightweight as possible for developers to use in order to increase acceptance. They understand that energy efficiency measurements compete with quick feedback from the build. You understand that the following points are also important for acceptance:
