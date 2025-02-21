@@ -45,22 +45,11 @@ git clone https://github.com/isaqb-org/curriculum-green.git --recursive
 
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle, use the wrapper that comes with the repository: `./gradlew buildDocs`
+You build the output documents with gradle, use the wrapper that comes with the repository: `./gradle-tools/gradlew buildDocs`
 
 This will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
-In case you want to change that, adjust the following part of `build.gradle`:
 
-[source,groovy]
-----
-task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "renderDE", "renderEN"
-}
-----
-
-In the task "renderDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
 == Maintainers
 
