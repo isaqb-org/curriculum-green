@@ -47,6 +47,10 @@ This section contains references that are cited in the curriculum.
 
 - [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
 
+**I**
+
+- [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
 **J**
 
 - [[[joularjx, JoularJX]]] Java-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
@@ -54,10 +58,6 @@ This section contains references that are cited in the curriculum.
 **P**
 
 - [[[pereira, Pereira et al.]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva (2021): Ranking Programming Languages by Energy Efficiency
-
-**Q**
-
-- [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
 **S**
 
