@@ -8,6 +8,8 @@ Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen
 
 Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
 
+Die Teilnehmenden kennen darüber hinaus weitere Kennzahlen, darunter den Renewable Energy Factor (REF), die Carbon Usage Effectiveness (CUE) sowie die Water Usage Effectiveness (WUE). Sie können diese Kennzahlen berechnen, einschätzen und kennen Möglichkeiten zu deren Verbesserung.
+
 [[LZ-7-2]]
 ==== LZ 7-2: Cloud Service Modelle kennen und bezüglich Energieeffizienz beurteilen 
 Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind.
@@ -52,6 +54,8 @@ Die Teilnehmenden wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbi
 Participants can assess the energy efficiency of a data centre. They know the Power Usage Effectiveness (PUE) and its advantages and disadvantages.
 
 Participants know the power-load relationship of hardware. They can calculate and estimate the Server Idle Energy Coefficient (SIEC).
+
+Participants are also familiar with other key figures, including the Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE) and Water Usage Effectiveness (WUE). They can calculate and evaluate these key figures and know how to improve them.
 
 [[LG-7-2]]
 ==== LG 7-2: Knowing cloud service models and assessing them in terms of energy efficiency 

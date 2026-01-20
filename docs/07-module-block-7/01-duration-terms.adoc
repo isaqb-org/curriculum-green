@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-Modelle, Deployment-Modelle, Cloud-Provider, Cloud-Migration
+Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectivness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Provider, Cloud-Migration
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-M
 |===
 
 === Terms and Principles
-Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Service-Modelle, Deployment-Modelle, Cloud-Anbieter, Cloud-Migration
+Power Usage Effectivness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectivness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Anbieter, Cloud-Migration
 
 // end::EN[]
