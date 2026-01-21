@@ -17,7 +17,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[qmarc, arc42]]] arc42 Quality Model, https://quality.arc42.org
 
-- [[[pue, PUE ]]] Avelar et al.: A Comprehensive Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf
+- [[[pue, PUE]]] Avelar et al.: A Comprehensive Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf
 
 **B**
 
@@ -35,7 +35,7 @@ This section contains references that are cited in the curriculum.
 
 **E**
 
-- [[[eereport, energy efficiency report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
+- [[[eereport, Energy Efficiency Report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
 
 **G**
 
@@ -50,6 +50,12 @@ This section contains references that are cited in the curriculum.
 **I**
 
 - [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+
+- [[[ref,ISO/IEC 30134-3:2016]]] ISO/IEC 30134-3:2016, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-3:ed-1:v1:en
+
+- [[[cue,ISO/IEC 30134-8:2022]]] ISO/IEC 30134-8:2022, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-8:ed-1:v1:en
+
+- [[[wue,ISO/IEC 30134-9:2022]]] ISO/IEC 30134-9:2022, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-9:ed-1:v1:en
 
 **J**
 
