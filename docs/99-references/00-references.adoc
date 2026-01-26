@@ -71,7 +71,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[pereira, Pereira et al. 2021]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva: Ranking Programming Languages by Energy Efficiency, https://www.sciencedirect.com/science/article/pii/S0167642321000022
 
-- [[[patterson, Patterson et al. 2021]]] David Patterson, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, Jeff Dean: Carbon Emissions and Large Neural Network Training
+- [[[patterson, Patterson et al. 2021]]] David Patterson, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, Jeff Dean: Carbon Emissions and Large Neural Network Training, https://arxiv.org/pdf/2104.10350
 
 **S**
 
