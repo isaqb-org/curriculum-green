@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomatisierung
+Green AI, Sustainable AI, Model Training, Inference, Foundation Models, Transfer Learning, Fine-Tuning, Model Compression, Quantization, Pruning, Knowledge Distillation, Edge AI
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomat
 |===
 
 === Terms and Principles
-Continuous Deployment, Continuous Integration, Deployment Pipelines, Test automation
+Green AI, Sustainable AI, Model Training, Inference, Foundation Models, Transfer Learning, Fine-Tuning, Model Compression, Quantization, Pruning, Knowledge Distillation, Edge AI
 
 // end::EN[]

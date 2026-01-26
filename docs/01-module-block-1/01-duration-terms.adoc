@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: keine
+| Dauer: 45 Min. | Übungszeit: keine
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Klimawandel, Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachha
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: none
+| Duration: 45 min | Practice time: none
 |===
 
 === Terms and Principles

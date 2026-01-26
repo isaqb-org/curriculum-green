@@ -4,14 +4,15 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte | 60
-| 2. Prinzipien, Regulatorik und Auswirkungen auf Unternehmen | 60
-| 3. Qualität | 60
+| 1. Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte | 45
+| 2. Prinzipien, Regulatorik und Auswirkungen auf Unternehmen | 45
+| 3. Qualität | 45
 | 4. Messen und Monitoring | 150
 | 5. Softwareentwicklung | 75
 | 6. Softwarearchitektur | 150
 | 7. Betrieb | 105
-| 8. Energieeffizienter Entwicklungsprozess | 60
+| 8. Künstliche Intelligenz und Nachhaltigkeit | 60
+| 9. Energieeffizienter Entwicklungsprozess | 45
 | |
 | Summe | 720 (12h)
 
@@ -26,14 +27,15 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Climate change, opportunities of digitalisation, role of IT, basic concepts | 60
-| 2. Principles, regulation and effects on companies | 60
-| 3. Quality | 60
+| 1. Climate change, opportunities of digitalisation, role of IT, basic concepts | 45
+| 2. Principles, regulation and effects on companies | 45
+| 3. Quality | 45
 | 4. Measurement and monitoring | 150
 | 5. Software development | 75
 | 6. Software architecture | 150
 | 7. Operation | 105
-| 8. Energy-efficient development process | 60
+| 8. Artificial intelligence and sustainability | 60
+| 9. Energy-efficient development process | 45
 | |
 | Total | 720 (12h)
 

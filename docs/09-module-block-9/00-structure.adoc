@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Künstliche Intelligenz und Nachhaltigkeit
+== Energieeffizienter Entwicklungsprozess
 // end::DE[]
 
 // tag::EN[]
-== Artificial intelligence and sustainability
+== Energy-efficient development process
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
