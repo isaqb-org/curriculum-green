@@ -15,7 +15,7 @@ Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringe
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur vornehmen
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie der Einsatz von Caching für Build- und Testartefakte.
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwendigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie der Einsatz von Caching für Build- und Testartefakte.
 
 [[LZ-9-4]]
 ==== LZ 9-4: Teststrategie optimieren 
