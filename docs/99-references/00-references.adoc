@@ -77,7 +77,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[sci, SCI]]] Software Carbon Intensity, https://sci-guide.greensoftware.foundation/
 
-- [[[strubell, Strubell et al. 2019]]] Emma Strubell, Ananya Ganesh, Andrew McCallum: Energy and Policy Considerations for Deep Learning in NLP
+- [[[strubell, Strubell et al. 2019]]] Emma Strubell, Ananya Ganesh, Andrew McCallum: Energy and Policy Considerations for Deep Learning in NLP, https://aclanthology.org/P19-1355
 
 **W**
 
