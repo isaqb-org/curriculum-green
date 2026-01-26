@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 45 Min. | Übungszeit: 15 Min.
+| Dauer: 30 Min. | Übungszeit: 15 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,7 +11,7 @@ Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010
 
 // tag::EN[]
 |===
-| Duration: 45 min | Practice time: 15 min
+| Duration: 30 min | Practice time: 15 min
 |===
 
 === Terms and Principles

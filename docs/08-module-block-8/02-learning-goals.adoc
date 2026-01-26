@@ -3,48 +3,78 @@
 // tag::DE[]
 
 [[LZ-8-1]]
-==== LZ 8-1: CI/CD-Strategien und deren Ressourcenbedarf kennen
+==== LZ 8-1: Ökologische Auswirkungen von KI-Systemen kennen
 
-Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden verstehen die ökologischen Auswirkungen von KI-Systemen über ihren gesamten Lebenszyklus hinweg. Sie können die Phasen Datensammlung, Training, Deployment, Inferenz und Wartung unterscheiden und deren jeweiligen Energie- und Ressourcenbedarf erklären. Sie können die Begriffe Operational Carbon und Embodied Carbon auf KI-Systeme anwenden.
 
 [[LZ-8-2]]
-==== LZ 8-2: Optimierung der CI/CD Prozesse durchführen
+==== LZ 8-2: Energieeffiziente KI-Architekturen bewerten
 
-Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting. Sie können dazu Energieverbrauch und CO~2~-Emissionen der Ausführung von CI/CD-Pipelines bestimmen.
+Die Teilnehmenden kennen grundlegende Architekturansätze für energieeffiziente KI-Systeme, z. B.:
+
+* Edge- vs. Cloud-Inferenz
+* Zentrale vs. verteilte Modellarchitekturen
+* Batch- vs. Echtzeitverarbeitung
+* Wiederverwendung vor Neutraining
+
+Sie können diese Ansätze hinsichtlich Energieeffizienz, Kosten, Latenz und Genauigkeit vergleichen.
 
 [[LZ-8-3]]
-==== LZ 8-3: Optimierung der Infrastruktur vornehmen
+==== LZ 8-3: Optimierungstechniken für KI-Modelle kennen und einordnen
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise Betrachtung der tatsächlich notwenigen Resilienz, die Effizienzvorteile von Containern gegenüber virtuellen Maschinen, sowie der Einsatz von Caching für Build- und Testartefakte.
+Die Teilnehmenden kennen gängige Techniken zur Reduktion des Ressourcenbedarfs von KI-Modellen, insbesondere:
+
+* Transfer Learning und Fine-Tuning
+* Quantization
+* Pruning
+* Knowledge Distillation
+* Einsatz kleiner, spezialisierter Modelle statt großer Foundation Models
+
+Sie können diese Techniken hinsichtlich Trainingsaufwand, Inferenzkosten, Modellgüte und Energieverbrauch bewerten.
 
 [[LZ-8-4]]
-==== LZ 8-4: Teststrategie optimieren 
+==== LZ 8-4: Zielkonflikte zwischen Qualität und Energieeffizienz bei KI-Systemen erkennen
 
-Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Last-Test, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Gap-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
+Die Teilnehmenden verstehen die Zielkonflikte zwischen klassischen Qualitätsattributen (z. B. Genauigkeit, Robustheit, Latenz, Skalierbarkeit) und Energieeffizienz bei KI-Systemen. Sie können diese Zielkonflikte explizit machen und in Architekturentscheidungen berücksichtigen. Die Teilnehmenden kennen die Konzepte Green AI und Sustainable AI. Sie verstehen, dass Effizienzgewinne zu einem Rebound-Effekt führen können und können Gegenmaßnahmen benennen.
 
 // end::DE[]
 
 // tag::EN[]
 
 [[LG-8-1]]
-==== LG 8-1: Knowing CI/CD strategies and their resource requirements
+==== LG 8-1: Understanding the environmental impact of AI systems
 
-Participants are familiar with various strategies of Infrastructure as Code, Continuous Integration and Continuous Deployments. This includes why and when these are usually used, what basic resource requirements they can have and how test execution and code analyses can affect these requirements.
+Participants understand the environmental impact of AI systems throughout their entire life cycle. They can distinguish between the phases of data collection, training, deployment, inference and maintenance, and explain their respective energy and resource requirements. They can apply the terms operational carbon and embodied carbon to AI systems.
 
 [[LG-8-2]]
-==== LG 8-2: Optimizing CI/CD processes
+==== LG 8-2: Evaluating energy-efficient AI architectures
 
-Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting. They can determine the energy consumption and CO~2~ emissions of executing CI/CD pipelines.
+Participants are familiar with basic architectural approaches for energy-efficient AI systems, e.g.:
+
+* Edge vs. cloud inference
+* Centralised vs. distributed model architectures
+* Batch vs. real-time processing
+* Reuse vs. retraining
+
+They can compare these approaches in terms of energy efficiency, cost, latency and accuracy.
 
 [[LG-8-3]]
-==== LG 8-3: Optimising the infrastructure
+==== LG 8-3: Knowing and classifying optimisation techniques for AI models
 
-Participants know methods for optimising the development and deployment infrastructure. This includes, for example, consideration of the actual resilience required, the efficiency advantages of containers over virtual machines and the use of caching for build and test artefacts.
+Participants are familiar with common techniques for reducing the resource requirements of AI models, in particular:
+
+* Transfer learning and fine-tuning
+* Quantisation
+* Pruning
+* Knowledge distillation
+* Use of small, specialised models instead of large foundation models
+
+They can evaluate these techniques in terms of training effort, inference costs, model quality and energy consumption.
 
 [[LG-8-4]]
-==== LG 8-4: Optimising the test strategy 
+==== LG 8-4: Recognising trade-offs between quality and energy efficiency in AI systems
 
-Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test gap analyses and the demand-oriented, time-limited provision of appropriate test environments.
+Participants understand the trade-offs between classic quality attributes (e.g. accuracy, robustness, latency, scalability) and energy efficiency in AI systems. They can make these trade-offs explicit and take them into account in architectural decisions. Participants are familiar with the concepts of green AI and sustainable AI. They understand that efficiency gains can lead to a rebound effect and can identify countermeasures.
 
 // end::EN[]
 
