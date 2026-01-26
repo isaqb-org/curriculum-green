@@ -10,7 +10,7 @@ Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Con
 [[LZ-8-2]]
 ==== LZ 8-2: Optimierung der CI/CD Prozesse durchführen
 
-Die Teilnehmenden sind mit Methoden zur Ressourcenoptimierung von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving und Time-Shifting bei geplanten Builds, sowie das Deployment in räumlicher Nähe zur Zielgruppe im Kontext der Cloud.
+Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting. Sie können dazu Energieverbrauch und CO~2~-Emissionen der Ausführung von CI/CD-Pipelines bestimmen.
 
 [[LZ-8-3]]
 ==== LZ 8-3: Optimierung der Infrastruktur vornehmen
@@ -34,7 +34,7 @@ Participants are familiar with various strategies of Infrastructure as Code, Con
 [[LG-8-2]]
 ==== LG 8-2: Optimizing CI/CD processes
 
-Participants are familiar with methods for resource optimisation of CI/CD processes. Examples of this include the use of peak shaving and time shifting for planned builds, as well as deployment in close proximity to the target group in the context of the cloud.
+Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting. They can determine the energy consumption and CO~2~ emissions of executing CI/CD pipelines.
 
 [[LG-8-3]]
 ==== LG 8-3: Optimising the infrastructure
