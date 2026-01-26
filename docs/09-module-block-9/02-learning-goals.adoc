@@ -5,7 +5,7 @@
 [[LZ-9-1]]
 ==== LZ 9-1: CI/CD-Strategien und deren Ressourcenbedarf kennen
 
-Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Continuous Integration und Continuous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
 
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse durchführen
@@ -32,7 +32,7 @@ Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizie
 Participants are familiar with various strategies of Infrastructure as Code, Continuous Integration and Continuous Deployments. This includes why and when these are usually used, what basic resource requirements they can have and how test execution and code analyses can affect these requirements.
 
 [[LG-9-2]]
-==== LG 9-2: Optimizing CI/CD processes
+==== LG 9-2: Optimising CI/CD processes
 
 Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting. They can determine the energy consumption and CO~2~ emissions of executing CI/CD pipelines.
 

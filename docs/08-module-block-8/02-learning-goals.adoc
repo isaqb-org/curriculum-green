@@ -59,7 +59,7 @@ Participants are familiar with basic architectural approaches for energy-efficie
 They can compare these approaches in terms of energy efficiency, cost, latency and accuracy.
 
 [[LG-8-3]]
-==== LG 8-3: Know and classify optimisation techniques for AI models
+==== LG 8-3: Knowing and classifying optimisation techniques for AI models
 
 Participants are familiar with common techniques for reducing the resource requirements of AI models, in particular:
 

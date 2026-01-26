@@ -41,9 +41,9 @@ This section contains references that are cited in the curriculum.
 
 - [[[greenframe, Greenframe]]] Measure and reduce website's CO2 emissions, https://greenframe.io
 
-- [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
-
 - [[[greenmetricstool, Green Metrics Tool]]] Messen des Energie- / CO2-Verbrauch von Software-Architekturen, https://www.green-coding.io/de/projects/green-metrics-tool/
+
+- [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
 
 - [[[greenai, GSF Green AI]]] GSF - Green AI Position Paper, https://greensoftware.foundation/articles/green-ai-position-paper
 
@@ -71,7 +71,7 @@ This section contains references that are cited in the curriculum.
 
 - [[[pereira, Pereira et al. 2021]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva: Ranking Programming Languages by Energy Efficiency
 
-- [[[patterson, Patterson et al. 2011]]] David Patterson, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, Jeff Dean: Carbon Emissions and Large Neural Network Training
+- [[[patterson, Patterson et al. 2021]]] David Patterson, Joseph Gonzalez, Quoc Le, Chen Liang, Lluis-Miquel Munguia, Daniel Rothchild, David So, Maud Texier, Jeff Dean: Carbon Emissions and Large Neural Network Training
 
 **S**
 
