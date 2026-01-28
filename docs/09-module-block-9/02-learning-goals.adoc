@@ -20,7 +20,7 @@ Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deploym
 * Betrachtung der tatsächlich notwendigen Resilienz
 * Effizienzvorteile von Containern gegenüber virtuellen Maschinen
 * Optimiertes Layering in Containern
-* Reduktion der Image-Größe von Containern 
+* Reduktion der Image-Größe von Containern
 * Einsatz von Caching für Build- und Testartefakte.
 
 [[LZ-9-4]]
