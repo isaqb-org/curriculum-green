@@ -30,7 +30,7 @@ Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der A
 
 [[LZ-7-5]]
 ==== LZ 7-5: Betriebliche Antipatterns kennen
-Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
+Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B. Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
 
 [[LZ-7-6]]
 ==== LZ 7-6: CO~2~-Optimierung in der Cloud vornehmen

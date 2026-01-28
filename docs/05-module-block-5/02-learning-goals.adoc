@@ -12,7 +12,9 @@ Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können 
 
 [[LZ-5-3]]
 ==== LZ 5-3: Verfahren für energieeffizientes Datenhandling kennen und anwenden
-Die Teilnehmenden kennen Verfahren, um mit großen Datenmengen umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
+Die Teilnehmenden kennen Verfahren, um mit großen Datenmengen umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen. 
+
+Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
  
 // end::DE[]
 
@@ -28,7 +30,9 @@ Participants are familiar with the principle of computational complexity and can
 
 [[LG-5-3]]
 ==== LG 5-3: Know and apply procedures for energy-efficient data handling
-Participants know methods for handling large amounts of data. They can assess data structures and operations on these data structures in terms of energy efficiency and make the right selection based on the given requirements. Participants know the pitfalls of using database systems and can avoid them. They are able to evaluate and optimally select different approaches for mapping relationships between entities on the basis of business requirements and quality requirements.
+Participants know methods for handling large amounts of data. They can assess data structures and operations on these data structures in terms of energy efficiency and make the right selection based on the given requirements. 
+
+Participants know the pitfalls of using database systems and can avoid them. They are able to evaluate and optimally select different approaches for mapping relationships between entities on the basis of business requirements and quality requirements.
 
 // end::EN[]
 

@@ -55,7 +55,7 @@ This section contains references that are cited in the curriculum.
 
 **I**
 
-- [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
+- [[[iso14064-1,ISO 14064-1]]] ISO/IEC 14064-1, https://www.iso.org/standard/66453.html
 
 - [[[ref,ISO/IEC 30134-3:2016]]] ISO/IEC 30134-3:2016, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-3:ed-1:v1:en
 
