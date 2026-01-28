@@ -4,7 +4,7 @@
 
 [[LZ-5-1]]
 ==== LZ 5-1: Möglichkeiten zur Steigerung der Energieeffizienz in der Softwareentwicklung kennen
-Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Optimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenden Zielen unterscheiden. Die Teilnehmenden kennen die Energieeffizienz verschiedener Programmiersprachen und können einschätzen, für welche Einsatzgebiete diese geeignet sind. Sie können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. Darüber hinaus verstehen sie die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung, von Bytecode und Maschine Code sowie die Zielkonflikte von Garbage-Collectoren. 
+Die Teilnehmenden kennen Vorgehensweisen und Grenzen bei der Optimierung von Programmen. Sie können sinnvolle Ansatzpunkte von wenig lohnenden Zielen unterscheiden. Die Teilnehmenden kennen die Energieeffizienz verschiedener Programmiersprachen und können einschätzen, für welche Einsatzgebiete diese geeignet sind. Sie können Laufzeitverhalten und Entwicklungsgeschwindigkeit von Programmiersprachen bewerten und basierend auf den Anforderungen die richtige Wahl treffen. Darüber hinaus verstehen sie die Unterschiede zwischen Ahead-of-Time und Just-in-Time Kompilierung, von Byte- und Maschinencode sowie die Zielkonflikte von Garbage-Collectoren. 
 
 [[LZ-5-2]]
 ==== LZ 5-2: Effekte und Möglichkeiten von Optimierungen kennen
