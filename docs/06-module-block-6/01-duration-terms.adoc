@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Architekturstile, Monolith, Microservices, Serverless, Inter-Prozess-Kommunikation, Datenbanken, Green IT Pattern
+Architekturstile, Monolith, Microservices, Modulith, Ereignisgesteuerte Architektur, Serverless, Inter-Prozess-Kommunikation, Datenbanken, Green IT Pattern
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Architekturstile, Monolith, Microservices, Serverless, Inter-Prozess-Kommunikati
 |===
 
 === Terms and Principles
-Architecture styles, monolith, microservices, serverless, inter-process communication, databases, green IT patterns
+Architecture styles, monolith, microservices, modulith, Event-driven architecture, serverless, inter-process communication, databases, green IT patterns
 
 // end::EN[]

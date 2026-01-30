@@ -1,10 +1,9 @@
 === {learning-goals}
 
-
 // tag::DE[]
 [[LZ-7-1]]
 ==== LZ 7-1: Energieeffizienz von Rechenzentren und Hardware beziffern 
-Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen den Power Usage Effectivness (PUE) und seine Vor- und Nachteile.
+Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen die Power Usage Effectiveness (PUE) und deren Vor- und Nachteile.
 
 Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
 
@@ -30,7 +29,7 @@ Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der A
 
 [[LZ-7-5]]
 ==== LZ 7-5: Betriebliche Antipatterns kennen
-Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
+Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B. Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
 
 [[LZ-7-6]]
 ==== LZ 7-6: CO~2~-Optimierung in der Cloud vornehmen

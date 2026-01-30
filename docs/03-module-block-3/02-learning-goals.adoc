@@ -3,11 +3,11 @@
 // tag::DE[]
 [[LZ-3-1]]
 ==== LZ 3-1: Qualitätsmodelle und deren Bezug zu Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren. Abhängig vom Einsatzzweck und dem Mengengerüst der Anwendung können sie bewusst darüber entscheiden, ob die Qualitätskriterien nur für die Anwendung oder für die Optimierung des Entwicklungsprozesses angewendet werden.
+Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren. Abhängig vom Einsatzzweck und dem Mengengerüst der Anwendung können sie bewusst darüber entscheiden, ob die Qualitätskriterien für die Anwendung oder für die Optimierung des Entwicklungsprozesses angewendet werden.
 
 [[LZ-3-2]]
 ==== LZ 3-2: Umgang mit den Wechselwirkungen zwischen Qualitätsattributen und Energieeffizienz
-Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen. Auf Basis dieser Erkenntnisse können sie Qualitätsanforderungen erkennen, die miteinander in Konflikt stehen und Lösungsalternativen erarbeiten, um Konflikte zu abzuschwächen. Insbesondere werden die Qualitätsmerkmale Elastizität und Skalierbarkeit, Modularität bzw. Resilienz detaillierter diskutiert, so dass die Teilnehmenden den Einfluss auf Energieeffizienz bewerten können.
+Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Qualitätsattributen im Bereich der Energieeffizienz mit anderen Qualitätsattributen. Auf Basis dieser Erkenntnisse können sie Qualitätsanforderungen erkennen, die miteinander in Konflikt stehen und Lösungsalternativen erarbeiten, um Konflikte zu abzuschwächen. Insbesondere werden die Qualitätsmerkmale Elastizität, Skalierbarkeit, Modularität und Resilienz detaillierter diskutiert, so dass die Teilnehmenden den Einfluss auf Energieeffizienz bewerten können.
 
 // end::DE[]
 
@@ -15,10 +15,10 @@ Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Q
 
 [[LG-3-1]]
 ==== LG 3-1: Knowing quality models and their relation to energy efficiency
-Participants are familiar with different quality models and can describe quality attributes relating to energy efficiency and categorise them in the quality models. In addition, participants are able to formulate quality scenarios for quality attributes in the area of energy efficiency. Depending on the intended use and the quantity structure of the application, they can consciously decide whether the quality criteria are used only for the application or for the optimisation of the development process.
+Participants are familiar with different quality models and can describe quality attributes relating to energy efficiency and categorise them in the quality models. In addition, participants are able to formulate quality scenarios for quality attributes in the area of energy efficiency. Depending on the intended use and the quantity structure of the application, they can consciously decide whether the quality criteria are used for the application or for the optimisation of the development process.
 
 [[LG-3-2]]
 ==== LG 3-2: Dealing with the interactions between quality attributes and energy efficiency
-Participants know the positive and negative interactions between quality attributes in the area of energy efficiency and other quality attributes. Based on this knowledge, they can recognise quality requirements that conflict with each other and develop alternative solutions to mitigate conflicts. In particular, the quality attributes of elasticity and scalability, modularity and resilience are discussed in more detail so that participants can assess their influence on energy efficiency.
+Participants know the positive and negative interactions between quality attributes in the area of energy efficiency and other quality attributes. Based on this knowledge, they can recognise quality requirements that conflict with each other and develop alternative solutions to mitigate conflicts. In particular, the quality attributes of elasticity, scalability, modularity and resilience are discussed in more detail so that participants can assess their influence on energy efficiency.
 
 // end::EN[]

@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 45 Min. | Übungszeit: keine
+| Dauer: 60 Min. | Übungszeit: keine
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Energieeffizienz, Zertifizierungen (z. B. Blauer Engel, TCO), Regulatorische Anf
 
 // tag::EN[]
 |===
-| Duration: 45 min | Practice time: none
+| Duration: 60 min | Practice time: none
 |===
 
 === Terms and Principles

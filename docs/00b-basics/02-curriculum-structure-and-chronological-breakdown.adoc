@@ -5,9 +5,9 @@
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
 | 1. Klimawandel, Chancen der Digitalisierung, Rolle der IT, Basiskonzepte | 45
-| 2. Prinzipien, Regulatorik und Auswirkungen auf Unternehmen | 45
+| 2. Prinzipien, Regulatorik und Auswirkungen auf Unternehmen | 60
 | 3. Qualität | 45
-| 4. Messen und Monitoring | 150
+| 4. Messen und Monitoring | 135
 | 5. Softwareentwicklung | 75
 | 6. Softwarearchitektur | 150
 | 7. Betrieb | 105
@@ -28,9 +28,9 @@
 | Content
 | Recommended minimum duration (minutes)
 | 1. Climate change, opportunities of digitalisation, role of IT, basic concepts | 45
-| 2. Principles, regulation and effects on companies | 45
+| 2. Principles, regulation and effects on companies | 60
 | 3. Quality | 45
-| 4. Measurement and monitoring | 150
+| 4. Measurement and monitoring | 135
 | 5. Software development | 75
 | 6. Software architecture | 150
 | 7. Operation | 105

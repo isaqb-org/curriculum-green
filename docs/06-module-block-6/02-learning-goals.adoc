@@ -10,7 +10,7 @@ Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise v
 Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage den Einfluss von Datenkompression auf das übertragenen Datenvolumen zu bewerten und wissen, dass die Energieeffizienz durch eine Reduzierung von Aufrufhäufigkeit und des Datenvolumens positiv beeinflusst wird.
 
 [[LZ-6-3]]
-==== LZ 6-3: Datenbanken und deren Eigenschaften in Bezug auf Energieeffizienz kennen
+==== LZ 6-3: Datenbankmodelle und deren Eigenschaften in Bezug auf Energieeffizienz kennen
 Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und unterschiedliche Datenbanksysteme (PostgreSQL, DB2, Oracle, etc.) und können die richtige Auswahl unter dem Aspekt der Energieeffizienz treffen. Sie sind in der Lage ein geeignetes Service-Modell (self-hosting versus cloud-based managed service) für ihre Datenhaltung auszuwählen.
 
 [[LZ-6-4]]
@@ -30,7 +30,7 @@ Participants can assess different architectural styles such as distributed syste
 Participants are familiar with different types of communication (synchronous versus asynchronous) between building blocks in relation to the provision of data and the formats and protocols used (text-based versus binary protocols) with regard to energy efficiency. They are able to evaluate the influence of data compression on the transferred data volume and know that energy efficiency is positively influenced by a reduction in call frequency and data volume.
 
 [[LG-6-3]]
-==== LG 6-3: Knowing databases and their characteristics in relation to energy efficiency
+==== LG 6-3: Knowing database models and their characteristics in relation to energy efficiency
 Participants are familiar with different types of database models (relational, NoSQL, etc.) and different database systems (Postgres, DB2, Oracle, etc.) and can make the right choice in terms of energy efficiency. They are able to select a suitable service model (self-hosting versus cloud-based managed service) for their data storage.
 
 [[LG-6-4]]

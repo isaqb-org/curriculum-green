@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschine Code, Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenbanksysteme, Datenmodelle
+Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschinencode, Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenhandling, Datenmodelle
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Masc
 |===
 
 === Terms and Principles
-Programming languages, ahead-of-time and just-in-time compilation, bytecode, machine code, garbage collection, data structures, algorithms, computational complexity, caching, database systems, data models
+Programming languages, ahead-of-time and just-in-time compilation, bytecode, machine code, garbage collection, data structures, algorithms, computational complexity, caching, data handling, data models
 
 // end::EN[]

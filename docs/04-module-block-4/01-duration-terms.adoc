@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 90 Min | Übungszeit: 60 min
+| Dauer: 75 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,7 +10,7 @@ Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffiz
 
 // tag::EN[]
 |===
-| Duration: 90 Min | Practice time: 60 min
+| Duration: 75 min | Practice time: 60 min
 |===
 
 === Terms and Principles
