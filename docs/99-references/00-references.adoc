@@ -31,8 +31,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[cloudcarbonfootprint, Cloud Carbon Footprint]]] Cloud Carbon Emissions Measurement and Analysis Tool, https://www.cloudcarbonfootprint.org
 
-- [[[codecarbon, Code Carbon]]] Python based tool to estimate the amount of carbon dioxide (CO2)  , https://codecarbon.io
-
 **E**
 
 - [[[eereport, Energy Efficiency Report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
@@ -65,10 +63,6 @@ This section contains references that are cited in the curriculum.
 
 - [[[wue,ISO/IEC 30134-9:2022]]] ISO/IEC 30134-9:2022, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-9:ed-1:v1:en
 
-**J**
-
-- [[[joularjx, JoularJX]]] Java-based agent for power monitoring at the source code level, https://www.noureddine.org/research/joular/joularjx
-
 **P**
 
 - [[[pereira, Pereira et al. 2021]]] Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva: Ranking Programming Languages by Energy Efficiency, https://www.sciencedirect.com/science/article/pii/S0167642321000022
@@ -80,6 +74,12 @@ This section contains references that are cited in the curriculum.
 - [[[sci, SCI]]] Software Carbon Intensity, https://sci-guide.greensoftware.foundation/
 
 - [[[strubell, Strubell et al. 2019]]] Emma Strubell, Ananya Ganesh, Andrew McCallum: Energy and Policy Considerations for Deep Learning in NLP, https://aclanthology.org/P19-1355
+
+- [[[swd, Sustainable Web Design]]] Sustainable Web Design, https://sustainablewebdesign.org/estimating-digital-emissions/
+
+**T**
+
+- [[[toollandscape, Tool Landscape]]] Tool Landscape vom Bundesverband Green Software: https://landscape.bundesverband-green-software.de/
 
 **W**
 

@@ -1,2 +1,2 @@
 === {references}
-<<ghg>>, <<sci>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>, <<joularjx>>, <<codecarbon>>
+<<sci>>, <<swd>>, <<toollandscape>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>
