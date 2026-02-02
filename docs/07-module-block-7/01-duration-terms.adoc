@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Provider
+Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Provider, GreenOps
 
 // end::DE[]
 
@@ -14,6 +14,6 @@ Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewabl
 |===
 
 === Terms and Principles
-Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), Service Models, Deployment Models, Cloud Provider
+Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), service models, deployment models, cloud provider, GreenOps
 
 // end::EN[]

@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010
+Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010, arc42
 
 
 // end::DE[]
@@ -15,7 +15,7 @@ Qualitätsmodell, Qualitätsszenarien, Qualitätsziele, ISO 25010
 |===
 
 === Terms and Principles
-Quality model, quality scenarios, quality objectives, ISO 25010
+Quality model, quality scenarios, quality objectives, ISO 25010, arc42
 
 // end::EN[]
 
