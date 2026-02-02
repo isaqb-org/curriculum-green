@@ -10,7 +10,7 @@ Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Con
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse durchführen
 
-Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting. Sie können dazu Energieverbrauch und CO~2~-Emissionen der Ausführung von CI/CD-Pipelines bestimmen.
+Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting.
 
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur vornehmen
@@ -26,7 +26,7 @@ Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deploym
 [[LZ-9-4]]
 ==== LZ 9-4: Teststrategie optimieren 
 
-Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Lasttest, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Gap-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
+Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Lasttest, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Impact-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
 
 // end::DE[]
 
@@ -40,7 +40,7 @@ Participants are familiar with various strategies of Infrastructure as Code, Con
 [[LG-9-2]]
 ==== LG 9-2: Optimising CI/CD processes
 
-Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting. They can determine the energy consumption and CO~2~ emissions of executing CI/CD pipelines.
+Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting.
 
 [[LG-9-3]]
 ==== LG 9-3: Optimising the infrastructure
@@ -56,7 +56,7 @@ Participants are familiar with methods for optimising the development and deploy
 [[LG-9-4]]
 ==== LG 9-4: Optimising the test strategy 
 
-Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test gap analyses and the demand-oriented, time-limited provision of appropriate test environments.
+Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test impact analyses and the demand-oriented, time-limited provision of appropriate test environments.
 
 // end::EN[]
 
