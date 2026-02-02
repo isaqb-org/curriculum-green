@@ -10,34 +10,33 @@ Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können d
 Die Teilnehmenden kennen darüber hinaus weitere Kennzahlen, darunter den Renewable Energy Factor (REF), die Carbon Usage Effectiveness (CUE) sowie die Water Usage Effectiveness (WUE). Sie können diese Kennzahlen berechnen, einschätzen und kennen Möglichkeiten zu deren Verbesserung.
 
 [[LZ-7-2]]
-==== LZ 7-2: Cloud Service Modelle kennen und bezüglich Energieeffizienz beurteilen 
+==== LZ 7-2: Cloud Service & Deployment Modelle kennen und bezüglich Energieeffizienz beurteilen 
 Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind.
 
-[[LZ-7-3]]
-==== LZ 7-3: Cloud Deployment Modelle kennen und bezüglich Energieeffizienz beurteilen 
 Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem "Public Cloud", "Private Cloud", "Hybrid Cloud" und klassischer On-Premise-Betrieb. Sie können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und CO~2~-Emissionseffizienz haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
 
-[[LZ-7-4]]
-==== LZ 7-4: Anbieter nach ökologisch-nachhaltigen Aspekten bewerten und auswählen
+[[LZ-7-3]]
+==== LZ 7-3: Cloud-Anbieter nach ökologisch-nachhaltigen Aspekten bewerten und auswählen
 Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschiedenen Anbieter zu beurteilen, um diese in einer Auswahl berücksichtigen zu können. Dazu wissen sie, wie sie u. a. an folgende Informationen gelangen
 
 * Informationen zum aktuellen Stand der Emissionen eines Anbieters (z. B. Sustainability Reports, Environmental Reports).
 * Maßnahmen die Anbieter aktuell durchführen, um Emissionen zu reduzieren oder zu kompensieren.
 * Roadmap und Klimaziele der Anbieter für die Zukunft.
+* Greenwashing-Risiken der Anbieter einschätzen.
 
-Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Werkzeuge der Anbieter bereitgestellt werden.
+Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Carbon/Environmental Dashboards der Anbieter bereitgestellt werden.
 
-[[LZ-7-5]]
-==== LZ 7-5: Betriebliche Antipatterns kennen
+[[LZ-7-4]]
+==== LZ 7-4: Betriebliche Antipatterns kennen
 Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B. Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
 
-[[LZ-7-6]]
-==== LZ 7-6: CO~2~-Optimierung in der Cloud vornehmen
-Die Teilnehmenden wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die CO~2~-Emissionen beeinflussen können durch u. a.
+[[LZ-7-5]]
+==== LZ 7-5: CO~2~-Optimierung in der Cloud vornehmen
+Die Teilnehmenden kennen die Begriffe "FinOps" und "GreenOps" und verstehen die Zusammenhänge. Sie wissen, wie und in welchem Rahmen sie bei einzelnen Cloud-Anbietern die CO~2~-Emissionen beeinflussen können durch u. a.
 
 * Auswahl von Zonen mit emissionsarmer Energieversorgung.
 * Ressourcen sparsam dimensionieren und erst bei Bedarf skalieren.
-* Bedarf zeitlich bzgl. Emissionen optimieren ("Time Shifting", "Peak Shaving").
+* Bedarf zeitlich und örtlich bzgl. Emissionen und Ressourcenverfügbarkeit optimieren ("Time Shifting", "Location Shifting")
 * Autoscaling.
 * Nutzung effizienter Datenspeicherung (nach Zugriffsweg und -häufigkeit).
 * Reduktion bzw. Verkürzung des Netzwerkverkehrs.
@@ -57,34 +56,33 @@ Participants know the power-load relationship of hardware. They can calculate an
 Participants are also familiar with other key figures, including the Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE) and Water Usage Effectiveness (WUE). They can calculate and evaluate these key figures and know how to improve them.
 
 [[LG-7-2]]
-==== LG 7-2: Knowing cloud service models and assessing them in terms of energy efficiency 
+==== LG 7-2: Knowing cloud service & deployment models and assessing them in terms of energy efficiency 
 Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar.
 
-[[LG-7-3]]
-==== LG 7-3: Knowing cloud deployment models and assessing them in terms of energy efficiency 
 Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
-[[LG-7-4]]
-==== LG 7-4: Evaluating and selecting suppliers according to ecologically sustainable aspects
+[[LG-7-3]]
+==== LG 7-3: Evaluating and selecting cloud providers according to ecologically sustainable aspects
 Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others
 
 * Information on the current status of a provider's emissions (e.g. sustainability reports, environmental reports).
 * Measures that providers are currently implementing to reduce or offset emissions.
 * Roadmap and climate targets of providers for the future.
+* Assess the greenwashing risks of providers.
 
-In addition, the participants know the possibilities and limitations of the providers in monitoring emissions from their own resource use as provided by the providers' tools.
+In addition, participants know the possibilities and limitations of providers when monitoring emissions from their own resource use, as provided by the providers' carbon/environmental dashboards.
 
-[[LG-7-5]]
-==== LG 7-5: Knowing operational antipatterns
+[[LG-7-4]]
+==== LG 7-4: Knowing operational antipatterns
 Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution.
 
-[[LG-7-6]]
-==== LG 7-6: Carrying out CO~2~ optimisation in the cloud
-Participants know how and to what extent they can influence the CO~2~ emissions of individual cloud providers by, among other things
+[[LG-7-5]]
+==== LG 7-5: Carrying out CO~2~ optimisation in the cloud
+Participants are familiar with the terms "FinOps" and "GreenOps" and understand how they are related. They know how and to what extent they can influence CO~2~ emissions at individual cloud providers by, among other things,
 
 * Selecting zones with low-emission energy supply.
 * Dimensioning resources sparingly and only scaling them when required.
-* Optimising demand in terms of emissions ("time shifting", "peak shaving").
+* Optimising demand in terms of time and location with regard to emissions and resource availability ("time shifting", "location shifting")
 * Autoscaling.
 * Utilise efficient data storage (according to access path and frequency).
 * Reduction or shortening of network traffic.
