@@ -14,6 +14,6 @@ Klimawandel, Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachha
 |===
 
 === Terms and Principles
-Climate change, consumption of IT, savings through IT, savings in IT, sustainability, CO~2~, CO~2~-equivalents, CO~2~ intensity, CO~2~ footprint, CO~2~ handprint, negative external effects, watts, joules, efficiency, effectiveness
+Climate change, consumption of IT, savings through IT, savings in IT, sustainability, CO~2~, CO~2~ equivalents, CO~2~ intensity, CO~2~ footprint, CO~2~ handprint, negative external effects, watts, joules, efficiency, effectiveness
 
 // end::EN[]

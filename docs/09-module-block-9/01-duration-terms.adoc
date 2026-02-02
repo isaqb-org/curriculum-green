@@ -14,6 +14,6 @@ Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomat
 |===
 
 === Terms and Principles
-Continuous Deployment, Continuous Integration, Deployment Pipelines, Test automation
+Continuous deployment, continuous integration, deployment pipelines, test automation
 
 // end::EN[]

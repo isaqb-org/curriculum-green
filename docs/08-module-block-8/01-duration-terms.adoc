@@ -14,6 +14,6 @@ Green AI, Sustainable AI, Model Training, Inference, Foundation Models, Transfer
 |===
 
 === Terms and Principles
-Green AI, Sustainable AI, Model Training, Inference, Foundation Models, Transfer Learning, Fine-Tuning, Model Compression, Quantization, Pruning, Knowledge Distillation, Edge AI
+Green AI, sustainable AI, model training, inference, foundation models, transfer learning, fine-tuning, model compression, quantization, pruning, knowledge distillation, edge AI
 
 // end::EN[]
