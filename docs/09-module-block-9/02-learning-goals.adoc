@@ -12,6 +12,8 @@ Die Teilnehmenden kennen verschiedene Strategien des Infrastructure as Code, Con
 
 Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting.
 
+Die Teilnehmenden wissen, wie man Energieeffizienzmessungen in die CI/CD-Pipeline integriert. Sie verstehen, wie (negative) Trends schnell erkannt werden können und wie Daten aus verschiedenen Quellen des Entwicklungsprozesses zusammengeführt werden können.
+
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur vornehmen
 
@@ -41,6 +43,8 @@ Participants are familiar with various strategies of Infrastructure as Code, Con
 ==== LG 9-2: Optimising CI/CD processes
 
 Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting.
+
+Participants know how to integrate energy efficiency measurements into the CI/CD pipeline. They understand how (negative) trends can be quickly identified and how data from different sources in the development process can be consolidated.
 
 [[LG-9-3]]
 ==== LG 9-3: Optimising the infrastructure
