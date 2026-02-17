@@ -7,7 +7,7 @@ Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise v
 
 [[LZ-6-2]]
 ==== LZ 6-2: Kommunikation und deren Auswirkungen auf Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage den Einfluss von Datenkompression auf das übertragenen Datenvolumen zu bewerten und wissen, dass die Energieeffizienz durch eine Reduzierung von Aufrufhäufigkeit und des Datenvolumens positiv beeinflusst wird.
+Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage, den Einfluss von Datenkompression auf das übertragene Datenvolumen zu bewerten, und verstehen, dass eine Reduzierung der Aufrufhäufigkeit und des Datenvolumens sich positiv auf die Umweltbilanz auswirkt.
 
 [[LZ-6-3]]
 ==== LZ 6-3: Datenbankmodelle und deren Eigenschaften in Bezug auf Energieeffizienz kennen
@@ -27,7 +27,7 @@ Participants can assess different architectural styles such as distributed syste
 
 [[LG-6-2]]
 ==== LG 6-2: Knowing communication and its impact on energy efficiency
-Participants are familiar with different types of communication (synchronous versus asynchronous) between building blocks in relation to the provision of data and the formats and protocols used (text-based versus binary protocols) with regard to energy efficiency. They are able to evaluate the influence of data compression on the transferred data volume and know that energy efficiency is positively influenced by a reduction in call frequency and data volume.
+Participants are familiar with different types of communication (synchronous versus asynchronous) between building blocks in relation to the provision of data, and can assess the formats and protocols used (text-based versus binary protocols) in terms of energy efficiency. They are able to evaluate the influence of data compression on the transmitted data volume and understand that reducing the call frequency and data volume has a positive effect on the environmental balance.
 
 [[LG-6-3]]
 ==== LG 6-3: Knowing database models and their characteristics in relation to energy efficiency

@@ -14,7 +14,7 @@ Die Teilnehmenden kennen die Möglichkeiten zur Einsparung von Energie und CO~2~
 [[LZ-1-3]]
 ==== LZ 1-3: Energieverbrauch von IT einordnen, beziffern und deren Treiber kennen
 
-Die Teilnehmenden können den Energieverbrauch der Informationstechnik beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IT und zentrale Stellschrauben für mehr Nachhaltigkeit.
+Die Teilnehmenden können den Energieverbrauch der Informationstechnik beziffern, können diesen in Relation zu anderen Sektoren einordnen und die wesentlichen Treiber benennen. Sie kennen Trends und Entwicklungen in der IT und zentrale Stellschrauben für mehr Nachhaltigkeit. Sie verstehen, wie der zunehmende Datenverkehr mit den damit verbundenen Umweltauswirkungen zusammenhängt.
 
 [[LZ-1-4]]
 ==== LZ 1-4: Handlungsfelder für das Einsparen von CO~2~ kennen
@@ -23,7 +23,7 @@ Die Teilnehmenden kennen die Handlungsfelder zum Einsparen von CO~2~:
 
 * Energieeffizienz - Verbrauche so wenig Energie wie möglich.
 * Hardwareeffizienz - Beanspruche so wenig Hardware wie möglich.
-* CO~2~-Emissionseffizienz - Verbrauche Energie möglichst dann und dort, wo sie am "grünsten" erzeugt wird.
+* CO~2~-Emissionseffizienz - Verbrauche Energie möglichst dann und dort, wann und wo sie am "grünsten" erzeugt wird.
 
 // end::DE[]
 
@@ -42,7 +42,7 @@ Participants know the possibilities for saving energy and CO~2~ through digitali
 [[LG-1-3]]
 ==== LG 1-3: Categorising and quantifying IT energy consumption and know its drivers
 
-Participants can quantify the energy consumption of information technology, categorise it in relation to other sectors and name the main drivers. They are familiar with trends and developments in IT and key levers for greater sustainability.
+Participants can quantify the energy consumption of information technology, categorise it in relation to other sectors and name the main drivers. They are familiar with trends and developments in IT and key levers for greater sustainability. They understand how increasing data traffic is linked to the associated environmental impact.
 
 [[LG-1-4]]
 ==== LG 1-4: Knowing the fields of action for saving CO~2~

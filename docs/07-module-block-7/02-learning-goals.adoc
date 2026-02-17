@@ -11,7 +11,7 @@ Die Teilnehmenden kennen darüber hinaus weitere Kennzahlen, darunter den Renewa
 
 [[LZ-7-2]]
 ==== LZ 7-2: Cloud Service & Deployment Modelle kennen und bezüglich Energieeffizienz beurteilen 
-Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind.
+Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind. In diesem Zusammenhang kennen sie die Effizienzvorteile von Containern gegenüber virtuellen Maschinen.
 
 Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem "Public Cloud", "Private Cloud", "Hybrid Cloud" und klassischer On-Premise-Betrieb. Sie können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und CO~2~-Emissionseffizienz haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
 
@@ -57,7 +57,7 @@ Participants are also familiar with other key figures, including the Renewable E
 
 [[LG-7-2]]
 ==== LG 7-2: Knowing cloud service & deployment models and assessing them in terms of energy efficiency 
-Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar.
+Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar. In this context, they are aware of the efficiency advantages of containers over virtual machines.
 
 Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
