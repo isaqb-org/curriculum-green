@@ -4,7 +4,6 @@
 
 [[LZ-8-1]]
 ==== LZ 8-1: Ökologische Auswirkungen von KI-Systemen kennen
-generative künstliche Intelligenz unter Verwendung großer Sprachmodelle
 
 Die Teilnehmenden verstehen die ökologischen Auswirkungen von KI-Systemen, insbesondere die von generativer künstlicher Intelligenz mit großen Sprachmodellen, über ihren gesamten Lebenszyklus hinweg. Sie können die Phasen Datensammlung, Training, Deployment, Inferenz und Wartung unterscheiden und deren jeweiligen Energie- und Ressourcenbedarf erklären. Zudem können sie die Begriffe Operational Carbon und Embodied Carbon auf KI-Systeme anwenden.
 
