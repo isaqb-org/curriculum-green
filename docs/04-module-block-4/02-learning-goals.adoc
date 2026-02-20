@@ -8,7 +8,7 @@ Die Teilnehmenden sind in der Lage, Ressourcen in Relation zur erbrachten Leistu
 
 [[LZ-4-2]]
 ==== LZ 4-2: Messmethodiken kennen und anwenden
-Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Intensität. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i. d. R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert. Sie kennen Proxy-Metriken für die CO~2~-Intensität.
+Die Teilnehmenden kennen das methodische Vorgehen beim Messen des Energieverbrauchs, bzw. der CO~2~-Emissionen. Sie verstehen, dass die Bewertung / Messung des absoluten Verbrauchs i. d. R. (gerade in der Cloud) nicht sehr exakt möglich ist, sondern wie man stattdessen Trends analysiert. Sie kennen Proxy-Metriken für die CO~2~-Emissionen.
 
 Die Teilnehmenden wissen, wie sie sinnvolle Szenarien zum Messen der Energieeffizienz aufsetzen.
 
@@ -41,7 +41,7 @@ Participants are able to relate resources to the service provided (business metr
 
 [[LG-4-2]]
 ==== LG 4-2: Knowing and applying measurement methods
-The participants know the methodological procedure for measuring energy consumption and CO~2~ intensity. They understand that it is generally not possible to evaluate/measure absolute consumption very precisely (especially in the cloud), but how to analyse trends instead. They know proxy metrics for CO~2~ intensity.
+The participants know the methodological procedure for measuring energy consumption and CO~2~ emissions. They understand that it is generally not possible to evaluate/measure absolute consumption very precisely (especially in the cloud), but how to analyse trends instead. They know proxy metrics for CO~2~ emissions.
 
 Participants know how to set up meaningful scenarios for measuring energy efficiency.
 

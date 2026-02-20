@@ -9,7 +9,7 @@ Die Teilnehmenden kennen die Regulatorik und die darin enthaltenen Anforderungen
 [[LZ-2-2]]
 ==== LZ 2-2: Greenhouse Gas Protocol kennen und anwenden 
 
-Die Teilnehmenden kennen das Greenhouse Gas Protocol (GHP). Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
+Die Teilnehmenden kennen das Greenhouse Gas Protocol (GHG Protocol). Sie sind in der Lage die Scopes zu erklären und Emissionen den Scopes zuzuordnen. Sie können erklären, welche Scopes beim Betrieb von Software in der Cloud oder On Premise betroffen sind. Die Teilnehmenden kennen die ISO 14064-1 als Ableitung des Greenhouse Gas Protocols.
 
 [[LZ-2-3]]
 ==== LZ 2-3: Energieeffizienz als Handlungsfeld im Unternehmen platzieren
@@ -33,7 +33,7 @@ Participants know the regulatory framework and the requirements it contains for 
 [[LG-2-2]]
 ==== LG 2-2: Knowing and applying the Greenhouse Gas Protocol
 
-Participants are familiar with the Greenhouse Gas Protocol (GHP). They are able to explain the scopes and assign emissions to the scopes. They can explain which scopes are affected when operating software in the cloud or on premise. Participants are familiar with ISO 14064-1 as a derivation of the Greenhouse Gas Protocol.
+Participants are familiar with the Greenhouse Gas Protocol (GHG Protocol). They are able to explain the scopes and assign emissions to the scopes. They can explain which scopes are affected when operating software in the cloud or on premise. Participants are familiar with ISO 14064-1 as a derivation of the Greenhouse Gas Protocol.
 
 [[LG-2-3]]
 ==== LG 2-3: Positioning energy efficiency as a field of action in the company

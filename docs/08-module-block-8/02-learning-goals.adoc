@@ -5,7 +5,7 @@
 [[LZ-8-1]]
 ==== LZ 8-1: Ökologische Auswirkungen von KI-Systemen kennen
 
-Die Teilnehmenden verstehen die ökologischen Auswirkungen von KI-Systemen über ihren gesamten Lebenszyklus hinweg. Sie können die Phasen Datensammlung, Training, Deployment, Inferenz und Wartung unterscheiden und deren jeweiligen Energie- und Ressourcenbedarf erklären. Sie können die Begriffe Operational Carbon und Embodied Carbon auf KI-Systeme anwenden.
+Die Teilnehmenden verstehen die ökologischen Auswirkungen von KI-Systemen, insbesondere die von generativer künstlicher Intelligenz mit großen Sprachmodellen, über ihren gesamten Lebenszyklus hinweg. Sie können die Phasen Datensammlung, Training, Deployment, Inferenz und Wartung unterscheiden und deren jeweiligen Energie- und Ressourcenbedarf erklären. Zudem können sie die Begriffe Operational Carbon und Embodied Carbon auf KI-Systeme anwenden.
 
 [[LZ-8-2]]
 ==== LZ 8-2: Energieeffiziente KI-Architekturen bewerten
@@ -44,7 +44,7 @@ Die Teilnehmenden verstehen die Zielkonflikte zwischen klassischen Qualitätsatt
 [[LG-8-1]]
 ==== LG 8-1: Understanding the environmental impact of AI systems
 
-Participants understand the environmental impact of AI systems throughout their entire life cycle. They can distinguish between the phases of data collection, training, deployment, inference and maintenance, and explain their respective energy and resource requirements. They can apply the terms operational carbon and embodied carbon to AI systems.
+Participants understand the environmental impact of AI systems, particularly generative artificial intelligence with large language models, throughout their entire life cycle. They can distinguish between the phases of data collection, training, deployment, inference and maintenance, and explain their respective energy and resource requirements. They can also apply the terms operational carbon and embodied carbon to AI systems.
 
 [[LG-8-2]]
 ==== LG 8-2: Evaluating energy-efficient AI architectures

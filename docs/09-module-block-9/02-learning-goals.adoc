@@ -19,8 +19,7 @@ Die Teilnehmenden wissen, wie man Energieeffizienzmessungen in die CI/CD-Pipelin
 
 Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise:
 
-* Betrachtung der tatsächlich notwendigen Resilienz
-* Effizienzvorteile von Containern gegenüber virtuellen Maschinen
+* Betrachtung der tatsächlich notwendigen Resilienz verschiedener Umgebungen
 * Optimiertes Layering in Containern
 * Reduktion der Image-Größe von Containern
 * Einsatz von Caching für Build- und Testartefakte
@@ -51,8 +50,7 @@ Participants know how to integrate energy efficiency measurements into the CI/CD
 
 Participants are familiar with methods for optimising the development and deployment infrastructure. These include, for example:
 
-* Consideration of the actual resilience required
-* Efficiency advantages of containers over virtual machines
+* Consideration of the actual resilience required in different environments
 * Optimised layering in containers
 * Reduction of container image size
 * Use of caching for build and test artefacts
