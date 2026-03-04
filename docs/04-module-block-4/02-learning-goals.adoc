@@ -79,8 +79,8 @@ Participants
 
 * are familiar with the challenges of measurement in typical enterprise environments, particularly with regard to distributed components and peripheral systems, hybrid cloud scenarios and compliance requirements.
 * understand that a differentiated measurement approach is necessary, varying according to the development phase, environment, and objectives.
-* know which measurement approaches are suitable in the various phases of the software life cycle (e.g., development, integration, load testing, production).
-* can assess when classic resource metrics (e.g., CPU, memory) are sufficient and in which cases green metrics (e.g., energy consumption, CO~2~ emissions) should be usefully supplemented or prioritized.
+* know which measurement approaches are suitable in the various phases of the software life cycle (e.g. development, integration, load testing, production).
+* can assess when classic resource metrics (e.g. CPU, memory) are sufficient and in which cases green metrics (e.g. energy consumption, CO~2~ emissions) should be usefully supplemented or prioritized.
 
 // end::EN[]
 
