@@ -32,13 +32,12 @@ Kategorien sind beispielsweise:
 * Carbon Footprint Tools der Cloudanbieter. In Cloudumgebungen kann der Energieverbrauch nicht direkt gemessen werden. Stattdessen ist man auf vom Anbieter bereitgestellte Tools oder andere Schätzmethoden angewiesen. Die Teilnehmenden kennen die Funktionalität und die Einschränkungen dieser Tools (Ungenauigkeit, relative Angaben, nötige Berechtigungen in der Cloud-Console) wie auch die Herausforderungen, Managed Services mit reinen VMs zu vergleichen.
 
 [[LZ-4-4]]
-==== LZ 4-4: Herausforderungen und Ansätze beim Messen in Enterprise-Umgebungen
-Die Teilnehmenden
+==== LZ 4-4: Herausforderungen beim Messen in Enterprise-Umgebungen analysieren und passende Messansätze ableiten
+Die Teilnehmenden kennen die Herausforderungen beim Messen in typischen Enterprise-Umgebungen, insbesondere in Bezug auf verteilte Komponenten und Umsysteme, Hybrid-Cloud-Szenarien und Compliance-Anforderungen. Sie verstehen, dass ein differenzierter Messansatz nötig ist, der sich nach Entwicklungsphase, Umgebung und Zielsetzung unterscheidet.
 
-* kennen die Herausforderungen beim Messen in typischen Enterprise-Umgebungen, insbesondere in Bezug auf verteilte Komponenten und Umsysteme, Hybrid-Cloud-Szenarien und Compliance-Anforderungen.
-* verstehen, dass ein differenzierter Messansatz notwendig ist, der sich nach Entwicklungsphase, Umgebung und Zielsetzung unterscheidet.
-* wissen, welche Messansätze in den verschiedenen Phasen des Softwarelebenszyklus (z. B. Entwicklung, Integration, Lasttest, Produktion) geeignet sind.
-* können einschätzen, wann klassische Ressourcenmetriken (z. B. CPU, Memory) ausreichen und in welchen Fällen grüne Metriken (z. B. Energieverbrauch, CO~2~-Emissionen) sinnvoll ergänzt oder priorisiert werden sollten.
+* Sie wissen, welche Messansätze in den verschiedenen Phasen des Softwarelebenszyklus (z. B. Entwicklung, Integration, Lasttest, Produktion) geeignet sind.
+* Sie können einschätzen, wann klassische Ressourcenmetriken (z. B. CPU, Memory) ausreichen und in welchen Fällen grüne Metriken (z. B. Energieverbrauch, CO~2~-Emissionen) ergänzt oder priorisiert werden sollten.
+* Sie kennen Lösungsstrategien, um mit den spezifischen Gegebenheiten in Enterprise-Umgebungen umzugehen, beispielsweise durch die Kombination geeigneter Messwerkzeuge.
 
 // end::DE[]
 
@@ -74,13 +73,12 @@ Categories include, for example:
 * Carbon footprint tools from cloud providers. In cloud environments, energy consumption cannot be measured directly. Instead, you have to rely on tools provided by the provider or other estimation methods. Participants are familiar with the functionality and limitations of these tools (inaccuracy, relative data, necessary authorisations in the cloud console) as well as the challenges of comparing managed services with pure VMs.
 
 [[LG-4-4]]
-==== LG 4-4: Challenges and approaches to measurement in enterprise environments
-Participants
+==== LG 4-4: Analysing challenges when measuring in enterprise environments and deriving suitable measurement approaches
+Participants are familiar with the challenges of measuring in typical enterprise environments, particularly with regard to distributed components and peripheral systems, hybrid cloud scenarios and compliance requirements. They understand that a differentiated measurement approach is necessary, which varies according to the development phase, environment and objectives.
 
-* are familiar with the challenges of measurement in typical enterprise environments, particularly with regard to distributed components and peripheral systems, hybrid cloud scenarios and compliance requirements.
-* understand that a differentiated measurement approach is necessary, varying according to the development phase, environment, and objectives.
-* know which measurement approaches are suitable in the various phases of the software life cycle (e.g. development, integration, load testing, production).
-* can assess when classic resource metrics (e.g. CPU, memory) are sufficient and in which cases green metrics (e.g. energy consumption, CO~2~ emissions) should be usefully supplemented or prioritized.
+* They know which measurement approaches are suitable in the various phases of the software life cycle (e.g. development, integration, load testing, production).
+* They can assess when classic resource metrics (e.g. CPU, memory) are sufficient and in which cases green metrics (e.g. energy consumption, CO~2~ emissions) should be supplemented or prioritised.
+* They are familiar with solution strategies for dealing with the specific conditions in enterprise environments, for example by combining suitable measurement tools.
 
 // end::EN[]
 
