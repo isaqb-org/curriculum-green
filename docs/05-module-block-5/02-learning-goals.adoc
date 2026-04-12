@@ -15,7 +15,11 @@ Die Teilnehmenden kennen das Prinzip der rechnerischen Komplexität und können 
 Die Teilnehmenden kennen Verfahren, um mit großen Datenmengen umzugehen. Sie können Datenstrukturen und Operationen auf diesen Datenstrukturen bezüglich Energieeffizienz einschätzen und die richtige Auswahl bezogen auf die gegebenen Anforderungen vornehmen.
 
 Die Teilnehmenden kennen Fallstricke beim Einsatz von Datenbanksystemen und können diese vermeiden. Sie sind in der Lage unterschiedliche Ansätze für die Abbildung von Beziehungen zwischen Entitäten auf Basis der fachlichen Anforderungen und der Qualitätsanforderungen zu bewerten und optimal auszuwählen.
- 
+
+[[LZ-5-4]]
+==== LZ 5-4: Agentic Coding zur Verbesserung der Energieeffizienz von Software einsetzen
+Die Teilnehmenden kennen Möglichkeiten, wie Agentic-Coding-Werkzeuge genutzt werden können, um energierelevante Schwachstellen im Code zu identifizieren und Verbesserungen vorzuschlagen oder umzusetzen – etwa bei der Wahl von Algorithmen, Datenstrukturen oder Ressourcennutzung. Die Teilnehmenden können diese Werkzeuge zielgerichtet einsetzen und deren Ergebnisse kritisch bewerten.
+
 // end::DE[]
 
 // tag::EN[]
@@ -33,6 +37,10 @@ Participants are familiar with the principle of computational complexity and can
 Participants know methods for handling large amounts of data. They can assess data structures and operations on these data structures in terms of energy efficiency and make the right selection based on the given requirements.
 
 Participants know the pitfalls of using database systems and can avoid them. They are able to evaluate and optimally select different approaches for mapping relationships between entities on the basis of business requirements and quality requirements.
+
+[[LG-5-4]]
+==== LG 5-4: Using agentic coding to improve the energy efficiency of software
+Participants will be familiar with ways in which agentic coding tools can be used to identify energy-related vulnerabilities in code and to suggest or implement improvements – for example, in the choice of algorithms, data structures or resource usage. Participants will be able to use these tools effectively and evaluate their results critically.
 
 // end::EN[]
 
