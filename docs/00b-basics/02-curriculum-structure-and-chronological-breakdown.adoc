@@ -1,4 +1,4 @@
-^// tag::DE[]
+// tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
 [cols="<,>", options="header"]
