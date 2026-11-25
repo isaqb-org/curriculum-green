@@ -1,2 +1,2 @@
 === {references}
-<<sci>>, <<swd>>, <<toollandscape>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>
+<<sci>>, <<swd>>, <<toollandscape>>, <<greenframe>>, <<greenmetricstool>>, <<cloudcarbonfootprint>>, <<sciai>>, <<elsworth>>, <<aienergyscore>>

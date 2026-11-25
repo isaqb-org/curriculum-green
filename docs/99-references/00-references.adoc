@@ -17,6 +17,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[siec, Ackermann et al. 2022]]] Dr. Ludger Ackermann und Dr. Dirk Harryvan: Auszeit unter Aufsicht in iX Special 2022 - Green IT, https://shop.heise.de/ix-13-2022/PDF
 
+- [[[aienergyscore, AI Energy Score]]] Hugging Face: AI Energy Score, https://huggingface.github.io/AIEnergyScore
+
 - [[[qmarc, arc42]]] arc42 Quality Model, https://quality.arc42.org
 
 - [[[pue, Avelar et al. 2012]]] Avelar et al.: PUE: A Comprehensive Examination of the Metric, https://datacenters.lbl.gov/sites/default/files/WP49-PUE%20A%20Comprehensive%20Examination%20of%20the%20Metric_v6.pdf
@@ -32,6 +34,8 @@ This section contains references that are cited in the curriculum.
 - [[[cloudcarbonfootprint, Cloud Carbon Footprint]]] Cloud Carbon Emissions Measurement and Analysis Tool, https://www.cloudcarbonfootprint.org
 
 **E**
+
+- [[[elsworth, Elsworth et al. 2025]]] Cooper Elsworth, Keguo Huang, David Patterson et al.: Measuring the environmental impact of delivering AI at Google Scale, https://arxiv.org/abs/2508.15734
 
 - [[[eereport, Energy Efficiency Report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
 
@@ -72,6 +76,8 @@ This section contains references that are cited in the curriculum.
 **S**
 
 - [[[sci, SCI]]] Software Carbon Intensity, https://sci-guide.greensoftware.foundation/
+
+- [[[sciai, SCI for AI]]] Green Software Foundation: Software Carbon Intensity for AI (SCI for AI), https://greensoftware.foundation/standards/sci-ai/
 
 - [[[strubell, Strubell et al. 2019]]] Emma Strubell, Ananya Ganesh, Andrew McCallum: Energy and Policy Considerations for Deep Learning in NLP, https://aclanthology.org/P19-1355
 
