@@ -35,13 +35,17 @@ This section contains references that are cited in the curriculum.
 
 - [[[eereport, Energy Efficiency Report]]] Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
 
+- [[[euaiact, EU AI Act]]] Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+
+- [[[gpaicop, EU GPAI Code of Practice]]] European Commission: General-Purpose AI Code of Practice, 2025, https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice
+
 **G**
 
 - [[[greenframe, Greenframe]]] Measure and reduce website's CO2 emissions, https://greenframe.io
 
 - [[[greenmetricstool, Green Metrics Tool]]] Messen des Energie- / CO2-Verbrauch von Software-Architekturen, https://www.green-coding.io/de/projects/green-metrics-tool/
 
-- [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://learn.greensoftware.foundation/measurement
+- [[[ghg, Greenhouse Gas Protocol]]] Greenhouse Gas Protocol, https://ghgprotocol.org
 
 - [[[greenai, GSF Green AI]]] GSF - Green AI Position Paper, https://greensoftware.foundation/articles/green-ai-position-paper
 
@@ -52,8 +56,6 @@ This section contains references that are cited in the curriculum.
 - [[[tia, Hammant 2017]]] Paul Hammant: The Rise of Test Impact Analysis, https://martinfowler.com/articles/rise-test-impact-analysis.html
 
 **I**
-
-- [[[iso14064-1,ISO 14064-1]]] ISO 14064-1, https://www.iso.org/standard/66453.html
 
 - [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
