@@ -8,6 +8,7 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 - Umgang mit Qualitätsanforderungen
 - Praktische Erfahrung beim Monitoring von Softwaresystemen
 - Praktische Programmiererfahrung
+- Grundlegende praktische Erfahrung mit KI-gestützten Werkzeugen (z. B. Chatbots, AI Assistants, Coding Agents)
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
@@ -27,6 +28,7 @@ Participants **should** have the following prerequisite knowledge:
 - Dealing with quality requirements
 - Practical experience in monitoring software systems
 - Practical programming experience
+- Basic practical experience with AI-based tools (e.g. chatbots, AI assistants, coding agents)
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
