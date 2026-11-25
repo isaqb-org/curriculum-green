@@ -5,29 +5,37 @@
 [[LZ-9-1]]
 ==== LZ 9-1: CI/CD-Strategien und deren Ressourcenbedarf kennen
 
-Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und Continuous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können.
+Die Teilnehmenden kennen verschiedene Strategien des Continuous Integration und Continuous Deployments. Dazu gehört, warum und wann diese üblicherweise eingesetzt werden, welchen grundsätzlichen Ressourcenbedarf diese haben können und wie sich Testausführung sowie Codeanalysen auf diesen Bedarf auswirken können. Sie wissen, dass KI-gestützte Prüfschritte vor und in der Pipeline (z. B. automatisierte Reviews von Pull Requests) den Ressourcenbedarf erhöhen, und können einschätzen, wo sich ihr Einsatz lohnt.
 
 [[LZ-9-2]]
 ==== LZ 9-2: Optimierung der CI/CD Prozesse durchführen
 
-Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving, Time-Shifting und Location-Shifting.
+Die Teilnehmenden sind mit Strategien zur Ressourcenoptimierung und der Verringerung der CO~2~-Emissionen von CI/CD-Prozessen vertraut. Beispiele hierfür sind die Anwendung von Peak-Shaving (Begrenzen paralleler Build-Agents, um Lastspitzen zu glätten), Time-Shifting und Location-Shifting.
 
 Die Teilnehmenden wissen, wie man Energieeffizienzmessungen in die CI/CD-Pipeline integriert. Sie verstehen, wie (negative) Trends schnell erkannt werden können und wie Daten aus verschiedenen Quellen des Entwicklungsprozesses zusammengeführt werden können.
 
 [[LZ-9-3]]
 ==== LZ 9-3: Optimierung der Infrastruktur vornehmen
 
-Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu zählen beispielsweise:
-
-* Betrachtung der tatsächlich notwendigen Resilienz verschiedener Umgebungen
-* Optimiertes Layering in Containern
-* Reduktion der Image-Größe von Containern
-* Einsatz von Caching für Build- und Testartefakte
+Die Teilnehmenden kennen Verfahren zur Optimierung der Entwicklungs- und Deployment-Infrastruktur. Dazu gehören eine bedarfsgerechte Dimensionierung der Umgebungen (tatsächlich notwendige Resilienz), kleine Container-Images und das Caching von Build- und Testartefakten.
 
 [[LZ-9-4]]
 ==== LZ 9-4: Teststrategie optimieren 
 
-Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Lasttest, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Impact-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen.
+Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizienz ihrer Teststrategien und Testumgebungen vertraut. Dazu zählt beispielsweise die Wirkung verschiedener Testarten (Lasttest, Systemtest, Integrationstest, Unit-Test, ...) auf den Ressourcenverbrauch sowie die Verringerung dessen durch Test-Impact-Analysen und die bedarfsorientierte, zeitlich begrenzte Bereitstellung entsprechender Testumgebungen. Sie wissen, dass KI-gestützte Entwicklung mehr Tests erfordert und damit den Ressourcenverbrauch der Testausführung erhöht.
+
+[[LZ-9-5]]
+==== LZ 9-5: Rahmenbedingungen für ressourceneffiziente KI-gestützte Entwicklung festlegen (Agentic Engineering)
+
+Die Teilnehmenden kennen die Treiber des Ressourcenverbrauchs KI-gestützter Entwicklungswerkzeuge (AI Assistants, Coding Agents): Token, Modellgröße und Zahl der Iterationen. Sie können für ein Entwicklungsteam Rahmenbedingungen festlegen, die diesen Verbrauch senken, ohne das Ergebnis zu verschlechtern:
+
+* Harness auf Projektebene: schlanke Projektanweisungen, gezielt angebundene Werkzeuge, Sub-Agenten und Model-Routing (Token-Effizienz)
+* Projektwissen: aktuelle Architekturdokumentation als Kontext für Agenten
+* Regeln zur Modellwahl: das kleinste ausreichende Modell als Standard, größere Modelle und Reasoning nur bei Bedarf
+* Bewusster Verzicht: keine KI, wo klassische Werkzeuge (z. B. Suche, Linter, Refactoring-Funktionen) ausreichen
+* Messung und Budgets: Token und Kosten je Team und je erledigter Aufgabe
+
+Sie können Workflow-Ansätze (z. B. Vibe Coding, Spec-Driven Development) hinsichtlich ihres Ressourcenverbrauchs einschließlich Nacharbeit vergleichen und für das Team einen passenden Ansatz festlegen. Sie berücksichtigen dabei den Rebound-Effekt (siehe <<LZ-8-4,LZ 8-4>>).
 
 // end::DE[]
 
@@ -36,29 +44,37 @@ Die Teilnehmenden sind mit Möglichkeiten zur Verbesserung der Ressourceneffizie
 [[LG-9-1]]
 ==== LG 9-1: Knowing CI/CD strategies and their resource requirements
 
-Participants are familiar with various strategies of Continuous Integration and Continuous Deployment. This includes why and when these are usually used, what basic resource requirements they can have and how test execution and code analyses can affect these requirements.
+Participants are familiar with various strategies of Continuous Integration and Continuous Deployment. This includes why and when these are usually used, what basic resource requirements they can have and how test execution and code analyses can affect these requirements. They know that AI-supported checks before and in the pipeline (e.g. automated reviews of pull requests) increase the resource requirements, and they can assess where their use pays off.
 
 [[LG-9-2]]
 ==== LG 9-2: Optimising CI/CD processes
 
-Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving, time shifting and location shifting.
+Participants are familiar with strategies for optimising resources and reducing CO~2~ emissions from CI/CD processes. Examples of this include the use of peak shaving (limiting parallel build agents to smooth load peaks), time shifting and location shifting.
 
 Participants know how to integrate energy efficiency measurements into the CI/CD pipeline. They understand how (negative) trends can be quickly identified and how data from different sources in the development process can be consolidated.
 
 [[LG-9-3]]
 ==== LG 9-3: Optimising the infrastructure
 
-Participants are familiar with methods for optimising the development and deployment infrastructure. These include, for example:
-
-* Consideration of the actual resilience required in different environments
-* Optimised layering in containers
-* Reduction of container image size
-* Use of caching for build and test artefacts
+Participants are familiar with methods for optimising the development and deployment infrastructure. These include demand-based sizing of the environments (the resilience that is actually needed), small container images and caching of build and test artefacts.
 
 [[LG-9-4]]
 ==== LG 9-4: Optimising the test strategy 
 
-Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test impact analyses and the demand-oriented, time-limited provision of appropriate test environments.
+Participants are familiar with ways to improve the resource efficiency of their test strategies and test environments. This includes, for example, the effect of different test types (load test, system test, integration test, unit test, ...) on resource consumption and the reduction of this through test impact analyses and the demand-oriented, time-limited provision of appropriate test environments. They know that AI-supported development needs more tests and therefore increases the resource consumption of test execution.
+
+[[LG-9-5]]
+==== LG 9-5: Setting the framework for resource-efficient AI-supported development (agentic engineering)
+
+Participants know the drivers of the resource consumption of AI-supported development tools (AI assistants, coding agents): tokens, model size and number of iterations. They can set a framework for a development team that reduces this consumption without making the results worse:
+
+* Project-level harness: lean project instructions, specifically connected tools, sub-agents and model routing (token efficiency)
+* Project knowledge: up-to-date architecture documentation as context for agents
+* Rules for model selection: the smallest sufficient model as the default, larger models and reasoning only when needed
+* Deliberate non-use: no AI where classic tools (e.g. search, linters, refactoring functions) are sufficient
+* Measurement and budgets: tokens and costs per team and per completed task
+
+They can compare workflow approaches (e.g. vibe coding, spec-driven development) in terms of their resource consumption, including rework, and choose a suitable approach for the team. In doing so, they take the rebound effect into account (see <<LG-8-4,LG 8-4>>).
 
 // end::EN[]
 
