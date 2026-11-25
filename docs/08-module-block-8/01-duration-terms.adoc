@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: keine
+| Dauer: 75 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
-Green AI, Sustainable AI, Model Training, Inference, Foundation Models, Transfer Learning, Fine-Tuning, Model Compression, Quantization, Pruning, Knowledge Distillation, Edge AI
+Green AI, Sustainable AI, Foundation Models, Transfer Learning, Fine-Tuning, Model Compression, Quantization, Pruning, Knowledge Distillation, Edge AI, Token, Reasoning (Test-Time Compute), Modell-Routing, Caching, Retrieval-Augmented Generation (RAG), Mixture of Experts
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: none
+| Duration: 75 min | Practice time: 30 min
 |===
 
 === Terms and Principles
-Green AI, sustainable AI, model training, inference, foundation models, transfer learning, fine-tuning, model compression, quantization, pruning, knowledge distillation, edge AI
+Green AI, sustainable AI, foundation models, transfer learning, fine-tuning, model compression, quantization, pruning, knowledge distillation, edge AI, tokens, reasoning (test-time compute), model routing, caching, retrieval-augmented generation (RAG), mixture of experts
 
 // end::EN[]

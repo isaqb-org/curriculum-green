@@ -29,6 +29,8 @@ This section contains references that are cited in the curriculum.
 
 **C**
 
+- [[[chen2023, Chen et al. 2023]]] Lingjiao Chen, Matei Zaharia, James Zou: FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance, https://arxiv.org/abs/2305.05176
+
 - [[[cloudcarbonfootprint, Cloud Carbon Footprint]]] Cloud Carbon Emissions Measurement and Analysis Tool, https://www.cloudcarbonfootprint.org
 
 **E**
@@ -55,6 +57,8 @@ This section contains references that are cited in the curriculum.
 
 - [[[iso14064-1,ISO 14064-1]]] ISO 14064-1, https://www.iso.org/standard/66453.html
 
+- [[[iea, IEA 2025]]] International Energy Agency: Energy and AI, 2025, https://www.iea.org/reports/energy-and-ai
+
 - [[[qmiso,ISO 25010]]] ISO/IEC 25010, https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
 
 - [[[ref,ISO/IEC 30134-3:2016]]] ISO/IEC 30134-3:2016, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-3:ed-1:v1:en
@@ -62,6 +66,12 @@ This section contains references that are cited in the curriculum.
 - [[[cue,ISO/IEC 30134-8:2022]]] ISO/IEC 30134-8:2022, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-8:ed-1:v1:en
 
 - [[[wue,ISO/IEC 30134-9:2022]]] ISO/IEC 30134-9:2022, https://www.iso.org/obp/ui/#iso:std:iso-iec:30134:-9:ed-1:v1:en
+
+**L**
+
+- [[[luccioni2024, Luccioni et al. 2024]]] Alexandra Sasha Luccioni, Yacine Jernite, Emma Strubell: Power Hungry Processing: Watts Driving the Cost of AI Deployment?, https://arxiv.org/abs/2311.16863
+
+- [[[luccioni2025, Luccioni et al. 2025]]] Alexandra Sasha Luccioni, Emma Strubell, Kate Crawford: From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate, https://arxiv.org/abs/2501.16548
 
 **P**
 
