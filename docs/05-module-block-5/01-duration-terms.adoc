@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 75 Min. | Übungszeit: keine
+| Dauer: 60 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
-Programmiersprachen, Ahead-of-Time und Just-in-Time Compilierung, Bytecode, Maschinencode, Garbage-Collection, Datenstrukturen, Algorithmen, Rechnerische Komplexität, Caching, Datenhandling, Datenmodelle
+Programmiersprachen, Laufzeitumgebungen, Garbage-Collection, Datenstrukturen, Algorithmen, Caching, Datenhandling, Datenmodelle, Energy Code Smells, Agentic Coding
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 75 min | Practice time: none
+| Duration: 60 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Programming languages, ahead-of-time and just-in-time compilation, bytecode, machine code, garbage collection, data structures, algorithms, computational complexity, caching, data handling, data models
+Programming languages, runtime environments, garbage collection, data structures, algorithms, caching, data handling, data models, energy code smells, agentic coding
 
 // end::EN[]
