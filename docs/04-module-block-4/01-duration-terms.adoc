@@ -1,20 +1,20 @@
 // tag::DE[]
 |===
-| Dauer: 75 Min. | Übungszeit: 60 Min.
+| Dauer: 90 Min. | Übungszeit: 105 Min.
 |===
 
 === Begriffe und Konzepte
-Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffizienz, Kategorien von Messverfahren, Messwerkzeuge
+Software Carbon Intensity (SCI), Business Metriken, Proxy-Metriken, Energieeffizienz, Kategorien von Messverfahren, Messwerkzeuge, Token, funktionale Einheit, Open-Weights-Modelle, Software Carbon Intensity for AI (SCI for AI)
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 75 min | Practice time: 60 min
+| Duration: 90 min | Practice time: 105 min
 |===
 
 === Terms and Principles
-Software Carbon Intensity (SCI), business metrics, proxy metrics, energy efficiency, categories of measurement methods, measurement tools
+Software Carbon Intensity (SCI), business metrics, proxy metrics, energy efficiency, categories of measurement methods, measurement tools, tokens, functional unit, open-weights models, Software Carbon Intensity for AI (SCI for AI)
 
 // end::EN[]
 

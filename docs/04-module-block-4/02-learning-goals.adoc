@@ -39,6 +39,16 @@ Die Teilnehmenden kennen die Herausforderungen beim Messen in typischen Enterpri
 * Sie können einschätzen, wann klassische Ressourcenmetriken (z. B. CPU, Memory) ausreichen und in welchen Fällen grüne Metriken (z. B. Energieverbrauch, CO~2~-Emissionen) ergänzt oder priorisiert werden sollten.
 * Sie kennen Lösungsstrategien, um mit den spezifischen Gegebenheiten in Enterprise-Umgebungen umzugehen, beispielsweise durch die Kombination geeigneter Messwerkzeuge.
 
+[[LZ-4-5]]
+==== LZ 4-5: Ressourcenverbrauch von KI-Komponenten abschätzen und überwachen
+Die Teilnehmenden können den Ressourcenverbrauch der KI-Komponenten in den Systemen, die sie entwerfen, und der KI-Werkzeuge in der Entwicklung abschätzen und im Zeitverlauf verfolgen. Da sich der Energieverbrauch von KI-Diensten meist nicht direkt messen lässt, kennen sie Möglichkeiten der Abschätzung:
+
+* Proxy-Metriken: Token (Eingabe und Ausgabe), Anfragen, Modellklasse, Rechenzeit
+* veröffentlichte Angaben von Anbietern und unabhängigen Initiativen zum Energiebedarf pro Anfrage oder pro Token
+* direkte Messung bei selbst betriebenen Modellen, z. B. Open-Weights-Modellen, über die Leistungsaufnahme der GPUs
+
+Sie beziehen den Verbrauch auf eine fachliche funktionale Einheit, z. B. pro Geschäftsvorfall oder pro erledigter Aufgabe statt pro Anfrage, denn ein pro Anfrage sparsameres Modell kann durch zusätzliche Aufrufe insgesamt mehr verbrauchen. Sie kennen die Spezifikation Software Carbon Intensity for AI (SCI for AI).
+
 // end::DE[]
 
 // tag::EN[]
@@ -79,6 +89,16 @@ Participants are familiar with the challenges of measuring in typical enterprise
 * They know which measurement approaches are suitable in the various phases of the software life cycle (e.g. development, integration, load testing, production).
 * They can assess when classic resource metrics (e.g. CPU, memory) are sufficient and in which cases green metrics (e.g. energy consumption, CO~2~ emissions) should be supplemented or prioritised.
 * They are familiar with solution strategies for dealing with the specific conditions in enterprise environments, for example by combining suitable measurement tools.
+
+[[LG-4-5]]
+==== LG 4-5: Estimating and monitoring the resource consumption of AI components
+Participants can estimate the resource consumption of the AI components in the systems they design and of the AI tools used in development, and they can track it over time. As the energy consumption of AI services usually cannot be measured directly, they know ways to estimate it:
+
+* Proxy metrics: tokens (input and output), requests, model class, computing time
+* published figures from providers and independent initiatives on the energy demand per request or per token
+* direct measurement for self-hosted models, e.g. open-weights models, via the power consumption of the GPUs
+
+They relate the consumption to a business-level functional unit, e.g. per business transaction or per completed task instead of per request, because a model that uses less per request can use more in total through additional calls. They know the Software Carbon Intensity for AI (SCI for AI) specification.
 
 // end::EN[]
 
