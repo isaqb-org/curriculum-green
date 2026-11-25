@@ -1,6 +1,6 @@
 
-:recommended-duration-in-days: 2
-:methodical-credits: 10
+:recommended-duration-in-days: 3
+:methodical-credits: 20
 :technical-credits: 10
 :communicative-credits: 0
 
@@ -11,8 +11,9 @@ Die unten genannten Zeiten sind Empfehlungen. Die Dauer einer Schulung zum Modul
 sollte mindestens {recommended-duration-in-days} Tage betragen, kann aber länger sein.
 Anbieter können sich durch Dauer, Didaktik, Art und Aufbau der Übungen sowie der detaillierten Kursgliederung voneinander unterscheiden.
 Insbesondere die Art der Beispiele und Übungen lässt der Lehrplan komplett offen.
+Ein großer Teil der Zeit ist als Übungszeit vorgesehen, damit Übungen und Diskussionen ausreichend Raum erhalten.
 
-Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points) bei:
+Lizenzierte Schulungen zu {curriculum-short} tragen zur Zulassung zur abschließenden Advanced-Level-Zertifizierungsprüfung folgende Credit Points bei:
 
 [stripes=none, frame=none, grid=rows]
 |===
@@ -30,6 +31,7 @@ The times stated below are recommendations.
 The duration of a training course on the {curriculum-short} module should be at least {recommended-duration-in-days} days, but may be longer.
 Providers may differ in terms of duration, teaching method, type and structure of the exercises, and the detailed course structure.
 In particular, the curriculum provides no specifications on the nature of the examples and exercises.
+A large part of the time is planned as practice time, so that exercises and discussions have enough room.
 
 Licensed training courses for the {curriculum-short} module contribute the following credit points towards admission to the final Advanced Level certification exam:
 

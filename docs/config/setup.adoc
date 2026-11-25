@@ -15,11 +15,11 @@
 :curriculum-short: GREEN
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Green Software - Entwicklung ressourceneffizienter Anwendungen
+:curriculum-name: Green Software mit ressourceneffizienter KI
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Green Software - Development of resource-efficient applications
+:curriculum-name: Green Software with Resource-Efficient AI
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]
