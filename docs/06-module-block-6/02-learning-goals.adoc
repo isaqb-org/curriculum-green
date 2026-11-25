@@ -7,15 +7,25 @@ Die Teilnehmenden können unterschiedliche Architekturstile wie beispielsweise v
 
 [[LZ-6-2]]
 ==== LZ 6-2: Kommunikation und deren Auswirkungen auf Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage, den Einfluss von Datenkompression auf das übertragene Datenvolumen zu bewerten, und verstehen, dass eine Reduzierung der Aufrufhäufigkeit und des Datenvolumens sich positiv auf die Umweltbilanz auswirkt.
+Die Teilnehmenden können unterschiedliche Arten der Kommunikation (synchron versus asynchron) zwischen Bausteinen in Bezug auf die Bereitstellung von Daten sowie der verwendeten Formate und Protokolle (textbasierte versus binäre Protokolle) hinsichtlich der Energieeffizienz einschätzen. Sie sind in der Lage, den Einfluss von Datenkompression auf das übertragene Datenvolumen zu bewerten, und verstehen, dass eine Reduzierung der Aufrufhäufigkeit und des Datenvolumens sich positiv auf die Umweltbilanz auswirkt.
 
 [[LZ-6-3]]
 ==== LZ 6-3: Datenbankmodelle und deren Eigenschaften in Bezug auf Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und unterschiedliche Datenbanksysteme (PostgreSQL, DB2, Oracle, etc.) und können die richtige Auswahl unter dem Aspekt der Energieeffizienz treffen. Sie sind in der Lage ein geeignetes Service-Modell (self-hosting versus cloud-based managed service) für ihre Datenhaltung auszuwählen.
+Die Teilnehmenden kennen unterschiedliche Arten von Datenbankmodellen (relational, NoSQL, etc.) und unterschiedliche Datenbanksysteme und können die richtige Auswahl unter dem Aspekt der Energieeffizienz treffen. Sie sind in der Lage ein geeignetes Service-Modell (self-hosting versus cloud-based managed service) für ihre Datenhaltung auszuwählen.
 
 [[LZ-6-4]]
 ==== LZ 6-4: Spezifische Green IT Pattern kennen und anwenden 
-Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Sie kennen die Web Sustainability Guidelines des W3C zur Energieeffizienz, die beim Webdesign berücksichtigt werden müssen. Sie sind mit Strategien wie Browser-Caching, der Verwendung eines CDN und Edge-Caching vertraut und in der Lage, diese in ihren Anwendungen zu implementieren. Sie kennen unterschiedliche Dateiformate und Arten von graphischen Elementen (z. B. Animationen) und sind in der Lage deren Energieeffizienz einzuschätzen.
+Die Teilnehmenden kennen generell Muster wie beispielsweise die der Green Software Foundation, um die Energieeffizienz einer Architektur zu verbessern. Sie kennen die Web Sustainability Guidelines des W3C zur Energieeffizienz, die beim Webdesign berücksichtigt werden müssen. Sie sind mit Strategien wie Browser-Caching, der Verwendung eines CDN und Edge-Caching vertraut und in der Lage, diese in ihren Anwendungen zu implementieren.
+
+[[LZ-6-5]]
+==== LZ 6-5: KI beim Entwurf und bei der Bewertung energieeffizienter Architekturen einsetzen
+Die Teilnehmenden können KI-Werkzeuge einsetzen, um
+
+* Architekturalternativen zu erarbeiten und hinsichtlich ihrer Energieeffizienz zu vergleichen,
+* bestehende Architekturen aus Code und Konfiguration zu rekonstruieren und auf energierelevante Schwachstellen zu untersuchen (z. B. feingranulare Kommunikation mit vielen Aufrufen, fehlendes Caching, überdimensionierte Datenhaltung),
+* Architekturdokumentation und Architekturentscheidungen (z. B. ADRs) auf die Berücksichtigung von Green IT Pattern zu prüfen.
+
+Sie kennen die Grenzen dieser Unterstützung: Aussagen von KI-Werkzeugen zur Energieeffizienz sind Hypothesen, die durch Messungen (siehe <<LZ-4-2,LZ 4-2>> und <<LZ-4-3,LZ 4-3>>) zu bestätigen sind. Die Verantwortung für Architekturentscheidungen bleibt bei den Architekt:innen.
 
 // end::DE[]
 
@@ -31,11 +41,21 @@ Participants are familiar with different types of communication (synchronous ver
 
 [[LG-6-3]]
 ==== LG 6-3: Knowing database models and their characteristics in relation to energy efficiency
-Participants are familiar with different types of database models (relational, NoSQL, etc.) and different database systems (Postgres, DB2, Oracle, etc.) and can make the right choice in terms of energy efficiency. They are able to select a suitable service model (self-hosting versus cloud-based managed service) for their data storage.
+Participants are familiar with different types of database models (relational, NoSQL, etc.) and different database systems and can make the right choice in terms of energy efficiency. They are able to select a suitable service model (self-hosting versus cloud-based managed service) for their data storage.
 
 [[LG-6-4]]
 ==== LG 6-4: Knowing and applying specific Green IT patterns 
-Participants are generally familiar with patterns such as those of the Green Software Foundation to improve the energy efficiency of an architecture. They are knowledgeable with the W3C's Web Sustainability Guidelines on energy efficiency, which must be taken into account in web design. They are familiar with strategies such as browser caching, the use of a CDN and edge caching, and are able to implement these in their applications. They are familiar with different file formats and types of graphic elements (e.g. animations) and are able to assess their energy efficiency.
+Participants are generally familiar with patterns such as those of the Green Software Foundation to improve the energy efficiency of an architecture. They are knowledgeable with the W3C's Web Sustainability Guidelines on energy efficiency, which must be taken into account in web design. They are familiar with strategies such as browser caching, the use of a CDN and edge caching, and are able to implement these in their applications.
+
+[[LG-6-5]]
+==== LG 6-5: Using AI to design and evaluate energy-efficient architectures
+Participants can use AI tools to
+
+* develop architecture alternatives and compare them in terms of energy efficiency,
+* reconstruct existing architectures from code and configuration and examine them for energy-related weaknesses (e.g. fine-grained communication with many calls, missing caching, oversized data storage),
+* check architecture documentation and architecture decisions (e.g. ADRs) for the use of green IT patterns.
+
+They know the limits of this support: statements by AI tools on energy efficiency are hypotheses that must be confirmed by measurements (see <<LG-4-2,LG 4-2>> and <<LG-4-3,LG 4-3>>). The responsibility for architecture decisions remains with the architects.
 
 // end::EN[]
 

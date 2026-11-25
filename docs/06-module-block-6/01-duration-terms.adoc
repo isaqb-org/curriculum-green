@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 90 Min. | Übungszeit: 60 Min.
+| Dauer: 105 Min. | Übungszeit: 75 Min.
 |===
 
 === Begriffe und Konzepte
-Architekturstile, Monolith, Microservices, Modulith, Ereignisgesteuerte Architektur, Serverless, Inter-Prozess-Kommunikation, Datenbanken, Green IT Pattern
+Architekturstile, Monolith, Microservices, Modulith, Ereignisgesteuerte Architektur, Serverless, Inter-Prozess-Kommunikation, Datenbanken, Green IT Pattern, KI-gestützte Architekturbewertung, Architekturrekonstruktion
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 90 min | Practice time: 60 min
+| Duration: 105 min | Practice time: 75 min
 |===
 
 === Terms and Principles
-Architecture styles, monolith, microservices, modulith, Event-driven architecture, serverless, inter-process communication, databases, green IT patterns
+Architecture styles, monolith, microservices, modulith, Event-driven architecture, serverless, inter-process communication, databases, green IT patterns, AI-supported architecture evaluation, architecture reconstruction
 
 // end::EN[]
