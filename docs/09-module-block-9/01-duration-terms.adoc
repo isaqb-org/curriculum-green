@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 45 Min. | Übungszeit: keine
+| Dauer: 75 Min. | Übungszeit: 45 Min.
 |===
 
 === Begriffe und Konzepte
-Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomatisierung
+Continuous Deployment, Continuous Integration, Deployment Pipelines, Testautomatisierung, Agentic Engineering, Token-Effizienz, Kontextmanagement, Agent-Harness, Spec-Driven Development, Vibe Coding
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 45 min | Practice time: none
+| Duration: 75 min | Practice time: 45 min
 |===
 
 === Terms and Principles
-Continuous deployment, continuous integration, deployment pipelines, test automation
+Continuous deployment, continuous integration, deployment pipelines, test automation, agentic engineering, token efficiency, context management, agent harness, spec-driven development, vibe coding
 
 // end::EN[]
