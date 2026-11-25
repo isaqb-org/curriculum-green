@@ -3,7 +3,7 @@
 // tag::DE[]
 [[LZ-3-1]]
 ==== LZ 3-1: Qualitätsmodelle und deren Bezug zu Energieeffizienz kennen
-Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren. Abhängig vom Einsatzzweck und dem Mengengerüst der Anwendung können sie bewusst darüber entscheiden, ob die Qualitätskriterien für die Anwendung oder für die Optimierung des Entwicklungsprozesses angewendet werden.
+Die Teilnehmenden kennen unterschiedliche Qualitätsmodelle und können Qualitätsattribute zum Thema Energieeffizienz beschreiben und in die Qualitätsmodelle einordnen. Darüber hinaus sind die Teilnehmenden in der Lage Qualitätsszenarien für Qualitätsattribute im Bereich Energieeffizienz zu formulieren. Abhängig vom Einsatzzweck und dem Mengengerüst der Anwendung können sie bewusst darüber entscheiden, ob die Qualitätskriterien für die Anwendung oder für die Optimierung des Entwicklungsprozesses angewendet werden. Sie können Qualitätsszenarien auch für KI-Funktionen formulieren, z. B. mit Obergrenzen für den Energiebedarf oder die Zahl der Token pro Anfrage.
 
 [[LZ-3-2]]
 ==== LZ 3-2: Umgang mit den Wechselwirkungen zwischen Qualitätsattributen und Energieeffizienz
@@ -15,7 +15,7 @@ Die Teilnehmenden kennen die positiven und negativen Wechselwirkungen zwischen Q
 
 [[LG-3-1]]
 ==== LG 3-1: Knowing quality models and their relation to energy efficiency
-Participants are familiar with different quality models and can describe quality attributes relating to energy efficiency and categorise them in the quality models. In addition, participants are able to formulate quality scenarios for quality attributes in the area of energy efficiency. Depending on the intended use and the quantity structure of the application, they can consciously decide whether the quality criteria are used for the application or for the optimisation of the development process.
+Participants are familiar with different quality models and can describe quality attributes relating to energy efficiency and categorise them in the quality models. In addition, participants are able to formulate quality scenarios for quality attributes in the area of energy efficiency. Depending on the intended use and the quantity structure of the application, they can consciously decide whether the quality criteria are used for the application or for the optimisation of the development process. They can also formulate quality scenarios for AI functions, e.g. with upper limits for the energy demand or the number of tokens per request.
 
 [[LG-3-2]]
 ==== LG 3-2: Dealing with the interactions between quality attributes and energy efficiency
