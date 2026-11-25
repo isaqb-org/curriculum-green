@@ -5,30 +5,33 @@
 ==== LZ 7-1: Energieeffizienz von Rechenzentren und Hardware beziffern 
 Die Teilnehmenden können die Energieeffizienz eines Rechenzentrums einschätzen. Sie kennen die Power Usage Effectiveness (PUE) und deren Vor- und Nachteile.
 
-Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware. Sie können den Server Idle Energy Coefficient (SIEC) berechnen und einschätzen.
+Die Teilnehmenden kennen die Leistung-Last-Beziehung von Hardware.
 
-Die Teilnehmenden kennen darüber hinaus weitere Kennzahlen, darunter den Renewable Energy Factor (REF), die Carbon Usage Effectiveness (CUE) sowie die Water Usage Effectiveness (WUE). Sie können diese Kennzahlen berechnen, einschätzen und kennen Möglichkeiten zu deren Verbesserung.
+Die Teilnehmenden kennen darüber hinaus weitere Kennzahlen, darunter die Carbon Usage Effectiveness (CUE) sowie die Water Usage Effectiveness (WUE). Sie können diese Kennzahlen einordnen.
 
 [[LZ-7-2]]
 ==== LZ 7-2: Cloud Service & Deployment Modelle kennen und bezüglich Energieeffizienz beurteilen 
-Die Teilnehmenden kennen die Hauptkategorien von Cloud Computing Services (Cloud Service Modelle), insbesondere "Infrastructure as a Service", "Platform as a Service", "Software as a Service" und "Serverless". Sie können die Hauptcharakteristiken dieser Modelle benennen und abwägen wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind. In diesem Zusammenhang kennen sie die Effizienzvorteile von Containern gegenüber virtuellen Maschinen.
+Die Teilnehmenden können für die Cloud Service Modelle (IaaS, PaaS, SaaS, Serverless) abwägen, wo und wie sie sich bzgl. Energieeffizienz und CO~2~-Emissionseffizienz unterscheiden und wo sie ähnlich einzuordnen sind. In diesem Zusammenhang kennen sie die Effizienzvorteile von Containern gegenüber virtuellen Maschinen.
 
-Die Teilnehmenden kennen die verschiedenen Deployment Modelle für Cloud Umgebungen wie vor Allem "Public Cloud", "Private Cloud", "Hybrid Cloud" und klassischer On-Premise-Betrieb. Sie können aufzeigen welche Chancen und Risiken diese Varianten auf Energieeffizienz und CO~2~-Emissionseffizienz haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
+Für die Deployment Modelle (Public, Private und Hybrid Cloud sowie klassischer On-Premise-Betrieb) können sie aufzeigen, welche Chancen und Risiken diese Varianten auf Energieeffizienz und CO~2~-Emissionseffizienz haben. Dabei sind insbesondere die Energieeffizienz der Rechenzentren, die Flexibilität bei der Auswahl der Hardware, Überprovisionierung und Datenverkehr zu berücksichtigen.
 
 [[LZ-7-3]]
-==== LZ 7-3: Cloud-Anbieter nach ökologisch-nachhaltigen Aspekten bewerten und auswählen
-Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschiedenen Anbieter zu beurteilen, um diese in einer Auswahl berücksichtigen zu können. Dazu wissen sie, wie sie u. a. an folgende Informationen gelangen
+==== LZ 7-3: Cloud- und KI-Anbieter nach ökologisch-nachhaltigen Aspekten bewerten und auswählen
+Die Teilnehmenden sind in der Lage ökologisch-nachhaltige Aspekte der verschiedenen Anbieter zu beurteilen, um diese in einer Auswahl berücksichtigen zu können. Dazu wissen sie, wie sie u. a. an folgende Informationen gelangen:
 
 * Informationen zum aktuellen Stand der Emissionen eines Anbieters (z. B. Sustainability Reports, Environmental Reports).
 * Maßnahmen die Anbieter aktuell durchführen, um Emissionen zu reduzieren oder zu kompensieren.
 * Roadmap und Klimaziele der Anbieter für die Zukunft.
 * Greenwashing-Risiken der Anbieter einschätzen.
+* Angaben zum Energie- und Wasserverbrauch sowie zu den Emissionen pro Anfrage bei KI-Diensten.
 
 Außerdem kennen die Teilnehmenden die Möglichkeiten und Einschränkungen der Anbieter beim Monitoring der Emissionen aus der eigenen Ressourcennutzung wie sie durch die Carbon/Environmental Dashboards der Anbieter bereitgestellt werden.
 
+Die Teilnehmenden können diese Kriterien auf Anbieter von KI-Diensten (z. B. Modell-APIs, KI-Werkzeuge für die Softwareentwicklung) übertragen und berücksichtigen dabei auch die Wahl der Region für die Inferenz und die Möglichkeit, Modelle selbst zu betreiben.
+
 [[LZ-7-4]]
 ==== LZ 7-4: Betriebliche Antipatterns kennen
-Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B. Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung.
+Die Teilnehmenden kennen die Herausforderungen des energieeffizienten Betriebs und typische Anti-Pattern wie z. B. Überprovisionierung durch fehlendes Monitoring, fehlende Automatisierung in der Provisionierung oder ungünstige geografische Verteilung. Sie kennen auch Antipatterns beim Betrieb von KI-Funktionen, z. B. dauerhaft reservierte, kaum ausgelastete GPU-Kapazität oder nicht mehr genutzte Modell-Deployments.
 
 [[LZ-7-5]]
 ==== LZ 7-5: CO~2~-Optimierung in der Cloud vornehmen
@@ -37,11 +40,7 @@ Die Teilnehmenden kennen die Begriffe "FinOps" und "GreenOps" und verstehen die 
 * Auswahl von Zonen mit emissionsarmer Energieversorgung.
 * Ressourcen sparsam dimensionieren und erst bei Bedarf skalieren.
 * Bedarf zeitlich und örtlich bzgl. Emissionen und Ressourcenverfügbarkeit optimieren ("Time Shifting", "Location Shifting")
-* Autoscaling.
 * Nutzung effizienter Datenspeicherung (nach Zugriffsweg und -häufigkeit).
-* Reduktion bzw. Verkürzung des Netzwerkverkehrs.
-* Serverless Computing.
-* Nutzung von Managed Services.
 
 // end::DE[]
 
@@ -51,30 +50,33 @@ Die Teilnehmenden kennen die Begriffe "FinOps" und "GreenOps" und verstehen die 
 ==== LG 7-1: Quantifying the energy efficiency of data centres and hardware 
 Participants can assess the energy efficiency of a data centre. They know the Power Usage Effectiveness (PUE) and its advantages and disadvantages.
 
-Participants know the power-load relationship of hardware. They can calculate and estimate the Server Idle Energy Coefficient (SIEC).
+Participants know the power-load relationship of hardware.
 
-Participants are also familiar with other key figures, including the Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE) and Water Usage Effectiveness (WUE). They can calculate and evaluate these key figures and know how to improve them.
+Participants are also familiar with other key figures, including Carbon Usage Effectiveness (CUE) and Water Usage Effectiveness (WUE). They can classify these key figures.
 
 [[LG-7-2]]
 ==== LG 7-2: Knowing cloud service & deployment models and assessing them in terms of energy efficiency 
-Participants know the main categories of cloud computing services (cloud service models), in particular "Infrastructure as a Service", "Platform as a Service", "Software as a Service" and "Serverless". They can name the main characteristics of these models and weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar. In this context, they are aware of the efficiency advantages of containers over virtual machines.
+For the cloud service models (IaaS, PaaS, SaaS, serverless), participants can weigh up where and how they differ in terms of energy efficiency and CO~2~ emission efficiency and where they are similar. In this context, they are aware of the efficiency advantages of containers over virtual machines.
 
-Participants know the different deployment models for cloud environments, in particular "public cloud", "private cloud", "hybrid cloud" and classic on-premise operation. They can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
+For the deployment models (public, private and hybrid cloud as well as classic on-premise operation), they can demonstrate the opportunities and risks of these variants in terms of energy efficiency and CO~2~ emission efficiency. In particular, the energy efficiency of data centres, flexibility in the selection of hardware, overprovisioning and data traffic must be taken into account.
 
 [[LG-7-3]]
-==== LG 7-3: Evaluating and selecting cloud providers according to ecologically sustainable aspects
-Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others
+==== LG 7-3: Evaluating and selecting cloud and AI providers according to ecologically sustainable aspects
+Participants are able to assess ecologically sustainable aspects of the various providers in order to be able to take these into account when making a selection. To this end, they know how to obtain the following information, among others:
 
 * Information on the current status of a provider's emissions (e.g. sustainability reports, environmental reports).
 * Measures that providers are currently implementing to reduce or offset emissions.
 * Roadmap and climate targets of providers for the future.
 * Assess the greenwashing risks of providers.
+* Information on energy and water consumption and on emissions per request for AI services.
 
 In addition, participants know the possibilities and limitations of providers when monitoring emissions from their own resource use, as provided by the providers' carbon/environmental dashboards.
 
+Participants can apply these criteria to providers of AI services (e.g. model APIs, AI tools for software development). They also take into account the choice of region for inference and the option of running models themselves.
+
 [[LG-7-4]]
 ==== LG 7-4: Knowing operational antipatterns
-Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution.
+Participants are familiar with the challenges of energy-efficient operation and typical anti-patterns such as overprovisioning due to a lack of monitoring, a lack of automation in provisioning or unfavourable geographical distribution. They also know antipatterns in the operation of AI functions, e.g. permanently reserved GPU capacity with little utilisation, or model deployments that are no longer used.
 
 [[LG-7-5]]
 ==== LG 7-5: Carrying out CO~2~ optimisation in the cloud
@@ -83,11 +85,7 @@ Participants are familiar with the terms "FinOps" and "GreenOps" and understand 
 * Selecting zones with low-emission energy supply.
 * Dimensioning resources sparingly and only scaling them when required.
 * Optimising demand in terms of time and location with regard to emissions and resource availability ("time shifting", "location shifting")
-* Autoscaling.
 * Utilise efficient data storage (according to access path and frequency).
-* Reduction or shortening of network traffic.
-* Serverless computing.
-* Use of managed services.
 
 // end::EN[]
 

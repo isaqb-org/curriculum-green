@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 75 Min. | Übungszeit: 30 Min.
+| Dauer: 75 Min. | Übungszeit: 75 Min.
 |===
 
 === Begriffe und Konzepte
-Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Provider, GreenOps
+Power Usage Effectiveness (PUE), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), Service-Modelle, Deployment-Modelle, Cloud-Provider, GreenOps, KI-Dienste, Right-Sizing
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 75 min | Practice time: 30 min
+| Duration: 75 min | Practice time: 75 min
 |===
 
 === Terms and Principles
-Power Usage Effectiveness (PUE), Server Idle Energy Coefficient (SIEC), Renewable Energy Factor (REF), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), service models, deployment models, cloud provider, GreenOps
+Power Usage Effectiveness (PUE), Carbon Usage Effectiveness (CUE), Water Usage Effectiveness (WUE), service models, deployment models, cloud provider, GreenOps, AI services, right-sizing
 
 // end::EN[]
