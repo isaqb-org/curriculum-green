@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Künstliche Intelligenz und Nachhaltigkeit
+== Ressourceneffiziente KI-Systeme
 // end::DE[]
 
 // tag::EN[]
-== Artificial intelligence and sustainability
+== Resource-efficient AI systems
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
