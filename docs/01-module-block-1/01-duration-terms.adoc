@@ -1,19 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 45 Min. | Übungszeit: keine
+| Dauer: 45 Min. | Übungszeit: 15 Min.
 |===
 
 === Begriffe und Konzepte
-Klimawandel, Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachhaltigkeit, CO~2~, CO~2~-Äquivalente, CO~2~-Intensität, CO~2~-Fußabdruck, CO~2~-Handabdruck, negative externe Effekte, Watt, Joule, Effizienz, Effektivität
+Klimawandel, Verbrauch von IT, Einsparungen durch IT, Einsparungen in IT, Nachhaltigkeit, CO~2~, CO~2~-Äquivalente, CO~2~-Intensität, CO~2~-Fußabdruck, CO~2~-Handabdruck, Effizienz, Effektivität, Ressourcenbedarf von KI, KI als Hebel für Nachhaltigkeit, Netto-Effekt
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 45 min | Practice time: none
+| Duration: 45 min | Practice time: 15 min
 |===
 
 === Terms and Principles
-Climate change, consumption of IT, savings through IT, savings in IT, sustainability, CO~2~, CO~2~ equivalents, CO~2~ intensity, CO~2~ footprint, CO~2~ handprint, negative external effects, watts, joules, efficiency, effectiveness
+Climate change, consumption of IT, savings through IT, savings in IT, sustainability, CO~2~, CO~2~ equivalents, CO~2~ intensity, CO~2~ footprint, CO~2~ handprint, efficiency, effectiveness, resource requirements of AI, AI as a lever for sustainability, net effect
 
 // end::EN[]
